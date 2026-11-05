@@ -998,3 +998,264 @@ Rating	Movies	Total points	My Rating	IMDb-rating	# of qualified actors	Length	Os
 989	Stuart Little	11,9	6	5,9	8	01:24	-	Family	Animals	1999	Michael J. Fox		Rob Minkoff	English	-
 990	G.I. Jane	11,9	6	5,9	8	02:05	-	Drama	Girl power	1997	Demi Moore		Ridley Scott	English	-
 991	Stay	11,9	5	6,9	8	01:39	-	Drama	Psychological	2005	Ewan McGregor		Marc Forster	English	-
+992	Warm Bodies	11,9	5	6,9	6	01:38	-	Comedy	Zombies	2013	Nicholas Hoult		Jonathan Levine	English	
+993	Saw IV	11,9	6	5,9	6	01:33	-	Horror	Puzzle	2007	Tobin Bell		Darren Lynn Bousman	English	
+994	Hide and seek	11,9	6	5,9	5	01:41	-	Horror	Psychopath	2005	Robert de Niro		John Polson	English	
+995	Jumanji	11,9	5	6,9	5	01:44	-	Family	Animals	1995	Robin Williams		Joe Johnston	English	
+996	Free Willy	11,9	6	5,9	4	01:52	-	Family	Project	1993	Jason James Richter		Simon Wincer	English	Rädda Willy
+997	Top Gun	11,9	5	6,9	4	01:50	-	Drama	Airplane	1986	Tom Cruise	Val Kilmer	Tony Scott	English	-
+998	Call Me By Your Name	11,9	4	7,9	3	02:12	-	Romance	HBTQ	2017	Timothée Chalamet		Luca Guadagnino	English	-
+999	2012	11,8	6	5,8	17	02:38	-	Action	Disaster	2009	John Cusack		Roland Emmerich	English	
+1000	Stuck On You	11,8	6	5,8	16	01:58	-	Comedy	Odd duo	2003	Matt Damon		Peter & Bobby Farrelly	English	Fäst vid dig
+1001	Firewall	11,8	6	5,8	11	01:45	-	Thriller	Heist	2006	Harrison Ford		Richard Loncraine	English	
+1002	O Brother, Where Art Thou?	11,8	4	7,8	10	01:47	-	Comedy	Chase	2000	George Clooney		Joel & Ethan Coel	English	-
+1003	The Incredible Hulk	11,8	5	6,8	9	01:52	-	Action	Superhero	2008	Edvart Norton		Louis Leterrier	English	
+1004	Dan In Real Life	11,8	5	6,8	8	01:38	-	Comedy	Romcom	2007	Steve Carell		Peter Hedges	English	Min brors flickvän
+1005	Babe	11,8	5	6,8	7	01:31	-	Family	Animals	1995	James Cromwell		Chris Noonan	English	Babe - Den modiga lilla grisen
+1006	Deep blue sea	11,8	6	5,8	6	01:45	-	Action	Shark	1999	Thomas Jane		Thomas Carter	English	
+1007	Something New	11,8	5	6,8	5	01:39	-	Romance	Complicated love	2006	Sanaa Lathan		Sanaa Hamri	English	
+1008	Saw V	11,8	6	5,8	4	01:32	-	Horror	Puzzle	2008	Tobin Bell		David Hackl	English	
+1009	Lotta 2 - Lotta Flyttar Hemifrån	11,8	6	5,8	4	01:23	-	Family	Household	1993	Grete Havnesköld		Johanna Hald	Swedish	-
+1010	Swing Kids	11,8	5	6,8	4	01:52	-	Drama	Music	1993	Robert Sean Leonard		Thomas Carter	English	
+1011	Vingar Av Glas	11,8	6	5,8	3	01:45	-	Romance	Rascism	2000	Sara Sommerfeld		Reza Bagher	Swedish	
+1012	Paranormal Activity 3	11,8	6	5,8	0	01:23	-	Horror	Supernatural	2011	Chloe Csengery		Henry Joost	English	
+1013	The Amazing Spider-Man 2	11,7	5	6,7	16	02:22	-	Action	Superhero	2014	Andrew Garfield		Marc Webb	English	
+1014	Seeking A Friend For The End Of The World	11,7	5	6,7	12	01:41	-	Comedy	Disaster	2012	Steve Carell		Lorene Scafaria	English	
+1015	Planet Of The Apes	11,7	6	5,7	10	01:59	-	Sci-fi	Animals	2001	Mark Wahlberg		Tim Burton	English	
+1016	Shrink	11,7	5	6,7	9	01:44	-	Drama	Psychological	2009	Kevin Spacey		Jonas Pate	English	Shrink - fallet doktor Carter
+1017	The Call	11,7	5	6,7	8	01:34	-	Thriller	Hostage	2013	Halle Berry		Brad Anderson	English	
+1018	Something's Gotta Give	11,7	5	6,7	7	02:08	-	Romance	Romcom	2003	Jack Nicholson		Nancy Meyers	English	
+1019	James And The Giant Peach	11,7	5	6,7	6	01:19	-	Family	Journey	1996	Paul Terry		Henry Selick	English	
+1020	101 Dalmatians	11,7	6	5,7	5	01:43	-	Family	Animals	1996	Glenn Close		Stephen Herek	English	101 dalmatiner
+1021	The Living Daylights	11,7	5	6,7	5	02:10	-	Action	Agent	1987	Timothy Dalton		John Glen	English	
+1022	The Theory Of Everything	11,7	4	7,7	5	02:03	-	Biography	Project	2014	Eddie Redmayne		James Marsh	English	
+1023	Enough	11,7	6	5,7	5	01:55	-	Thriller	Girl power	2002	Jennifer Lopez		Michael Apted	English	
+1024	Miffo	11,7	6	5,7	3	01:45	-	Romance	Complicated love	2003	Jonas Karlsson		Daniel Lind Lagerlöf	Swedish	-
+1025	The Purge	11,7	6	5,7	2	01:25	-	Horror	Hostage	2013	Ethan Hawke		James DeMonaco	English	
+1026	Kocken	11,7	6	5,7	2	01:56	-	Drama	Food	2005	Kjell Bergqvist		Mats Arehn	Swedish	
+1027	Pet Sematary	11,7	6	5,7	2	01:41	-	Horror	Household	2019	Jason Clarke		Kevin Kölsch & Dennis Widmyer	English	Jurtjyrkogården
+1028	Final Destination	11,7	5	6,7	2	01:38	-	Horror	Splasher	2000	Devon Sawa		James Wong	English	
+1029	Världens bästa Karlsson	11,7	6	5,7	1	01:39	-	Family	Idiot	1974	Lars Söderdahl		Olle Hellbom	Swedish	Karlsson on the roof
+1030	Cleveland Abduction	11,7	5	6,7	1	01:28	-	Thriller	Hostage	2015	Taryn Manning	Raymond Cruz	Alex Kalymnios	English	-
+1031	22 July	11,7	5	6,7	0	02:23	-	Drama	Psychopath	2018	Jonas Strand Gravli		Paul Greengrass	English	-
+1032	Nils Karlsson Pyssling	11,7	6	5,7	0	01:15	-	Family	Magic	1990	Jonatan Lindoff		Staffan Götestam	Swedish	
+1033	Open Water	11,7	6	5,7	0	01:19	-	Drama	Shark	2003	Blanchard Ryan		Chris Kentis	English	
+1034	Austin Powers: The Spy Who Shagged Me	11,6	5	6,6	19	01:35	-	Comedy	Agent	1999	Mike Myers		Jay Roach	English	-
+1035	Drag Me To Hell	11,6	5	6,6	14	01:39	-	Horror	Supernatural	2009	Alison Lohman		Sam Raimi	English	-
+1036	Entourage	11,6	5	6,6	13	01:44	-	Comedy	Project	2015	Adrian Grenier		Doug Ellin	English	-
+1037	Pirates Of The Caribbean: On Stranger Tides	11,6	5	6,6	13	02:16	-	Adventure	Pirates	2011	Johnny Depp		Rob Marshall	English	Pirates Of The Caribbean: I Främmande Farvatten
+1038	Spider-Man: Far From Home	11,6	4	7,6	12	02:09	-	Action	Superhero	2019	Tom Holland	Jake Gyllenhaal	Jon Watts	English	-
+1039	Star Wars: Episode II - Attack Of The Clones	11,6	5	6,6	11	02:22	-	Sci-fi	Space	2002	Hayden Christensen		George Lucas	English	Star Wars: Episod II - Klonerna anfaller
+1040	The Lion King 1 1/2	11,6	5	6,6	9	01:17	-	Animation	Animals	2004	Nathan Lane		Bradley Raymond	English	The Lion King 3: Hakuna Matata
+1041	Quantum Of Solace	11,6	5	6,6	8	01:46	-	Action	Agent	2008	Daniel Craig		Marc Forster	English	
+1042	The Polar Express	11,6	5	6,6	8	01:40	-	Animation	Christmas	2004	Tom Hanks	-	Robert Zemeckis	English	Polarexpressen
+1043	Poseidon	11,6	6	5,6	6	01:38	-	Drama	Disaster	2006	Richard Dreyfuss		Wolfgang Petersen	English	
+1044	Home Alone 2: Lost In New York	11,6	5	6,6	5	02:00	-	Family	Christmas	1992	Macaulay Culkin		Chris Columbus	English	
+1045	Eurovision Song Contest: The Story Of Fire Saga	11,6	5	6,6	4	02:03	-	Comedy	Music	2020	Will Ferrell	Mikael Persbrandt	David Dobkin	English	-
+1046	Saw 3D	11,6	6	5,6	4	01:30	-	Horror	Puzzle	2010	Tobin Bell		Kevin Greutert	English	
+1047	Good Luck Chuck	11,6	6	5,6	2	01:36	-	Comedy	Sex	2007	Dane Cook		Mark Helfrich	English	
+1048	My big fat greek wedding	11,6	5	6,6	0	01:35	-	Comedy	Wedding	2002	Nia Vardalos		Joel Zwick	English	
+1049	Contraband	11,5	5	6,5	16	01:49	-	Action	Drugs	2012	Mark Wahlberg		Baltasar Kormákur	English	-
+1050	Get Smart	11,5	5	6,5	16	01:50	-	Comedy	Agent	2008	Steve Carell		Peter Segal	English	
+1051	Star Wars: Episode I - The Phantom Menace	11,5	5	6,5	15	02:16	-	Sci-fi	Space	1999	Ewan McGregor		George Lucas	English	Star Wars: Episod I - Det mörka hotet
+1052	Showtime	11,5	6	5,5	13	01:35	-	Comedy	TV-show	2002	Robert de Niro		Tom Dey	English	-
+1053	Olympus Has Fallen	11,5	5	6,5	12	01:59	-	Action	US Government	2013	Gerard Butler		Antoine Fuqua	English	
+1054	The Lost World: Jurassic Park	11,5	5	6,5	12	02:09	-	Adventure	Dinosaurs	1997	Jeff Goldblum		Steven Spielberg	English	Jurassic Park 2
+1055	The Hangover Part II	11,5	5	6,5	10	01:42	-	Comedy	Party	2011	Bradley Cooper		Todd Phillips	English	Baksmällan del 2
+1056	Daddy Day Care	11,5	6	5,5	9	01:32	-	Family	Career	2003	Eddie Murphy		Steve Carr	English	Dagispapporna
+1057	You Don't Mess With The Zohan	11,5	6	5,5	8	01:53	-	Comedy	Agent	2008	Adam Sandler		Dennis Dugan	English	Jiddra inte med Zohan
+1058	Couples Retreat	11,5	6	5,5	8	01:53	-	Comedy	Vacation	2009	Vince Vaughn		Peter Billingsley	English	Trubbel i paradiset
+1059	Snakes On A Plane	11,5	6	5,5	8	01:45	-	Thriller	Airplane	2006	Samuel L. Jackson		David R. Ellis	English	-
+1060	RV	11,5	6	5,5	8	01:39	-	Comedy	Vacation	2006	Robin Williams		Barry Sonnenfeld	English	En familj på väg
+1061	Runaway Bride	11,5	6	5,5	7	01:56	-	Romance	Wedding	1999	Julia Roberts		Garry Marshall	English	
+1062	En Underbar Jävla Jul	11,5	6	5,5	5	01:48	-	Comedy	Christmas	2015	Robert Gustafsson		Helena Bergström	Swedish	Holy Mess
+1063	Revolver	11,5	5	6,5	4	01:51	-	Action	Puzzle	2005	Jason Statham		Guy Ritchie	English	
+1064	Beverly Hills Cop III	11,5	6	5,5	4	01:44	-	Action	Police	1994	Eddie Murphy		John Landis	English	Snuten i Hollywood III
+1065	Jenny's Wedding	11,5	6	5,5	2	01:34	-	Drama	HBTQ	2015	Katherine Heigl		Mary Agnes Donoghue	English	-
+1066	Home On The Range	11,4	6	5,4	17	01:16	-	Animation	Animals	2004	Roseanne Barr	Randy Quaid	Will Finn / John Sanford	English	-
+1067	White House Down	11,4	5	6,4	16	02:11	-	Action	US Government	2013	Channing Tatum		Roland Emmerich	English	
+1068	Godzilla	11,4	5	6,4	15	02:03	NO	Action	Disaster	2014	Aaron Taylor-Johnson	-	Gareth Edwards	English	-
+1069	American Pie 2	11,4	5	6,4	14	01:48	-	Comedy	Party	2001	Jason Biggs		J.B. Rogers	English	
+1070	The Longest Yard	11,4	5	6,4	12	01:53	-	Comedy	Prison	2005	Adam Sandler		Peter Segal	English	Benknäckargänget - Krossa Dem
+1071	Drömkåken	11,4	6	5,4	9	01:41	-	Comedy	Project	1993	Björn Skifs		Peter Dalle	Swedish	
+1072	Spy Kids	11,4	6	5,4	8	01:28	-	Family	Agent	2001	Alexa PenaVega		Robert Rodriguez	English	-
+1073	Mickey, Donald, Goofy: the three musketeers	11,4	5	6,4	7	01:08	-	Animation	Parody	2004	Wayne Allwine		Donovan Cook	English	Musse, Kalle och Långben - De tre musketörerna
+1074	Big Fat Liar	11,4	6	5,4	6	01:28	-	Family	Revenge	2002	Frankie Muniz		Shawn Levy	English	
+1075	The Ring Two	11,4	6	5,4	6	01:50	-	Horror	Supernatural	2005	Naomi Watts		Hideo Nakata	English	The ring 2
+1076	17 Again	11,4	5	6,4	5	01:42	-	Comedy	Transformation	2009	Zac Efron		Burr Steers	English	-
+1077	Beta house	11,4	6	5,4	2	01:25	-	Comedy	Party	2007	John White		Andrew Waller	English	
+1078	Monsters	11,4	5	6,4	1	01:34	-	Drama	Journey	2010	Scoot McNairy		Gareth Edwards	English	
+1079	Ted 2	11,3	5	6,3	21	01:55	-	Comedy	Toys	2015	Mark Wahlberg		Seth MacFarlane	English	
+1080	Mars Attacks!	11,3	5	6,3	14	01:46	-	Comedy	Aliens	1996	Jack Nicholson		Tim Burton	English	
+1081	Maze Runner: The Scorch Trials	11,3	5	6,3	9	02:11	-	Sci-fi	Puzzle	2015	Dylan O'Brien		Wes Ball	English	
+1082	Neighbors	11,3	5	6,3	8	01:37	-	Comedy	Neighbour	2014	Seth Rogen		Nicholas Stoller	English	Bad Neighbors
+1083	The Princess Diaries	11,3	5	6,3	8	01:51	-	Comedy	Monarchy	2001	Anne Hathaway		Garry Marshall	English	En prinsessas dagbok
+1084	Taken 2	11,3	5	6,3	7	01:32	-	Action	Lone protagonist	2012	Liam Neeson		Olivier Megaton	English	
+1085	John Wick	11,3	4	7,3	6	01:41	-	Action	Revenge	2014	Keanu Reeves		Chad Stahelski	English	
+1086	The Tigger Movie	11,3	5	6,3	4	01:17	-	Animation	Animals	2000	Jim Cummings		Jun Falkenstein	English	Tigers film
+1087	Odödliga	11,3	5	6,3	2	01:46	-	Romance	Journey	2015	Filip Berg		Andreas Öhman	Swedish	
+1088	Lights Out	11,3	5	6,3	2	01:21	-	Horror	Supernatural	2016	Teresa Palmer		David F. Sandberg	English	
+1089	The Shallows	11,3	5	6,3	1	01:26	-	Horror	Shark	2016	Blake Lively		Jaume Collet-Serra	English	
+1090	Escape Room	11,3	5	6,3	0	01:39	-	Horror	Puzzle	2019	Taylor Russell	-	Adam Robitel	English	-
+1091	Seeking Justice	11,2	5	6,2	19	01:45	-	Action	Revenge	2011	Nicolas Cage		Roger Donaldson	English	-
+1092	Austin Powers In Goldmember	11,2	5	6,2	18	01:34	-	Comedy	Agent	2002	Mike Myers		Jay Roach	English	
+1093	Livet är en schlager	11,2	6	5,2	10	01:48	-	Comedy	Music	2000	Helena Bergström		Susanne Bier	Swedish	
+1094	Ali G Indahouse	11,2	5	6,2	7	01:25	-	Comedy	Idiot	2002	Sacha Baron Cohen		Mark Mylod	English	
+1095	Inferno	11,2	5	6,2	6	02:01	-	Adventure	Race against time	2016	Tom Hanks		Ron Howard	English	
+1096	Blade Runner	11,2	3	8,2	5	01:57	-	Sci-fi	Robots	1982	Harrison Ford		Ridley Scott	English	-
+1097	Grimsby	11,2	5	6,2	5	01:23	-	Comedy	Odd duo	2016	Sacha Baron Cohen		Louis Leterrier	English	
+1098	Sandor Slash Ida	11,2	6	5,2	2	01:33	-	Romance	Theatre	2005	Andrej Lunusjkin		Henrik Georgsson	Swedish	
+1099	Don't Breathe	11,2	4	7,2	1	01:28	-	Horror	Heist	2016	Stephen Lang		Fede Alvarez	English	
+1100	Final Destination 2	11,2	5	6,2	1	01:30	-	Horror	Splasher	2003	A.J. Cook		David R. Ellis	English	
+1101	Eva & Adam - Fyra Födelsedagar Och Ett Fiasko	11,2	6	5,2	0	01:40	-	Romance	Party	2001	Ellen Fjaestad		Catti Edfeldt	Swedish	
+1102	Tomorrow, When The War Began	11,2	5	6,2	0	01:43	-	Action	War	2010	Caitlin Stasey		Stuart Beattie	English	
+1103	Jungledyret	11,2	5	6,2	0	01:13	-	Animation	Odd duo	1993	Jesper Klein	-	Stefan Fjeldmark	Danish	Hugo - Djungeldjuret
+1104	How The Grinch Stole Christmas	11,1	5	6,1	17	01:44	-	Comedy	Christmas	2000	Jim Carrey		Ron Howard	English	Grinchen - julen är här
+1105	When a stranger calls	11,1	6	5,1	8	01:27	-	Horror	Psychopath	2006	Camilla Belle		Simon West	English	-
+1106	Annihilation	11,1	4	7,1	6	01:55	-	Adventure	Aliens	2018	Natalie Portman		Alex Garland	English	-
+1107	Se Upp För Dårarna	11,1	6	5,1	6	01:43	-	Drama	Girl power	2007	Rakel Wärmländer		Helena Bergström	Swedish	Mind The Gap
+1108	Spirit: Stallion Of The Cimarron	11,1	4	7,1	5	01:23	-	Animation	Animals	2002	Matt Damon		Kelly Asbury	English	Spirit: Hästen från vildmarken
+1109	Bronson	11,1	4	7,1	1	01:32	-	Biography	Prison	2008	Tom Hardy		Nicolas Winding Refn	English	
+1110	Aquaman	11,0	4	7,0	10	02:23	-	Action	Superhero	2018	Jason Momoa		James Wan	English	-
+1111	Baby Mama	11,0	5	6,0	9	01:39	-	Comedy	Household	2008	Tina Fey		Michael McCullers	English	-
+1112	Mr. Popper's Penguins	11,0	5	6,0	9	01:34	-	Comedy	Animals	2011	Jim Carrey		Mark Waters	English	Poppers pingviner
+1113	Agent Cody Banks	11,0	6	5,0	6	01:42	-	Action	Agent	2003	Frankie Muniz		Harald Zwart	English	
+1114	The rite	11,0	5	6,0	5	01:54	-	Horror	Possession	2011	Anthony Hopkins		Mikael Håfström	English	Ritualen
+1115	Scooby-Doo	11,0	6	5,0	5	01:26	-	Family	Monster	2002	Matthew Lillard		Raja Gosnell	English	
+1116	The Tourist	11,0	5	6,0	5	01:43	-	Action	Agent	2010	Johnny Depp		Florian Henckel von Donnersmarck	English	
+1117	What dreams may come	11,0	4	7,0	4	01:53	-	Romance	Search	1998	Robin Williams		Vincent Ward	English	Drömmarnas värld
+1118	Underbar Och Älskad Av Alla	11,0	6	5,0	2	01:46	-	Comedy	Theatre	2007	Martina Haag		Hannes Holm	Swedish	
+1119	All inclusive	11,0	5	6,0	0	01:30	-	Comedy	Vacation	2014	Carsten Björnlund		Hella Joof	Danish	
+1120	After Earth	10,9	6	4,9	4	01:40	-	Sci-fi	Lone protagonist	2013	Jaden Smith		M. Night Shyamalan	English	
+1121	Patrik 1,5	10,9	4	6,9	3	01:43	-	Comedy	HBTQ	2008	Torkel Pettersson		Ella Lemhagen	Swedish	-
+1122	Tsatsiki, morsan och polisen	10,9	5	5,9	2	01:31	-	Family	Household	1999	Samuel Haus		Ella Lemhagen	Swedish	
+1123	Battleship	10,8	5	5,8	17	02:11	-	Action	Aliens	2012	Alexander Skarsgård		Peter Berg	English	-
+1124	Bert - Den Siste Oskulden	10,8	5	5,8	8	01:40	-	Comedy	Sex	1995	Martin Andersson		Tomas Alfredson	Swedish	
+1125	Super	10,8	4	6,8	7	01:36	-	Comedy	Superhero	2010	Rainn Wilson		James Gunn	English	
+1126	Jönssonligan på Mallorca	10,8	5	5,8	3	01:41	-	Comedy	Heist	1989	Gösta Ekman		Mikael Ekman	Swedish	
+1127	Jonah Hex	10,7	6	4,7	14	01:21	-	Western	Lone protagonist	2010	Josh Brolin		Jimmy Hayward	English	-
+1128	Popstar: Never Stop Never Stopping	10,7	4	6,7	11	01:27	-	Comedy	Music	2016	Adam Samberg		Akiva Schaffer	English	-
+1129	Downsizing	10,7	5	5,7	10	02:15	-	Sci-fi	Community	2017	Matt Damon		Alexander Payne	English	-
+1130	Fantastic Four	10,7	5	5,7	9	01:46	-	Action	Superhero	2005	Ioan Gruffudd		Tim Story	English	-
+1131	Deuce Bigalow: Male Gigolo	10,7	5	5,7	8	01:28	-	Comedy	Sex	1999	Rob Schneider		Mike Mitchell	English	Hollywood gigolo
+1132	The Cloverfield Paradox	10,7	5	5,7	7	01:42	-	Sci-fi	Space	2018	Gugu Mbatha-Raw		Julius Onah	English	-
+1133	Cockpit	10,7	5	5,7	3	01:36	-	Comedy	Disguise	2012	Jonas Karlsson		Mårten Klingberg	Swedish	
+1134	Lotta på Bråkmakargatan	10,7	5	5,7	2	01:14	-	Family	Lone protagonist	1992	Grete Havnesköld		Johanna Hald	Swedish	
+1135	Gledelig Jul	10,7	5	5,7	1	01:30	-	Comedy	Christmas	2020	Anne Marit Jacobsen	-	Henrik Martin Dahlsbakken	Norwegian	Another Happy Christmas
+1136	Cube zero	10,7	5	5,7	0	01:37	-	Sci-fi	Puzzle	2004	Zachary Bennett		Ernie Barbarash	English	
+1137	Gekijô-ban poketto monsutâ: Kesshô-tô no teiô	10,7	5	5,7	0	01:33	-	Animation	Anime	2000	Rica Matsumoto		Michael Haigney	Japanese	
+1138	Barnyard	10,6	5	5,6	16	01:30	-	Animation	Animals	2006	Kevin James		Steve Oedekerk	English	Bondgården
+1139	Dumb And Dumber To	10,6	5	5,6	9	01:49	-	Comedy	Journey	2014	Jim Carrey		Peter & Bobby Farrelly	English	
+1140	I am Sam	10,6	3	7,6	8	02:12	-	Drama	Idiot	2001	Sean Penn		Jessie Nelson	English	-
+1141	The Pink Panther 2	10,6	5	5,6	7	01:32	-	Comedy	Police	2009	Steve Martin		Harald Zwart	English	
+1142	Ma	10,6	5	5,6	5	01:39	-	Horror	Party	2019	Diana Silvers	Octavia Spencer	Tate Taylor	English	-
+1143	The stepfather	10,6	5	5,6	2	01:41	-	Thriller	Household	2009	Penn Badgley		Nelson McCormick	English	
+1144	Never back down	10,6	4	6,6	2	01:50	-	Action	Boxing	2008	Sean Faris		Jeff Wadlow	English	
+1145	Tur & Retur	10,6	5	5,6	2	01:29	-	Family	Disguise	2003	Amanda Davin		Ella Lemhagen	Swedish	
+1146	Grabben i graven bredvid	10,6	5	5,6	1	01:34	-	Romance	Complicated love	2002	Michael Nyqvist		Kjell Sundvall	Swedish	
+1147	House at the end of the street	10,6	5	5,6	1	01:41	-	Horror	Friendship	2012	Jennifer Lawrence		Mark Tonderai	English	
+1148	Snowroller - Sällskapsresan II	10,6	4	6,6	1	01:31	-	Comedy	Vacation	1985	Lasse Åberg		Lasse Åberg	Swedish	
+1149	Cube 2: Hypercube	10,6	5	5,6	0	01:34	-	Sci-fi	Puzzle	2002	Kari Matchett		Andrzej Sekula	English	
+1150	The Day The Earth Stood Still	10,5	5	5,5	13	01:44	-	Drama	Aliens	2008	Keanu Reeves		Scott Derrickson	English	-
+1151	Alice In Wonderland	10,5	4	6,5	13	01:48	-	Fantasy	Alternate Universe	2010	Mia Wasikowska		Tim Burton	English	
+1152	Volcano	10,5	5	5,5	12	01:44	-	Action	Disaster	1997	Tommy Lee Jones		Mick Jackson	English	-
+1153	The Hot Chick	10,5	5	5,5	9	01:44	-	Comedy	Transformation	2002	Rob Schneider		Tom Brady	English	
+1154	Scary Movie 3	10,5	5	5,5	8	01:24	-	Comedy	Parody	2003	Anna Faris		David Zucker	English	
+1155	The Omen	10,5	5	5,5	5	01:50	-	Horror	Religion	2006	Liev Schreiber		John Moore	English	
+1156	Mean Machine	10,5	4	6,5	5	01:39	-	Comedy	Prison	2001	Vinnie Jones		Barry Skolnick	English	
+1157	The Duff	10,5	4	6,5	3	01:41	-	Comedy	School	2015	Mae Whitman		Ari Sandel	English	
+1158	Hundtricket - The Movie	10,5	5	5,5	3	01:46	-	Comedy	Romcom	2002	Linus Walhgren		Christian Eklöw	Swedish	
+1159	Klassfesten	10,5	5	5,5	2	01:43	-	Comedy	Party	2002	Mikael Almqvist		Måns Herngren	Swedish	
+1160	Severance	10,5	4	6,5	1	01:36	-	Horror	Splasher	2006	Danny Dyer		Christopher Smith	English	
+1161	Tarzan & Jane	10,4	5	5,4	4	01:15	-	Animation	Jungle	2002	Michael T. Weiss		Steve Loter	English	Tarzan och Jane
+1162	Annabelle	10,4	5	5,4	3	01:39	-	Horror	Toys	2014	Ward Horton		John R. Leonetti	English	
+1163	Hata Göteborg	10,4	5	5,4	0	01:22	-	Comedy	Soccer	2007	Andreas Karoliussen		Robert Lillhonga	Swedish	
+1164	Det forsömte forår	10,4	3	7,4	0	01:29	-	Drama	School	1993	Fritz Helmuth		Peter Schröder	Danish	
+1165	Jack The Giant Slayer	10,3	4	6,3	15	01:54	-	Fantasy	Alternate Universe	2013	Nicholas Hoult		Bryan Singer	English	
+1166	Hamilton: I Nationens Intresse	10,3	4	6,3	10	01:49	-	Action	Agent	2012	Mikael Persbrandt		Kathrine Windfeld	Swedish	
+1167	Nutty professor II: The Klumps	10,3	6	4,3	7	01:46	-	Comedy	Household	2000	Eddie Murphy		Peter Segal	English	Den galna professorn 2: Klumps
+1168	The Internship	10,3	4	6,3	7	01:59	-	Comedy	Old timers	2013	Owen Wilson		Shawn Levy	English	
+1169	The Circle	10,3	5	5,3	6	01:50	-	Drama	Technology	2017	Emma Watson		James Ponsoldt	English	
+1170	Svensson Svensson - filmen	10,3	5	5,3	4	01:21	-	Comedy	Household	1997	Allan Svensson		Björn Gunnarsson	Swedish	
+1171	Sommaren med Göran	10,3	5	5,3	3	01:37	-	Romance	Romcom	2009	Peter Magnusson		Staffan Lindberg	Swedish	
+1172	Hip hip hora!	10,3	5	5,3	2	01:30	-	Drama	Party	2004	Amanda Renberg		Teresa Fabik	Swedish	
+1173	Pistvakt	10,3	5	5,3	2	01:31	-	Comedy	Community	2005	Lennart Jähkel		Stephan Apelgren	Swedish	
+1174	I Spit On Your Grave	10,3	4	6,3	2	01:48	-	Horror	Girl power	2010	Sarah Butler		Steven R. Monroe	English	-
+1175	High school musical	10,3	5	5,3	1	01:38	-	Musical	School	2006	Zac Efron		Kenny Ortega	English	
+1176	Spy Kids 3: Game Over	10,2	6	4,2	10	01:24	-	Action	Video game	2003	Daryl Sabara		Robert Rodriguez	English	
+1177	Winter's Bone	10,2	3	7,2	5	01:40	-	Drama	Drugs	2010	Jennifer Lawrence		Debra Granik	English	
+1178	Doom	10,2	5	5,2	5	01:45	-	Horror	Video game	2005	Karl Urban		Andrzej Bartkowiak	English	
+1179	National Lampoon's European vacation	10,2	4	6,2	4	01:35	-	Comedy	Vacation	1985	Chevy Chase		Amy Heckerling	English	
+1180	Air Bud	10,2	5	5,2	4	01:38	-	Family	Animals	1997	Michael Jeter		Charles Martin Smith	English	Air Bud - Vilken lirare!
+1181	Twilight	10,2	5	5,2	3	02:02	-	Fantasy	Vampires	2008	Kristen Stewart		Catherine Hardwicke	English	
+1182	Ciao Bella	10,2	5	5,2	2	01:26	-	Drama	Friendship	2007	Poyan Karimi		Mani Maserrat Agah	Swedish	
+1183	Cats & Dogs	10,1	5	5,1	11	01:27	-	Family	Animals	2001	Alec Baldwin		Lawrence Guterman	English	Som hund och katt
+1184	Birds Of Prey: And The Fantabulous Emancipation Of One Harley Quinn	10,1	4	6,1	9	01:49	-	Action	Psychopath	2020	Margot Robbie	Ewan McGregor	Cathy Yan	English	Birds Of Prey
+1185	Spy Kids 2: The Island Of Lost Dreams	10,1	5	5,1	9	01:40	-	Family	Agent	2002	Alexa PenaVega		Robert Rodriguez	English	Spy Kids 2: De förlorade drömmarnas ö
+1186	Eragon	10,1	5	5,1	9	01:44	-	Fantasy	Epic	2006	Ed Speleers		Stefen Fangmeier	English	
+1187	Insidious: Chapter 3	10,1	4	6,1	6	01:37	-	Horror	Supernatural	2015	Dermot Mulroney		Leigh Whannell	English	
+1188	Naken	10,1	5	5,1	2	01:34	-	Comedy	Repeating day	2000	Henrik Norberg		Mårten & Torkel Knutsson	Swedish	
+1189	American pie: the naked mile	10,1	5	5,1	2	01:37	-	Comedy	Party	2006	John White		Joe Nossbaum	English	
+1190	I Now Pronounce You Chuck & Larry	10,0	4	6,0	14	01:55	-	Comedy	Odd duo	2007	Adam Sandler		Dennis Dugan	English	Härmed förklarar jag er Chuck & Larry
+1191	Garfield	10,0	5	5,0	9	01:20	-	Animation	Animals	2004	Breckin Meyer		Peter Hewitt	English	Gustaf
+1192	Bröllopsfotografen	10,0	4	6,0	4	01:53	-	Comedy	Wedding	2009	Björn Starrin		Ulf Malmros	Swedish	
+1193	Unhinged	10,0	4	6,0	4	01:30	-	Thriller	Psychopath	2020	Caren Pistorius	Russell Crowe	Derrick Borte	English	-
+1194	Stjärnsystrar	10,0	5	5,0	1	01:15	-	Family	Friendship	1999	Teresa Niva	-	Tobias Falk	Swedish	-
+1195	Grown Ups	9,9	4	5,9	9	01:42	-	Comedy	Vacation	2010	Adam Sandler		Dennis Dugan	English	-
+1196	Sprängaren	9,9	5	4,9	8	02:08	-	Thriller	Police	2001	Helena Bergström		Colin Nutley	Swedish	The Bomber
+1197	Napoleon Dynamite	9,9	3	6,9	2	01:36	-	Comedy	Idiot	2004	Jon Heder		Jared Hess	English	
+1198	The Possession	9,9	4	5,9	2	01:32	-	Horror	Possession	2012	Natasha Calis		Ole Bornedal	English	
+1199	Chicken Little	9,8	4	5,8	17	01:21	-	Animation	Aliens	2005	Zach Braff		Mark Dindal	English	Den lilla kycklingen
+1200	Herbie Fully Loaded	9,8	5	4,8	8	01:41	-	Comedy	Racing	2005	Lindsay Lohan		Angela Robinson	English	Herbie fulltankad
+1201	Monte Carlo	9,8	4	5,8	4	01:49	-	Comedy	Vacation	2011	Selena Gomez		Thomas Bezucha	English	-
+1202	Pelle Svanslös och den stora skattjakten	9,8	5	4,8	3	01:33	-	Family	Treasure hunt	2000	Björn Kjellman		Mikael Ekman	Swedish	
+1203	Brüno	9,8	4	5,8	3	01:21	-	Comedy	HBTQ	2009	Sacha Baron Cohen		Larry Charles	English	
+1204	Final Destination 3	9,8	4	5,8	3	01:33	-	Horror	Splasher	2006	Mary Elizabeth Winstead		James Wong	English	
+1205	Bombay dreams	9,8	5	4,8	2	01:31	-	Drama	Search	2004	Gayathri Mudigonda		Lena Koppel	Swedish	
+1206	Journey to the centre of the Earth	9,8	4	5,8	2	01:33	-	Adventure	Journey	2008	Brendan Fraser		Eric Brevig	English	
+1207	Let It Snow	9,8	4	5,8	2	01:32	-	Comedy	Christmas	2019	Isabela Merced	-	Luke Snellin	English	-
+1208	The Witch: A New England Folktale	9,8	3	6,8	2	01:32	-	Horror	Household	2015	Anya Taylor-Joy		Robert Eggers	English	
+1209	Troll	9,8	4	5,8	0	01:41	-	Adventure	Monster	2022	Ine Marie Wilmann	-	Roar Uthaug	Norwegian	-
+1210	101 Dalmatians II: Patch's London Adventure	9,7	4	5,7	9	01:14	-	Family	Journey	2003	Barry Bostwick		Jim Kammerud	English	101 dalmatiner 2: Tuffs äventyr i London
+1211	En Gång I Phuket	9,7	4	5,7	7	01:45	-	Romance	Romcom	2011	Peter Magnusson		Staffan Lindberg	Swedish	
+1212	Money Train	9,6	4	5,6	9	01:50	-	Action	Heist	1995	Woody Harrelson		Joseph Ruben	English	
+1213	Paranormal activity: The ghost dimension	9,6	5	4,6	1	01:28	-	Horror	Supernatural	2015	Chris J. Murray		Gregory Plotkin	English	
+1214	Little Fockers	9,5	4	5,5	17	01:38	-	Comedy	Household	2010	Ben Stiller		Paul Weitz	English	
+1215	Kim Novak Badade Aldrig I Genesarets Sjö	9,5	3	6,5	3	01:35	-	Drama	Vacation	2005	Anton Lundqvist		Martin Asphaug	Swedish	Kim Novak Never Swam In Genesaret's Lake
+1216	The Dictator	9,4	3	6,4	14	01:23	-	Comedy	Idiot	2012	Sacha Baron Cohen		Larry Charles	English	
+1217	Lilla Jönssonligan Och Cornflakeskuppen	9,4	5	4,4	1	01:30	-	Family	Heist	1996	Kalle Eriksson		Christjan Wegner	Swedish	
+1218	7 Miljonärer	9,3	5	4,3	5	01:34	-	Comedy	Money	2006	Suzanne Reuter		Michael Hjorth	Swedish	-
+1219	G - som i gemenskap	9,3	4	5,3	2	01:49	-	Drama	Self improvement	1983	Niclas Wahlgren		Staffan Hildebrand	Swedish	-
+1220	Jurassic World: Fallen Kingdom	9,2	3	6,2	11	02:08	-	Adventure	Dinosaurs	2018	Chris Pratt		J.A. Bayona	English	-
+1221	Ghost Rider	9,2	4	5,2	9	01:54	-	Action	Superhero	2007	Nicolas Cage		Mark Steven Johnson	English	-
+1222	Mortal Engines	9,2	3	6,2	7	02:08	-	Sci-fi	Future	2018	Hera Hilmar		Christian Rivers	English	-
+1223	The Final Destination	9,2	4	5,2	2	01:22	-	Horror	Splasher	2009	Nick Zano		David R. Ellis	English	The Final Destination 3D
+1224	The Passion Of The Christ	9,2	2	7,2	1	02:07	-	Drama	Religion	2004	Jim Caviezel		Mel Gibson	Hebrew	
+1225	Kvarteret Skatan Reser Till Laholm	9,2	4	5,2	1	01:24	-	Comedy	Vacation	2012	Johan Glans		Mikael Syrén	Swedish	
+1226	Stormbreaker	9,1	4	5,1	9	01:33	-	Action	Agent	2006	Alex Pettyfer		Geoffrey Sax	English	
+1227	San Andreas	9,1	3	6,1	5	01:54	-	Action	Disaster	2015	Dwayne Johnson		Brad Peyton	English	
+1228	Fifty Shades Of Grey	9,1	5	4,1	5	02:05	-	Drama	Sex	2015	Dakota Johnson		Sam Taylor-Johnson	English	
+1229	The Amityville Horror	9,0	3	6,0	4	01:30	-	Horror	Supernatural	2005	Ryan Reynolds		Andrew Douglas	English	
+1230	Icebreaker	9,0	5	4,0	2	01:30	-	Action	Hostage	2000	Sean Astin		David Giancola	English	
+1231	Carrie	8,9	3	5,9	6	01:40	-	Horror	Supernatural	2013	Chloë Grace Moretz		Kimberly Peirce	English	
+1232	Bernie	8,8	2	6,8	2	01:39	-	Biography	Odd duo	2011	Jack Black		Richard Linklater	English	
+1233	Rallybrudar	8,8	4	4,8	2	01:39	-	Comedy	Racing	2008	Eva Röse		Lena Koppel	Swedish	
+1234	Green Street Hooligans 2	8,8	4	4,8	1	01:34	-	Drama	Prison	2009	John Bariamis		Jesse V. Johnson	English	
+1235	I Love You Phillip Morris	8,6	2	6,6	17	01:38	-	Biography	HBTQ	2009	Jim Carrey		Glenn Ficarra	English	-
+1236	Paranormal Activity 4	8,6	4	4,6	2	01:28	-	Horror	Supernatural	2012	Stephen Dunham		Henry Joost	English	
+1237	Dag Och Natt	8,5	2	6,5	8	01:35	-	Drama	Lone protagonist	2004	Mikael Persbrandt		Simon Staho	Swedish	
+1238	Jason X	8,4	4	4,4	2	01:31	-	Sci-fi	Splasher	2001	Kane Hodder		James Isaac	English	
+1239	Independence Day: Resurgence	8,2	3	5,2	10	02:00	-	Sci-fi	Aliens	2016	Liam Hemsworth		Roland Emmerich	English	-
+1240	American pie: band camp	8,1	3	5,1	1	01:27	-	Comedy	Party	2005	Eugene Levy		Steve Rash	English	
+1241	Bäst före	8,0	3	5,0	4	01:41	-	Drama	Old timers	2013	Brasse Brännström		Mats Arehn	Swedish	
+1242	Tillbaka Till Bromma	7,5	3	4,5	2	01:34	-	Comedy	Community	2014	Peter Magnusson		Martin Persson	Swedish	
+1243	Man of the house	7,4	2	5,4	1	01:40	-	Comedy	Police	2005	Tommy Lee Jones		Stephen Herek	English	
+1244	A Good Day To Die Hard	7,3	2	5,3	8	01:38	-	Action	Agent	2013	Bruce Willis		John Moore	English	
+1245	Bröderna Karlsson	7,1	2	5,1	3	01:40	-	Comedy	Odd duo	2010	Björn Bengtsson		Kjell Sundvall	Swedish	
+1246	Paranormal activity: the marked ones	7,0	2	5,0	1	01:24	-	Horror	Supernatural	2014	Andrew Jacobs		Christopher Landon	English	
+1247	Mammas pojkar	6,7	2	4,7	2	01:40	-	Comedy	Household	2012	Lotta Tejle		Ulf Malmros	Swedish	
+1248	Sharknado	6,3	3	3,3	2	01:26	-	Comedy	Shark	2013	Ian Ziering		Anthony C. Ferrante	English	
+1249	Lilla Jönssonligan På Kollo	5,9	3	2,9	4	01:27	-	Family	Heist	2004	Conrad Cronheim		Christjan Wegner	Swedish	
+1250	Vi Hade I Alla Fall Tur Med Vädret Igen!	5,9	2	3,9	3	01:35	-	Comedy	Vacation	2008	Rolf Skoglund		Kjell-Åke Andersson	Swedish	
+1251	Åsa-Nisse - Wälkom To Knohult	4,4	1	3,4	7	01:29	-	Comedy	Idiot	2011	Kjell Bergqvist		Fredrik Boklund	Swedish	
+1252	Göta kanal 3 - Kanalkungens hemlighet	3,5	1	2,5	0	01:32	-	Comedy	Racing	2009	Janne Carlsson		Christjan Wegner	Swedish	
