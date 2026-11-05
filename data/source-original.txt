@@ -1,0 +1,1000 @@
+JOHAN'S COMPLETE MOVIE RATING DATABASE
+
+Contents: all movie entries and all supplied fields, preserved in the original tab-separated format.
+Fields: Rating (rank), Movies (title), Total points, My Rating, IMDb-rating, # of qualified actors, Length, Oscars, Genre, Sub-genre, Year, Main star, Main antagonist, Director, Language, Translated title.
+Entries: 1,253 movie rows. Original ranking values and source data are preserved as provided.
+
+--- ORIGINAL DATA ---
+Rating	Movies	Total points	My Rating	IMDb-rating	# of qualified actors	Length	Oscars	Genre	Sub-genre	Year	Main star	Main antagonist	Director	Language	Translated title
+1	The Lord Of The Rings: The Return Of The King	19,0	10	9,0	21	03:21	11	Fantasy	Epic	2003	Elijah Wood	Andy Serkis	Peter Jackson	English	Sagan om konungens återkomst
+2	The Lord Of The Rings: The Two Towers	18,8	10	8,8	18	02:59	2	Fantasy	Epic	2002	Elijah Wood	Christopher Lee	Peter Jackson	English	Sagan om de två tornen
+3	The Lord Of The Rings: The Fellowship Of The Ring	18,8	10	8,8	15	02:58	4	Fantasy	Journey	2001	Elijah Wood	Christopher Lee	Peter Jackson	English	Sagan om ringen: härskarringen
+4	Fight Club	18,8	10	8,8	14	02:19	NO	Thriller	Psychological	1999	Edward Norton	Brad Pitt	David Fincher	English	-
+5	The Green Mile	18,6	10	8,6	16	03:09	NO	Drama	Prison	1999	Tom Hanks	Doug Hutchison	Frank Darabont	English	Den gröna milen
+6	Interstellar	18,6	10	8,6	13	02:49	1	Sci-fi	Space	2014	Matthew McConaughey	Matt Damon	Christopher Nolan	English	-
+7	The Departed	18,5	10	8,5	20	02:31	4	Thriller	Undercover	2006	Leonardo DiCaprio	Jack Nicholson	Martin Scorsese	English	-
+8	American History X	18,5	10	8,5	4	01:59	NO	Drama	Rascism	1998	Edward Norton	Stacy Keach	Tony Kaye	English	-
+9	Django Unchained	18,4	10	8,4	23	02:45	2	Western	Rascism	2012	Jamie Foxx	Leonardo DiCaprio	Quentin Tarantino	English	-
+10	Eternal Sunshine Of The Spotless Mind	18,3	10	8,3	7	01:48	1	Romance	Memory	2004	Jim Carrey	-	Michel Gondry	English	-
+11	The Shawshank Redemption	18,2	9	9,2	11	02:22	NO	Drama	Prison	1994	Tim Robbins	Bob Gunton	Frank Darabont	English	Nyckeln till frihet
+12	Titanic	17,9	10	7,9	11	03:14	11	Drama	Ocean	1997	Kate Winslet	Billy Zane	James Cameron	English	-
+13	Inception	17,8	9	8,8	14	02:28	4	Sci-fi	Psychological	2010	Leonardo DiCaprio	-	Christopher Nolan	English	-
+14	Goodfellas	17,7	9	8,7	11	02:26	1	Drama	Mafia	1990	Ray Liotta	Joe Pesci	Martin Scorsese	English	Maffiabröder
+15	It's A Wonderful Life	17,6	9	8,6	0	02:10	NO	Drama	Religion	1946	James Stewart	Lionel Barrymore	Frank Capra	English	Livet är underbart
+16	Whiplash	17,5	9	8,5	4	01:47	3	Drama	Music	2014	Miles Teller	J.K. Simmons	Damien Chazelle	English	-
+17	The Dark Knight Rises	17,4	9	8,4	27	02:44	NO	Action	Superhero	2012	Christian Bale	Tom Hardy	Christopher Nolan	English	-
+18	Jagten	17,3	9	8,3	2	01:55	NO	Drama	Falsely accused	2012	Mads Mikkelsen	-	Thomas Vinterberg	Danish	Jakten
+19	The Wolf Of Wall Street	17,2	9	8,2	20	03:00	NO	Biography	Money	2013	Leonardo DiCaprio	Kyle Chandler	Martin Scorsese	English	-
+20	The Truman Show	17,2	9	8,2	13	01:43	NO	Comedy	Alternate Universe	1998	Jim Carrey	Ed Harris	Peter Weir	English	-
+21	There Will Be Blood	17,2	9	8,2	7	02:38	2	Drama	Money	2007	Daniel Day-Lewis	Paul Dano	Paul Thomas Anderson	English	-
+22	Monsters, Inc.	17,1	9	8,1	25	01:32	1	Animation	Monster	2001	Billy Crystal	Steve Buscemi	Pete Docter	English	-
+23	12 Years A Slave	17,1	9	8,1	23	02:14	3	Biography	Rascism	2013	Chiwetel Ejiofor	-	Steve McQueen	English	-
+24	Catch Me If You Can	17,1	9	8,1	23	02:21	NO	Biography	Chase	2002	Leonardo DiCaprio	Tom Hanks	Steven Spielberg	English	-
+25	The Help	17,1	9	8,1	14	02:26	1	Drama	Rascism	2011	Emma Stone	Bryce Dallas Howard	Tate Taylor	English	Niceville
+26	Million Dollar Baby	17,1	9	8,1	10	02:12	4	Drama	Boxing	2004	Hilary Swank	-	Clint Eastwood	English	-
+27	Groundhog Day	17,1	9	8,1	9	01:41	NO	Comedy	Repeating day	1993	Bill Murray	-	Harold Ramis	English	Måndag hela veckan
+28	Magnolia	17,0	9	8,0	24	03:08	NO	Drama	Multiple stories	1999	Tom Cruise	-	Paul Thomas Anderson	English	-
+29	The Dark Knight	17,0	8	9,0	17	02:32	2	Action	Superhero	2008	Christian Bale	Heath Ledger	Christopher Nolan	English	-
+30	The King's Speech	17,0	9	8,0	11	01:58	4	Biography	Monarchy	2010	Colin Firth	-	Tom Hooper	English	-
+31	The Pursuit Of Happyness	17,0	9	8,0	7	01:57	NO	Biography	Money	2006	Will Smith	-	Gabriele Muccino	English	Jakten på lycka
+32	Casino Royale	17,0	9	8,0	6	02:24	NO	Action	Agent	2006	Daniel Craig	Mads Mikkelsen	Martin Campbell	English	-
+33	Schindler's List	17,0	8	9,0	5	03:15	7	Biography	WWII	1993	Liam Neeson	Ralph Fiennes	Steven Spielberg	English	-
+34	Blood Diamond	17,0	9	8,0	5	02:23	NO	Thriller	African	2006	Leonardo DiCaprio	David Harewood	Edward Zwick	English	-
+35	Lion	17,0	9	8,0	2	01:58	NO	Biography	Search	2016	Dev Patel	-	Garth Davis	English	-
+36	12 Angry Men	17,0	8	9,0	1	01:36	NO	Drama	Court	1957	Henry Fonda	Ed Begley	Sidney Lumet	English	12 edsvurna män
+37	Pulp Fiction	16,9	8	8,9	11	02:34	1	Drama	Mafia	1994	John Travolta	-	Quentin Tarantino	English	-
+38	The Perks Of Being A Wallflower	16,9	9	7,9	7	01:42	NO	Drama	Friendship	2012	Logan Lerman	-	Stephen Chbosky	English	-
+39	Tomten Är Far Till Alla Barnen	16,9	10	6,9	6	01:35	NO	Comedy	Christmas	1999	Peter Haber	-	Kjell Sundvall	Swedish	In bed with Santa
+40	Obsession	16,9	9	7,9	0	01:49	-	Horror	Complicated love	2025	Michael Johnston	Indy Navarrette	Curry Barker	English	-
+41	Forrest Gump	16,8	8	8,8	11	02:22	6	Comedy	Idiot	1994	Tom Hanks	-	Robert Zemeckis	English	-
+42	Dune: Part Two	16,8	8	8,8	11	02:46	-	Sci-fi	Epic	2024	Timothée Chalamet	Stellan Skarsgård	Denis Villeneuve	English	-
+43	The Social Network	16,8	9	7,8	8	02:00	3	Biography	Technology	2010	Jesse Eisenberg	Armie Hammer	David Fincher	English	-
+44	The Game	16,7	9	7,7	11	02:09	NO	Thriller	Puzzle	1997	Michael Douglas	-	David Fincher	English	-
+45	Birdman Or (The Unexpected Virtue Of Ignorance)	16,7	9	7,7	10	01:59	4	Drama	Theatre	2014	Michael Keaton	-	Alejandro Gonzáles Iñárritu	English	-
+46	Ondskan	16,7	9	7,7	6	01:53	NO	Drama	School	2003	Andreas Wilson	Gustaf Skarsgård	Mikael Håfström	Swedish	Evil
+47	The Matrix	16,7	8	8,7	5	02:16	4	Sci-fi	Alternate Universe	1999	Keanu Reeves	Hugo Weaving	Lana & Lilly Wachowski	English	-
+48	Druk	16,7	9	7,7	1	01:57	1	Comedy	Drugs	2020	Mads Mikkelsen	-	Thomas Vinterberg	Danish	Another Round
+49	Mulan	16,6	9	7,6	13	01:28	NO	Animation	Girl power	1998	Ming-Na Wen	Miguel Ferrer	Tony Bancroft	English	-
+50	End Of Watch	16,6	9	7,6	9	01:49	NO	Action	Police	2012	Jake Gyllenhaal	Maurice Compte	David Ayer	English	-
+51	Terminator 2: Judgment Day	16,6	8	8,6	8	02:17	4	Sci-fi	Robots	1991	Arnold Schwarzenegger	Robert Patrick	James Cameron	English	Terminator 2: Domedagen
+53	Searching	16,6	9	7,6	3	01:42	NO	Mystery	Search	2018	John Cho	Debra Messing	Aneesh Chaganty	English	-
+54	Cidade De Deus	16,6	8	8,6	1	02:10	NO	Drama	Drugs	2002	Alexandre Rodrigues	Leandro Firmino	Fernando Meirelles	Portuguese	Guds stad
+55	The Odyssey	16,5	8	8,5	21	02:53	-	Adventure	Epic	2026	Matt Damon	Robert Pattinson	Christopher Nolan	English	-
+56	Contact	16,5	9	7,5	17	02:30	NO	Sci-fi	Aliens	1997	Jodie Foster	-	Robert Zemeckis	English	Kontakt
+57	Gladiator	16,5	8	8,5	14	02:35	5	Drama	Epic	2000	Russell Crowe	Joaquin Phoenix	Ridley Scott	English	-
+58	The Lion King	16,5	8	8,5	12	01:28	2	Animation	Animals	1994	Matthew Broderick	Jeremy Irons	Roger Allers	English	Lejonkungen
+59	The Prestige	16,5	8	8,5	10	02:10	NO	Drama	Magic	2006	Christian Bale	-	Christopher Nolan	English	-
+60	The Devil's Advocate	16,5	9	7,5	10	02:24	NO	Drama	Religion	1997	Keanu Reeves	Al Pacino	Taylor Hackford	English	Djävulens advokat
+61	The Usual Suspects	16,5	8	8,5	7	01:46	2	Thriller	Puzzle	1995	Kevin Spacey	-	Bryan Singer	English	De misstänkta
+62	Fucking Åmål	16,5	9	7,5	1	01:29	-	Romance	HBTQ	1998	Alexandra Dahlström	-	Lukas Moodysson	Swedish	Show Me Love
+63	Oppenheimer	16,4	8	8,4	22	03:00	7	Biography	WWII	2023	Cillian Murphy	Robert Downey Jr.	Christopher Nolan	English	-
+64	Braveheart	16,4	8	8,4	10	02:58	5	Biography	Epic	1995	Mel Gibson	Patrick McGoohan	Mel Gibson	English	-
+65	Joker	16,4	8	8,4	10	02:01	2	Thriller	Psychopath	2019	Joaquin Phoenix	-	Todd Phillips	English	-
+66	One Battle After Another	16,4	8	8,4	7	02:41	-	Action	Epic	2025	Leonardo DiCaprio	Sean Penn	Paul Thomas Anderson	English	-
+67	Hooligans	16,4	9	7,4	5	01:49	NO	Drama	Soccer	2005	Elijah Wood	Geoff Bell	Lexi Alexander	English	Green Street Hooligans
+68	Coco	16,4	8	8,4	4	01:45	2	Animation	Music	2017	Anthony Gonzales	Benjamin Bratt	Lee Unkrich	English	-
+69	I Swear	16,4	8	8,4		02:00	-	Biography	Disease	2025	Robert Aramayo	-	Kirk Jones	English	-
+70	Tarzan	16,3	9	7,3	18	01:28	1	Animation	Jungle	1999	Tony Goldwyn	Brian Blessed	Chris Buck	English	-
+71	Heat	16,3	8	8,3	18	02:50	NO	Thriller	Heist	1995	Robert De Niro	Al Pacino	Michael Mann	English	-
+72	Toy Story	16,3	8	8,3	16	01:21	NO	Animation	Toys	1995	Tom Hanks	Erik von Detten	John Lasseter	English	-
+73	Inglorious Basterds	16,3	8	8,3	10	02:33	1	Thriller	WWII	2009	Brad Pitt	Christoph Waltz	Quentin Tarantino	English	-
+74	Revolutionary Road	16,3	9	7,3	9	01:59	NO	Drama	Complicated love	2008	Leonardo DiCaprio	-	Sam Mendes	English	-
+75	Reservoir Dogs	16,3	8	8,3	5	01:39	NO	Action	Heist	1992	Harvey Keitel	Michael Madsen	Quentin Tarantino	English	De Hämndlystna
+76	Dumb And Dumber	16,3	9	7,3	4	01:47	NO	Comedy	Journey	1994	Jim Carrey	Charles Rocket	Peter & Bobby Farrelly	English	Dum & dummare
+77	Hereditary	16,3	9	7,3	2	02:07	NO	Horror	Possession	2018	Toni Collette	Ann Dowd	Ari Aster	English	-
+78	Killers Of The Flower Moon	16,2	8	8,2	15	03:26	-	Biography	Money	2023	Leonardo DiCaprio	Robert de Niro	Martin Scorsese	English	-
+79	Finding Nemo	16,2	8	8,2	13	01:40	1	Animation	Animals	2003	Albert Brooks	-	Andrew Stanton	English	Hitta Nemo
+80	No Country For Old Men	16,2	8	8,2	12	02:02	4	Thriller	Psychopath	2007	Josh Brolin	Javier Bardem	Ethan & Joel Coen	English	-
+81	Shutter Island	16,2	8	8,2	12	02:18	NO	Mystery	Psychological	2010	Leonardo DiCaprio	-	Martin Scorsese	English	-
+82	Green Book	16,2	8	8,2	11	02:10	3	Biography	Rascism	2018	Viggo Mortensen	-	Peter Farrelly	English	-
+83	A Beautiful Mind	16,2	8	8,2	10	02:15	4	Biography	Psychological	2001	Russell Crowe	-	Ron Howard	English	-
+84	Snatch	16,2	8	8,2	10	01:44	NO	Comedy	Heist	2000	Jason Statham		Guy Ritchie	English	-
+85	Jurassic Park	16,2	8	8,2	8	02:07	3	Adventure	Dinosaurs	1993	Sam Neill	-	Steven Spielberg	English	-
+86	Warrior	16,2	8	8,2	8	02:20	NO	Drama	Boxing	2011	Tom Hardy	-	Gavin O'Connor	English	-
+87	1917	16,2	8	8,2	6	01:59	3	Action	War	2019	George MacKay	-	Sam Mendes	English	-
+88	10 Cloverfield Lane	16,2	9	7,2	5	01:44	NO	Mystery	Hostage	2016	Mary Elizabeth Winstead	John Goodman	Dan Trachtenberg	English	-
+89	Die Hard	16,2	8	8,2	4	02:11	NO	Action	Lone protagonist	1988	Bruce Willis	Alan Rickman	John McTiernan	English	-
+90	Der Untergang	16,2	8	8,2	2	02:36	NO	Biography	WWII	2004	Bruno Ganz	-	Oliver Hirschbiegel	German	Undergången: Hitler och tredje rikets fall
+91	Harry Potter And The Deathly Hallows: Part 2	16,1	8	8,1	34	02:10	NO	Fantasy	Magic	2011	Daniel Radcliffe	Ralph Fiennes	David Yates	English	Harry Potter och dödsrelikerna: Del 2
+92	Pirates Of The Caribbean: The Curse Of The Black Pearl	16,1	8	8,1	14	02:23	NO	Adventure	Pirates	2003	Johnny Depp	Geoffrey Rush	Gore Verbinski	English	Pirates of the Carribean: Svarta Pärlans förbannelse
+93	Prisoners	16,1	8	8,1	13	02:33	NO	Drama	Search	2013	Hugh Jackman	Melissa Leo	Denis Villeneuve	English	-
+94	Ford V Ferrari	16,1	8	8,1	11	02:32	2	Biography	Racing	2019	Christian Bale	Josh Lucas	James Mangold	English	Le Mans '66
+95	Everest	16,1	9	7,1	11	02:01	NO	Adventure	Project	2015	Jason Clarke	-	Baltasar Kormákur	English	-
+96	Ratatouille	16,1	8	8,1	9	01:51	1	Animation	Food	2007	Brad Garrett	Ian Holm	Brad Bird	English	Råttatouille
+97	Mrs. Doubtfire	16,1	9	7,1	6	02:05	1	Comedy	Disguise	1993	Robin Williams	-	Chris Columbus	English	Välkommen Mrs. Doubtfire
+98	Hotel Rwanda	16,1	8	8,1	5	02:01	NO	Biography	African	2004	Don Cheadle	-	Terry George	English	-
+99	The Martian	16,0	8	8,0	13	02:24	NO	Adventure	Space	2015	Matt Damon	-	Ridley Scott	English	-
+100	The Incredibles	16,0	8	8,0	11	01:55	2	Animation	Superhero	2004	Craig T. Nelson	Jason Lee	Brad Bird	English	Superhjältarna
+101	Donnie Darko	16,0	8	8,0	10	01:53	NO	Drama	Psychological	2001	Jake Gyllenhaal	-	Richard Kelly	English	-
+102	La La Land	16,0	8	8,0	9	02:08	6	Musical	Complicated love	2016	Emma Stone	-	Damien Chazelle	English	-
+103	Cinderella Man	16,0	8	8,0	9	02:24	NO	Biography	Boxing	2005	Russell Crowe	-	Ron Howard	English	-
+104	Soul	16,0	8	8,0	7	01:40	2	Animation	Music	2020	Jamie Foxx	Alice Braga	Pete Docter	English	-
+105	Chronicle	16,0	9	7,0	6	01:24	NO	Drama	Supernatural	2012	Dane DeHaan	Michael Kelly	Josh Trank	English	-
+106	The Revenant	16,0	8	8,0	5	02:36	3	Adventure	Survival	2015	Leonardo DiCaprio	Tom Hardy	Alejandro Gonzáles Iñárritu	English	-
+107	Black Swan	16,0	8	8,0	5	01:48	1	Drama	Theatre	2010	Natalie Portman	-	Darren Aronofsky	English	-
+108	Twelve Monkeys	16,0	8	8,0	5	02:09	NO	Sci-fi	Disease	1995	Bruce Willis	David Morse	Terry Gilliam	English	De 12 apornas armé
+109	Toy Story 2	15,9	8	7,9	25	01:32	NO	Animation	Toys	1999	Tom Hanks	Kelsey Grammer	John Lasseter	English	-
+110	Harry Potter And The Prisoner Of Azkaban	15,9	8	7,9	22	02:22	-	Fantasy	Magic	2004	Daniel Radcliffe	Timothy Spall	Alfonso Cuarón	English	Harry Potter Och Fången Från Azkaban
+111	Avatar	15,9	8	7,9	12	02:42	3	Fantasy	Space	2009	Sam Worthington	Giovanni Ribisi	James Cameron	English	-
+112	The Road To El Dorado	15,9	9	6,9	7	01:29	NO	Animation	Journey	2000	Kenneth Branagh	Armand Assante	Bilbo Bergeron	English	Vägen till El Dorado
+113	Shrek	15,9	8	7,9	6	01:30	1	Animation	Monster	2001	Mike Myers	John Lithgow	Andrew Adamson	English	-
+114	Edge Of Tomorrow	15,9	8	7,9	6	01:53	NO	Action	Repeating day	2014	Tom Cruise	-	Doug Liman	English	-
+115	In Bruges	15,9	8	7,9	5	01:47	NO	Drama	Odd duo	2008	Colin Farrell	Ralph Fiennes	Martin McDonagh	English	-
+116	Everything Everywhere All At Once	15,9	8	7,9	3	02:19	7	Comedy	Alternate Universe	2022	Michelle Yeoh	Stephanie Hsu	Dan Kwan / Daniel Scheinert	English	-
+117	The Big Short	15,8	8	7,8	18	02:10	1	Biography	Money	2015	Christian Bale	-	Adam McKay	English	-
+118	The Irishman	15,8	8	7,8	18	03:29	NO	Biography	Mafia	2019	Robert De Niro	-	Martin Scorsese	English	-
+119	Hobbit: An Unexpected Journey	15,8	8	7,8	18	02:49	NO	Fantasy	Journey	2012	Martin Freeman		Peter Jackson	English	Hobbit: En oväntad resa
+120	Little Miss Sunshine	15,8	8	7,8	15	01:41	2	Comedy	Journey	2006	Abigail Breslin	-	Jonathan Dayton	English	-
+121	Bruce Almighty	15,8	9	6,8	12	01:41	NO	Comedy	Religion	2003	Jim Carrey	-	Tom Shadyac	English	Bruce den allsmäktige
+122	The Fighter	15,8	8	7,8	11	01:56	2	Biography	Boxing	2010	Mark Wahlberg	-	David O. Russell	English	-
+123	The Batman	15,8	8	7,8	11	02:56	NO	Action	Superhero	2022	Robert Pattinson	Paul Dano	Matt Reeves	English	-
+124	Pride & Prejudice	15,8	8	7,8	9	02:09	NO	Romance	Complicated love	2005	Keira Knightley	-	Joe Wright	English	Stolthet & fördom
+125	The Fugitive	15,8	8	7,8	8	02:10	1	Action	Falsely accused	1993	Harrison Ford	Tommy Lee Jones	Andrew Davis	English	Jagad
+126	Nightcrawler	15,8	8	7,8	6	01:58	NO	Thriller	Psychopath	2014	Jake Gyllenhaal	-	Dan Gilroy	English	-
+127	Straight Outta Compton	15,8	8	7,8	5	02:27	NO	Biography	Music	2015	O'Shea Jackson Jr.	-	F. Gary Gray	English	-
+128	Il Buono, Il Brutto, Il Cattivo	15,8	7	8,8	1	02:41	NO	Western	Treasure hunt	1966	Clint Eastwood	Lee Van Cleef	Sergio Leone	English	Den gode, den onde, den fule
+129	Apocalypto	15,8	8	7,8	0	02:19	NO	Adventure	Jungle	2006	Rudy Youngblood	Raoul Max Trujillo	Mel Gibson	English	-
+130	Harry Potter And The Deathly Hallows: Part 1	15,7	8	7,7	38	02:26	-	Fantasy	Magic	2010	Daniel Radcliffe	Ralph Fiennes	David Yates	English	Harry Potter och dödsrelikerna: Del 1
+131	3:10 To Yuma	15,7	8	7,7	13	02:02	NO	Western	Journey	2007	Christian Bale	Russell Crowe	James Mangold	English	-
+132	Den Goda Viljan	15,7	8	7,7	12	03:02	NO	Romance	Complicated love	1992	Samuel Fröler	Ghita Nörby	Bille August	Swedish	The Best Intentions
+133	The Bourne Supremacy	15,7	8	7,7	11	01:48	NO	Action	Memory	2004	Matt Damon	Joan Allen	Paul Greengrass	English	-
+134	Get Out	15,7	8	7,7	8	01:44	1	Horror	Rascism	2017	Daniel Kaluuya	Allison Williams	Jordan Peele	English	-
+135	Kopps	15,7	9	6,7	6	01:30	NO	Comedy	Police	2003	Fares Fares	-	Josef Fares	English	-
+136	Marty Supreme	15,7	8	7,7	2	02:29	-	Drama	Competition	2025	Timothée Chalamet	Kevin O'Leary	Josh Safdie	English	-
+137	Harry Potter And The Half-Blood Prince	15,6	8	7,6	24	02:33	-	Fantasy	Magic	2009	Daniel Radcliffe		David Yates	English	Harry Potter och halvblodsprinsen
+138	Sen To Chihiro No Kamikakushi	15,6	7	8,6	15	02:05	1	Animation	Anime	2001	Rumi Hiiragi	Mari Natsuki	Hayao Miyazaki	Japanese	Spirited Away
+139	Rise Of The Planet Of The Apes	15,6	8	7,6	15	01:45	NO	Sci-fi	Animals	2011	James Franco	Tom Felton	Rupert Wyatt	English	Apornas planet: (r)Evolution
+140	Saving Private Ryan	15,6	7	8,6	15	02:49	5	Drama	WWII	1998	Tom Hanks	-	Steven Spielberg	English	Rädda menige Ryan
+141	Dawn Of The Planet Of The Apes	15,6	8	7,6	14	02:10	NO	Sci-fi	Animals	2014	Andy Serkis	-	Matt Reeves	English	Apornas planet: Uppgörelsen
+142	Se7en	15,6	7	8,6	13	02:07	NO	Thriller	Investigation	1995	Morgan Freeman	Kevin Spacey	David Fincher	English	-
+143	300	15,6	8	7,6	9	01:57	NO	Action	Epic	2006	Gerard Butler	Rodrigo Santoro	Zack Snyder	English	-
+144	Baby Driver	15,6	8	7,6	8	01:52	NO	Action	Heist	2017	Ansel Elgort	Jon Hamm	Edgar Wright	English	-
+145	Saw	15,6	8	7,6	8	01:43	NO	Horror	Puzzle	2004	Tobin Bell		James Wan	English	-
+146	A Star Is Born	15,6	8	7,6	6	02:15	1	Romance	Music	2018	Lady Gaga	-	Bradley Cooper	English	-
+147	American Psycho	15,6	8	7,6	6	01:42	NO	Thriller	Psychological	2000	Christian Bale	-	Mary Harron	English	-
+148	United 93	15,6	8	7,6	6	01:51	NO	Thriller	Airplane	2006	David Alan Basche		Paul Greengrass	English	-
+149	Star Wars	15,6	7	8,6	3	02:01	6	Sci-fi	Space	1977	Mark Hamill	David Prowse	George Lucas	English	Stjärnornas Krig / Star Wars: Episode IV - A New Hope
+150	La Vita È Bella	15,6	7	8,6	0	01:56	3	Drama	WWII	1997	Roberto Benigni	-	Roberto Benigni	Italian	Livet Är Underbart
+151	Ser Du Månen, Daniel	15,6	8	7,6	0	02:18	NO	Drama	Prison	2019	Esben Smed	Youssef Berouain	Niels Arden Oplev	English	Held For Ransom
+152	Harry Potter And The Order Of The Phoenix	15,5	8	7,5	27	02:18	NO	Fantasy	Magic	2007	Daniel Radcliffe	Ralph Fiennes	David Yates	English	Harry Potter Och Fenixorden
+153	The Hunger Games: Catching Fire	15,5	8	7,5	22	02:26	NO	Sci-fi	Competition	2013	Jennifer Lawrence	Donald Sutherland	Francis Lawrence	English	-
+154	Collateral	15,5	8	7,5	14	01:55	NO	Thriller	Hostage	2004	Jamie Foxx	Tom Cruise	Michael Mann	English	-
+155	The Conjuring	15,5	8	7,5	7	01:52	NO	Horror	Supernatural	2013	Patrick Wilson	-	James Wan	English	-
+156	Source Code	15,5	8	7,5	7	01:33	NO	Sci-fi	Repeating day	2011	Jake Gyllenhaal	-	Duncan Jones	English	-
+157	Léon	15,5	7	8,5	4	01:50	NO	Drama	Odd duo	1994	Jean Reno	Gary Oldman	Luc Besson	English	Léon: The Professional
+158	The Pianist	15,5	7	8,5	3	02:30	3	Biography	WWII	2002	Adrien Brody	-	Roman Polanski	English	-
+159	Gisaengchung	15,5	7	8,5	0	02:12	4	Comedy	Household	2019	Woo-sik Choi	-	Bong Joon Ho	Korean	Parasite
+160	Rear Window	15,5	7	8,5	0	01:52	NO	Mystery	Investigation	1954	James Stewart	Raymond Burr	Alfred Hitchcock	English	Fönstret åt gården
+161	Den Skyldige	15,5	8	7,5		01:25	NO	Thriller	Hostage	2018	Jakob Cedergren	Jessica Dinnage	Gustav Möller	Danish	The Guilty
+162	Spider-Man: Homecoming	15,4	8	7,4	24	02:13	NO	Action	Superhero	2017	Tom Holland	Michael Keaton	Jon Watts	English	-
+163	Spider-Man 2	15,4	8	7,4	23	02:07	1	Action	Superhero	2004	Tobey Maguire	Alfred Molina	Sam Raimi	English	-
+164	Spider-Man	15,4	8	7,4	21	02:01	NO	Action	Superhero	2002	Tobey Maguire	Willem Dafoe	Sam Raimi	English	-
+165	Man On The Moon	15,4	8	7,4	13	01:58	NO	Biography	Theatre	1999	Jim Carrey	-	Milos Forman	English	-
+166	Darkest Hour	15,4	8	7,4	12	02:05	2	Biography	WWII	2017	Gary Oldman	Stephen Dillane	Joe Wright	English	-
+167	The Talented Mr. Ripley	15,4	8	7,4	10	02:19	NO	Drama	Disguise	1999	Matt Damon	-	Anthony Minghella	English	-
+168	Law Abiding Citizen	15,4	8	7,4	9	01:49	NO	Thriller	Revenge	2009	Gerard Butler	Jamie Foxx	F. Gary Gray	English	-
+169	Memento	15,4	7	8,4	8	01:53	NO	Thriller	Memory	2000	Guy Pearce	-	Christopher Nolan	English	-
+170	Uncut Gems	15,4	8	7,4	6	02:15	NO	Drama	Race Against Time	2019	Adam Sandler	Eric Bogosian	Benny & Josh Safdie	English	-
+171	Raiders Of The Lost Ark	15,4	7	8,4	6	01:55	4	Adventure	Treasure hunt	1981	Harrison Ford	Paul Freeman	Steven Spielberg	English	Jakten på den försvunna skatten
+52	Weapons	15,4	8	7,4	4	02:08	NO	Horror	Possession	2025	Julia Garner	Amy Madigan	Zach Cregger	English	-
+172	Palm Springs	15,4	8	7,4	3	01:30	NO	Comedy	Repeating day	2020	Andy Samberg	J.K. Simmons	Max Barbakow	English	-
+173	The Shining	15,4	7	8,4	2	02:26	NO	Horror	Psychopath	1980	Jack Nicholson	-	Stanley Kubrick	English	-
+174	Eight Grade	15,4	8	7,4	1	01:33	NO	Drama	School	2018	Elsie Fisher	-	Bo Burnham	English	-
+175	Das Boot	15,4	7	8,4	0	02:29	NO	Drama	WWII	1981	Jürgen Prochnow	-	Wolfgang Petersen	German	Ubåten
+176	Toy Story 3	15,3	7	8,3	30	01:43	2	Animation	Toys	2010	Tom Hanks	Ned Beatty	Lee Unkrich	English	-
+177	Pirates Of The Caribbean: Dead Man's Chest	15,3	8	7,3	22	02:31	1	Adventure	Pirates	2006	Johnny Depp	Bill Nighy	Gore Verbinski	English	Pirates of the Carribean: Död mans kista
+178	Snowden	15,3	8	7,3	12	02:14	NO	Biography	Technology	2016	Joseph Gordon-Lewitt	-	Oliver Stone	English	-
+179	The Next Three Days	15,3	8	7,3	10	02:13	NO	Thriller	Investigation	2010	Russell Crowe	-	Paul Haggis	English	-
+180	Top Gun: Maverick	15,3	7	8,3	9	02:10	1	Action	Airplane	2022	Tom Cruise	Glen Powell	Joseph Kosinski	English	-
+181	The Lincoln Lawyer	15,3	8	7,3	9	01:58	NO	Mystery	Court	2011	Matthew McConaughey	Ryan Phillippe	Brad Furman	English	-
+182	American Beauty	15,3	7	8,3	8	02:02	5	Drama	Sex	1999	Kevin Spacey	-	Sam Mendes	English	-
+183	Good Will Hunting	15,3	7	8,3	8	02:06	2	Drama	Psychological	1997	Robin Williams	-	Gus Van Sant	English	Will Hunting
+184	Star Wars: Episode VI - Return Of The Jedi	15,3	7	8,3	8	02:11	NO	Sci-fi	Space	1983	Mark Hamill	James Earl Jones	Richard Marquand	English	Jedins återkomst
+185	Rocketman	15,3	8	7,3	7	02:01	1	Biography	Music	2019	Taron Egerton	-	Dexter Fletcher	English	-
+186	Southpaw	15,3	8	7,3	6	02:04	NO	Drama	Boxing	2015	Jake Gyllenhaal	-	Antoine Fuqua	English	-
+187	Split	15,3	8	7,3	4	01:57	NO	Thriller	Psychopath	2016	James McAvoy	-	M. Night Shyamalan	English	-
+188	Triangle Of Sadness	15,3	8	7,3	3	02:27	NO	Comedy	Vacation	2022	Harris Dickinson	Dolly De Leon	Ruben Östlund	English	-
+189	Ronja Rövardotter	15,3	8	7,3	3	02:06	NO	Family	Rivals	1984	Hanna Zetterberg	-	Tage Danielsson	English	Ronia: The Robber's Daughter
+190	Paranormal Activity	15,3	9	6,3	0	01:26	NO	Horror	Supernatural	2007	Katie Featherston	-	Oren Peli	Swedish	-
+191	Incendies	15,3	7	8,3	0	02:11	NO	Drama	Search	2010	Lubna Azabal	Abdelghafour Elaaziz	Denis Villeneuve	French	Navals Hemlighet
+191	Spider-Man: No Way Home	15,2	7	8,2	20	02:28	NO	Action	Superhero	2021	Tom Holland	Willem Dafoe	Jon Watts	English	-
+192	L.A. Confidential	15,2	7	8,2	19	02:18	2	Drama	Investigation	1997	Kevin Spacey	James Cromwell	Curtis Hanson	English	L.A. konfidentiellt
+193	The Hunger Games	15,2	8	7,2	16	02:22	NO	Sci-fi	Competition	2012	Jennifer Lawrence	Donald Sutherland	Gary Ross	English	-
+194	Batman Begins	15,2	7	8,2	14	02:32	NO	Action	Superhero	2005	Christian Bale	Liam Neeson	Christopher Nolan	English	-
+195	V For Vendetta	15,2	7	8,2	9	02:12	NO	Drama	Future	2005	Hugo Weaving	Tim Pigott-Smith	James McTeigue	English	V För Vendetta
+196	Notting Hill	15,2	8	7,2	8	02:04	NO	Romance	Romcom	1999	Hugh Grant	-	Roger Michell	English	-
+197	The Godfather	15,2	6	9,2	6	02:55	3	Drama	Mafia	1972	Marlon Brando	Richard Conte	Francis Ford Coppola	English	Gudfadern
+198	Unbroken	15,2	8	7,2	6	02:17	NO	Biography	WWII	2014	Jack O'Connell	Miyavi	Angelina Jolie	English	-
+199	A Quiet Place Part II	15,2	8	7,2	6	01:37	NO	Horror	Monster	2020	Emily Blunt	-	John Krasinski	English	A Quiet Place Part 2
+200	The Father	15,2	7	8,2	5	01:37	2	Drama	Disease	2020	Anthony Hopkins	-	Florian Zeller	English	-
+201	I Am Legend	15,2	8	7,2	5	01:41	NO	Horror	Zombies	2007	Will Smith	-	Francis Lawrence	English	-
+202	The Menu	15,2	8	7,2	5	01:47	NO	Thriller	Food	2022	Anya Taylor-Joy	Ralph Fiennes	Mark Mylod	English	-
+203	School Of Rock	15,2	8	7,2	5	01:48	NO	Comedy	Music	2003	Jack Black		Richard Linklater	English	-
+204	Klaus	15,2	7	8,2	4	01:36	NO	Animation	Christmas	2019	Jason Schwartzman	Joan Cusack	Sergio Pablos	English	-
+205	Words On Bathroom Walls	15,2	8	7,2	4	01:50	NO	Drama	Psychological	2020	Charlie Plummer	-	Thor Freudenthal	English	-
+206	The Fox And The Hound	15,2	8	7,2	3	01:23	NO	Animation	Friendship	1981	Mickey Rooney	Jack Albertson	Ted Berman	English	Micke & Molle - Vänner När Det Gäller!
+207	The Thing	15,2	7	8,2	2	01:49	NO	Horror	Monster	1982	Kurt Russell		John Carpenter	English	-
+208	Utöya 22. juli	15,2	8	7,2	0	01:30	NO	Thriller	Disaster	2018	Andrea Berntzen	-	Erik Poppe	Norwegian	-
+209	Beauty And The Beast	15,1	8	7,1	13	02:09	NO	Musical	Monster	2017	Emma Watson	Luke Evans	Bill Condon	English	Skönheten Och Odjuret
+210	Three Billboards Outside Ebbing, Missouri	15,1	7	8,1	11	01:55	2	Drama	Lone protagonist	2017	Frances McDormand	Sam Rockwell	Martin McDonagh	English	-
+211	Rush	15,1	7	8,1	10	02:03	NO	Biography	Racing	2013	Chris Hemsworth		Ron Howard	English	-
+212	Spotlight	15,1	7	8,1	9	02:08	2	Drama	Investigation	2015	Mark Ruffalo		Tom McCarthy	English	-
+213	Gone Girl	15,1	7	8,1	9	02:29	NO	Mystery	Complicated love	2014	Ben Affleck		David Fincher	English	-
+214	How To Train Your Dragon	15,1	7	8,1	8	01:38	NO	Animation	Monster	2010	Jay Baruchel		Dean DeBlois	English	Draktränaren
+215	Bone Tomahawk	15,1	8	7,1	7	02:12	NO	Western	Journey	2015	Kurt Russell		S. Craig Zahler	English	-
+216	Dead Poets Society	15,1	7	8,1	6	02:08	1	Drama	School	1989	Robin Williams		Peter Weir	English	Döda Poeters Sällskap
+217	Hacksaw Ridge	15,1	7	8,1	5	02:19	2	Biography	WWII	2016	Andrew Garfield	-	Mel Gibson	English	-
+218	The Terminator	15,1	7	8,1	5	01:47	NO	Sci-fi	Robots	1984	Linda Hamilton	Arnold Schwarzenegger	James Cameron	English	-
+219	Room	15,1	7	8,1	4	01:58	1	Drama	Hostage	2015	Brie Larson		Lenny Abrahamson	English	-
+220	The King Of Staten Island	15,1	8	7,1	4	02:16	NO	Comedy	Self Improvement	2020	Pete Davidson	-	Judd Apatow	English	-
+221	The Invisible Man	15,1	8	7,1	4	02:04	NO	Horror	Psycopath	2020	Elisabeth Moss	Oliver Jackson-Cohen	Leigh Whannell	English	-
+222	Lock, Stock And Two Smoking Barrels	15,1	7	8,1	4	01:47	NO	Comedy	Heist	1998	Jason Statham		Guy Ritchie	English	-
+223	Bröderna Lejonhjärta	15,1	8	7,1	4	01:46	NO	Fantasy	Alternate Universe	1977	Lars Söderdahl	Georg Årlin	Olle Hellbom	Swedish	The Brothers Lionheart
+224	Stand By Me	15,1	7	8,1	3	01:29	NO	Adventure	Journey	1986	Wil Wheaton	Kiefer Sutherland	Rob Reiner	English	-
+225	Independence Day	15,0	8	7,0	22	02:25	1	Sci-fi	Aliens	1996	Will Smith		Roland Emmerich	English	-
+226	Guardians Of The Galaxy	15,0	7	8,0	20	02:01	NO	Fantasy	Space	2014	Chris Pratt		James Gunn	English	-
+227	Sin City	15,0	7	8,0	16	02:04	NO	Thriller	Alternate Universe	2005	Mickey Rourke		Frank Miller	English	-
+228	Super 8	15,0	8	7,0	16	01:52	NO	Mystery	Aliens	2011	Joel Courtney		J.J. Abrams	English	-
+229	Zootopia	15,0	7	8,0	14	01:48	1	Animation	Investigation	2016	Ginnifer Goodwin		Byron Howard	English	Zootropolis
+230	The Bourne Ultimatum	15,0	7	8,0	10	01:55	3	Action	Memory	2007	Matt Damon	David Strathairn	Paul Greengrass	English	-
+231	Aladdin	15,0	7	8,0	10	01:30	2	Animation	Monarchy	1992	Scott Weinger		Ron Clements	English	-
+232	Dune: Part One	15,0	7	8,0	10	02:35	6	Sci-fi	Epic	2021	Timothée Chalamet	Stellan Skarsgård	Denis Villeneuve	English	Dune
+233	The Godfather: Part II	15,0	6	9,0	9	03:22	6	Drama	Mafia	1974	Al Pacino	-	Francis Ford Coppola	English	Gudfadern: Del 2
+234	The Gift	15,0	8	7,0	9	01:48	NO	Thriller	Stalking	2015	Jason Bateman	Joel Edgerton	Joel Edgerton	English	-
+235	Her	15,0	7	8,0	8	02:06	1	Drama	Technology	2013	Joaquin Phoenix		Spike Jonze	English	-
+236	Meet The Parents	15,0	8	7,0	8	01:48	NO	Comedy	Household	2000	Ben Stiller	Robert de Niro	Jay Roach	English	Släkten Är Värst
+237	Passengers	15,0	8	7,0	7	01:56	NO	Sci-fi	Complicated love	2016	Chris Pratt		Morten Tyldum	English	-
+238	The Imitation Game	15,0	7	8,0	6	01:54	1	Biography	WWII	2014	Benedict Cumberbatch		Morten Tyldum	English	-
+239	Poor Things	15,0	7	8,0	4	02:21	4	Comedy	Self Improvement	2023	Emma Stone	Mark Ruffalo	Yorgos Lanthimos	English	-
+240	Colonia	15,0	8	7,0	3	01:46	NO	Thriller	Hostage	2015	Emma Watson		Florian Gallenberger	English	-
+241	Jägarna	15,0	8	7,0	2	01:53	NO	Thriller	Community	1996	Rolf Lassgård	Lennart Jähkel	Kjell Sundvall	English	The Hunters
+242	Ted - För Kärlekens Skull	15,0	8	7,0	2	02:00	NO	Biography	Music	2018	Adam Pålsson	-	Hannes Holm	Swedish	Ted - Show Me Love
+243	Dog Pound	15,0	8	7,0	0	01:31	NO	Drama	Prison	2010	Adam Butcher	Taylor Poulin	Kim Chapiron	English	-
+244	Star Trek	14,9	7	7,9	21	02:07	1	Sci-fi	Space	2009	Chris Pine		J.J. Abrams	English	-
+245	Dallas Buyers Club	14,9	7	7,9	14	01:57	3	Biography	Disease	2013	Matthew McConaughey		Jean-Marc Vallée	English	-
+246	Iron Man	14,9	7	7,9	14	02:06	NO	Action	Superhero	2008	Robert Downey Jr.		Jon Favreau	English	-
+247	The Trial Of The Chicago 7	14,9	7	7,9	12	02:09	-	Drama	Court	2020	Eddie Redmayne	-	Aaron Sorkin	English	-
+248	Vanilla Sky	14,9	8	6,9	12	02:16	-	Mystery	Psychological	2001	Tom Cruise		Cameron Crowe	English	-
+249	The Bourne Identity	14,9	7	7,9	11	01:59	-	Action	Memory	2002	Matt Damon		Doug Liman	English	-
+250	Borg McEnroe	14,9	8	6,9	10	01:47	NO	Biography	Sports	2017	Sverrir Gudnason	Shia LaBeouf	Janus Metz	English	Borg vs. McEnroe
+251	Knives Out	14,9	7	7,9	10	02:10	NO	Comedy	Investigation	2019	Ana De Armas	Chris Evans	Rian Johnson	English	-
+252	Children Of Men	14,9	7	7,9	9	01:49	-	Thriller	Future	2006	Clive Owen		Alfonso Cuarón	English	-
+253	Walk The Line	14,9	7	7,9	8	02:16	-	Biography	Music	2005	Joaquin Phoenix		James Mangold	English	-
+254	Marriage Story	14,9	7	7,9	6	02:17	-	Drama	Complicated love	2019	Adam Driver	-	Noah Baumbach	English	-
+255	Arrival	14,9	7	7,9	6	01:56	-	Sci-fi	Aliens	2016	Amy Adams		Denis Villeneuve	English	-
+256	Bohemian Rhapsody	14,9	7	7,9	5	02:14	4	Biography	Music	2018	Rami Malek	-	Bryan Singer	English	-
+257	Captain Fantastic	14,9	7	7,9	5	01:58	-	Drama	Project	2016	Viggo Mortensen		Matt Ross	English	-
+258	Liar Liar	14,9	8	6,9	5	01:26	-	Comedy	Court	1997	Jim Carrey		Tom Shadyac	English	-
+259	Moon	14,9	7	7,9	4	01:37	-	Sci-fi	Lone protagonist	2009	Sam Rockwell		Duncan Jones	English	-
+260	Wonder	14,9	7	7,9	4	01:53	NO	Drama	School	2017	Jacob Tremblay		Stephen Chbosky	English	-
+261	District 9	14,9	7	7,9	1	01:52	-	Sci-fi	Aliens	2009	Sharlto Copley		Neill Blomkamp	English	-
+262	Der Kommer En Dag	14,9	7	7,9	1	01:59	-	Drama	School	2016	Harald Kaiser Hermann	Lars Mikkelsen	Jesper W. Nielsen	Danish	The Day Will Come
+263	Pippi Långstrump På De Sju Haven	14,9	8	6,9	0	01:26	-	Adventure	Pirates	1970	Inger Nilsson		Olle Hellbom	English	Pippi in the South Seas
+264	Star Wars: Episode VII - The Force Awakens	14,8	7	7,8	19	02:16	-	Sci-fi	Space	2015	Daisy Ridley	Adam Driver	J.J. Abrams	English	Star Wars: The Force Awakens
+265	Hobbit: The Desolation Of Smaug	14,8	7	7,8	17	02:41	NO	Fantasy	Journey	2013	Martin Freeman	Benedict Cumberbatch	Peter Jackson	English	Hobbit: Smaugs Ödemark
+266	Hidden Figures	14,8	7	7,8	16	02:07	-	Biography	Rascism	2016	Taraji P. Henson		Theodore Melfi	English	Dolda Tillgångar
+267	Ocean's Eleven	14,8	7	7,8	14	01:56	-	Thriller	Heist	2001	George Clooney		Steven Soderbergh	English	-
+268	Remember The Titans	14,8	7	7,8	13	01:53	-	Biography	American football	2000	Denzel Washington		Boaz Yakin	English	-
+269	Crash	14,8	7	7,8	12	01:52	-	Drama	Multiple stories	2004	Sandra Bullock		Paul Haggis	English	-
+270	The Hateful Eight	14,8	7	7,8	9	03:07	-	Western	Rivals	2015	Samuel L. Jackson		Quentin Tarantino	English	-
+271	The Family Man	14,8	8	6,8	9	02:05	-	Romance	Self improvement	2000	Nicolas Cage		Brett Ratner	English	En andra chans
+272	Hot Fuzz	14,8	7	7,8	9	02:01	-	Comedy	Community	2007	Simon Pegg		Edgar Wright	English	-
+273	Captain Phillips	14,8	7	7,8	8	02:14	-	Biography	Pirates	2013	Tom Hanks		Paul Greengrass	English	-
+274	Taken	14,8	7	7,8	8	01:33	-	Action	Lone protagonist	2008	Liam Neeson		Pierre Morel	English	-
+275	Awakenings	14,8	7	7,8	7	02:01	-	Biography	Disease	1990	Robin Williams		Penny Marshall	English	Uppvaknanden
+276	The Notebook	14,8	7	7,8	7	02:03	-	Romance	Complicated love	2004	Ryan Gosling		Nick Cassavetes	English	Dagboken - Jag sökte dig och fann mitt hjärta
+277	Dunkirk	14,8	7	7,8	7	01:46	-	Action	WWII	2017	Fionn Whitehead		Christopher Nolan	English	-
+278	Cast Away	14,8	7	7,8	5	02:23	-	Drama	Survival	2000	Tom Hanks	-	Robert Zemeckis	English	-
+279	No Escape	14,8	8	6,8	4	01:43	-	Action	Survival	2015	Owen Wilson		John Erick Dowdle	English	-
+280	Airplane!	14,8	7	7,8	3	01:28	-	Comedy	Airplane	1980	Leslie Nielsen		Jim Abrahams	English	Titta vi flyger
+281	Misery	14,8	7	7,8	3	01:47	-	Thriller	Author	1990	James Caan		Rob Reiner	Danish	Lida
+282	Sinister	14,8	8	6,8	1	01:50	-	Horror	Supernatural	2012	Ethan Hawke		Scott Derrickson	English	-
+283	It Follows	14,8	8	6,8	0	01:40	-	Horror	Supernatural	2014	Maika Monroe	-	David Robert Mitchell	English	-
+284	Harry Potter And The Goblet Of Fire	14,7	7	7,7	23	02:37	-	Fantasy	Magic	2005	Daniel Radcliffe		Mike Newell	English	Harry Potter och den flammande bägaren
+285	Toy Story 4	14,7	7	7,7	21	01:40	1	Animation	Toys	2019	Tom Hanks	Christina Hendricks	Josh Cooley	English	-
+286	Zodiac	14,7	7	7,7	16	02:37	-	Drama	Psychopath	2007	Jake Gyllenhaal		David Fincher	English	-
+287	The Matrix Revolutions	14,7	8	6,7	14	02:09	-	Sci-fi	Alternate Universe	2003	Keanu Reeves		Lana & Lilly Wachowski	English	-
+288	Philadelphia	14,7	7	7,7	13	02:05	-	Drama	Court	1993	Tom Hanks	Jason Robards	Jonathan Demme	English	-
+289	Donnie Brasco	14,7	7	7,7	12	02:07	-	Biography	Undercover	1997	Al Pacino		Mike Newell	English	-
+290	Midnight In Paris	14,7	7	7,7	11	01:34	-	Comedy	Author	2011	Owen Wilson		Woody Allen	English	Midnatt i Paris
+291	The Hangover	14,7	7	7,7	11	01:40	-	Comedy	Party	2009	Bradley Cooper		Todd Phillips	English	Baksmällan
+292	As Good As It Gets	14,7	7	7,7	10	02:19	-	Comedy	Self improvement	1997	Jack Nicholson		James L. Brooks	English	Livet från den ljusa sidan
+293	Silver Linings Playbook	14,7	7	7,7	10	02:02	-	Romance	Complicated love	2012	Bradley Cooper		David O. Russell	English	Du gör mig galen!
+294	A Few Good Men	14,7	7	7,7	10	02:18	-	Drama	Court	1992	Tom Cruise		Rob Reiner	English	På heder och samvete
+295	Brokeback Mountain	14,7	7	7,7	9	02:14	-	Romance	HBTQ	2005	Heath Ledger		Ang Lee	English	-
+296	500 Days Of Summer	14,7	7	7,7	6	01:35	-	Romance	Complicated love	2009	Joseph Gordon-Lewitt		Marc Webb	English	-
+297	The Empire Strikes Back	14,7	6	8,7	6	02:04	-	Sci-fi	Space	1980	Mark Hamill		Irvin Kershner	English	Rymdimperiet slår tillbaka / Star Wars: Episode V - The Empire Strikes Back
+298	Transsiberian	14,7	8	6,7	6	01:51	-	Mystery	Vacation	2008	Emily Mortimer		Brad Anderson	English	-
+299	The Last Samurai	14,7	7	7,7	5	02:34	-	Action	Epic	2003	Tom Cruise		Edward Zwick	English	Den siste samurajen
+300	Man On Fire	14,7	7	7,7	4	02:26	-	Action	Revenge	2004	Denzel Washington		Tony Scott	English	-
+301	The Banshees Of Inisherin	14,7	7	7,7	4	01:54	-	Comedy	Friendship	2022	Colin Farrell	Brendan Gleeson	Martin McDonagh	English	-
+302	Ex Machina	14,7	7	7,7	4	01:48	-	Sci-fi	Robots	2014	Alicia Vikander		Alex Garland	English	-
+303	Efter Brylluppet	14,7	7	7,7	2	02:00	-	Drama	Search	2006	Mads Mikkelsen		Susanne Bier	English	After the wedding
+304	One Flew Over The Cuckoo's Nest	14,7	6	8,7	2	02:13	-	Drama	Prison	1975	Jack Nicholson		Milos Forman	English	Gökboet
+305	Marrowbone	14,7	8	6,7	2	01:50	-	Horror	Household	2017	George MacKay	Tom Fisher	Sergio G. Sánchez	English	The Secret Of Marrowbone
+306	Celda 211	14,7	7	7,7	0	01:53	-	Drama	Prison	2009	Luis Tosar		Daniel Monzón	Swedish	-
+307	Apollo 13	14,6	7	7,6	29	02:20	-	Adventure	Space	1995	Tom Hanks	-	Ron Howard	English	-
+308	Once Upon A Time In… Hollywood	14,6	7	7,6	24	02:41	-	Drama	Odd duo	2019	Leonardo DiCaprio	-	Quentin Tarantino	English	Once Upon A Time In Hollywood
+309	Harry Potter And The Sorcerer's Stone	14,6	7	7,6	20	02:32	-	Fantasy	Magic	2001	Daniel Radcliffe		Chris Columbus	English	Harry Potter och de vises sten
+310	Love Actually	14,6	7	7,6	16	02:15	-	Romance	Multiple stories	2003	Hugh Grant		Richard Curtis	English	-
+311	Despicable Me	14,6	7	7,6	12	01:35	-	Animation	Self improvement	2010	Steve Carell		Pierre Coffin	English	Dumma mej
+312	Moneyball	14,6	7	7,6	12	02:13	-	Biography	Sports	2011	Brad Pitt		Bennett Miller	English	-
+313	Seven Pounds	14,6	7	7,6	11	02:03	-	Romance	Multiple stories	2008	Will Smith		Gabriele Muccino	English	-
+314	Fury	14,6	7	7,6	10	02:14	-	Action	WWII	2014	Brad Pitt		David Ayer	English	-
+315	Minority Report	14,6	7	7,6	10	02:25	-	Sci-fi	Future	2002	Tom Cruise		Steven Spielberg	English	-
+316	Die Hard With A Vengeance	14,6	7	7,6	10	02:08	-	Action	Odd duo	1995	Bruce Willis		John McTiernan	English	Die hard - hämningslöst
+317	Inside Out 2	14,6	7	7,6	9	01:36	-	Animation	Psychological	2024	Amy Poehler	Maya Hawke	Kelsey Mann	English	Insidan Ut 2
+318	Hell Or High Water	14,6	7	7,6	8	01:42	-	Action	Money	2016	Chris Pine	Jeff Bridges	David Mackenzie	English	-
+319	Incredibles 2	14,6	7	7,6	8	01:58	NO	Animation	Superhero	2018	Holly Hunter	Sarah Vowell	Brad Bird	English	-
+320	The Peanut Butter Falcon	14,6	7	7,6	6	01:37	-	Comedy	Journey	2019	Zack Gottsagen	-	Tyler Nilson & Michael Schwartz	English	-
+321	Home Alone	14,6	7	7,6	6	01:43	-	Comedy	Christmas	1990	Macaulay Culkin		Chris Columbus	English	Ensam hemma
+322	National Lampoon's Christmas vacation	14,6	7	7,6	6	01:37	-	Comedy	Christmas	1989	Chevy Chase		Jeremiah S. Chechik	English	Ett päron till farsa firar jul
+323	Free Guy	14,6	7	7,6	5	01:55	-	Comedy	Video game	2021	Ryan Reynolds	Taika Waititi	Shawn Levy	English	-
+324	Freedom Writers	14,6	7	7,6	5	02:03	-	Drama	School	2007	Hilary Swank	Imelda Staunton	Richard LaGravenese	English	-
+325	Falling Down	14,6	7	7,6	5	01:53	-	Drama	Psychological	1993	Michael Douglas		Joel Schumacher	English	-
+326	The Impossible	14,6	7	7,6	4	01:54	-	Drama	Disaster	2012	Naomi Watts		J.A. Bayona	English	-
+327	Elvis	14,6	7	7,6	4	02:39	-	Biography	Music	2022	Austin Butler	Tom Hanks	Baz Luhrmann	English	-
+328	A Quiet Place	14,6	7	7,6	4	01:30	-	Horror	Monster	2018	Emily Blunt		John Krasinski	Swedish	-
+329	The Beach	14,6	8	6,6	3	01:59	NO	Adventure	Community	2000	Leonardo DiCaprio	Tilda Swinton	Danny Boyle	English	-
+330	Robin Hood	14,6	7	7,6	3	01:23	-	Animation	Rebellion	1973	Brian Bedford		Larry Clemmons	English	-
+331	Clockwise	14,6	8	6,6	2	01:36	-	Comedy	Race against time	1986	John Cleese		Christopher Morahan	English	Ursäkta, vad är klockan?
+332	Haevnen	14,6	7	7,6	1	01:59	-	Drama	Household	2010	Mikael Persbrandt		Susanne Bier	English	In a better world
+333	The Naked gun: From The Files Of Police Squad!	14,6	7	7,6	1	01:25	-	Comedy	Police	1988	Leslie Nielsen		David Zucker	English	Den nakna pistolen
+334	The Jungle Book	14,6	7	7,6	1	01:18	-	Animation	Jungle	1967	Phil Harris		Wolfgang Reitherman	English	Cell 211
+335	The Party	14,6	7	7,6	0	01:39	-	Comedy	Idiot	1968	Peter Sellers		Blake Edwards	French	Oh, vilket party!
+336	Snow White And The Seven Dwarfs	14,6	7	7,6	0	01:23	-	Animation	Friendship	1937	Adriana Caselotti		William Cotrell	English	Snövit och de sju dvärgarna
+337	Avengers: Infinity War	14,5	6	8,5	31	02:29	-	Action	Superhero	2018	Josh Brolin		Anthony & Joe Russo	English	Bandersnatch
+338	Selma	14,5	7	7,5	19	02:08	-	Biography	Rascism	2014	David Oyelowo		Ava DuVernay	English	-
+339	Frozen	14,5	7	7,5	18	01:42	-	Animation	Magic	2013	Kristen Bell		Chris Buck	English	Frost
+340	War Of The Worlds	14,5	8	6,5	17	01:56	-	Adventure	Aliens	2005	Tom Cruise		Steven Spielberg	English	Världarnas krig
+341	Avatar: The Way Of Water	14,5	7	7,5	15	03:12	1	Fantasy	Ocean	2022	Sam Worthington	Stephen Lang	James Cameron	English	Avatar 2
+342	Gangs Of New York	14,5	7	7,5	12	02:47	-	Drama	Revenge	2002	Leonardo DiCaprio		Martin Scorsese	English	-
+343	Richard Jewell	14,5	7	7,5	11	02:11	-	Biography	Court	2019	Paul Walter Hauser	-	Clint Eastwood	English	-
+344	Quiz Show	14,5	7	7,5	11	02:13	-	Biography	TV-show	1994	Rob Morrow	David Paymer	Robert Redford	English	-
+345	Star Wars: Episode III - Revenge Of The Sith	14,5	7	7,5	11	02:20	-	Sci-fi	Space	2005	Hayden Christensen		George Lucas	English	Star Wars: Episod III - Mörkrets hämnd
+346	Nocturnal Animals	14,5	7	7,5	11	01:56	-	Thriller	Author	2016	Amy Adams	Aaron Taylor-Johnson	Tom Ford	English	-
+347	I, Tonya	14,5	7	7,5	9	01:59	-	Biography	Career	2017	Margot Robbie		Craig Gillespie	English	-
+348	Saving Mr. Banks	14,5	7	7,5	7	02:05	-	Biography	Author	2013	Emma Thompson		John Lee Hancock	English	-
+349	Ice Age	14,5	7	7,5	7	01:21	-	Animation	Animals	2002	Ray Romano		Carlos Saldanha	English	-
+350	Lone Survivor	14,5	7	7,5	7	02:01	-	Biography	Survival	2013	Mark Wahlberg		Peter Berg	English	-
+351	The Damned United	14,5	7	7,5	7	01:38	-	Biography	Soccer	2009	Colm Meaney		Tom Hooper	English	-
+352	The Town	14,5	7	7,5	7	02:05	-	Thriller	Heist	2010	Ben Affleck		Ben Affleck	English	-
+353	Out Of Time	14,5	8	6,5	6	01:45	-	Action	Race against time	2003	Denzel Washington		Carl Franklin	English	
+354	Jackie Brown	14,5	7	7,5	6	02:34	-	Thriller	Money	1997	Pam Grier		Quentin Tarantino	English	-
+355	Miracle	14,5	7	7,5	6	02:15	-	Biography	Sports	2004	Kurt Russell		Gavin O'Connor	English	Miracle On Ice
+356	Sinners	14,5	7	7,5	5	02:17	4	Horror	Vampires	2025	Michael B. Jordan	Jack O'Connell	Ryan Coogler	English	-
+357	Ready Player One	14,5	7	7,5	5	02:20	-	Action	Video game	2018	Tye Sheridan		Steven Spielberg	English	-
+358	King Richard	14,5	7	7,5	5	02:24	-	Biography	Sports	2021	Will Smith	-	Reinaldo Marcus Green	English	-
+359	Promising Young Woman	14,5	7	7,5	4	01:53	-	Drama	Revenge	2020	Carey Mulligan	Christopher Lowell	Emerald Fennell	English	-
+360	Back To The Future	14,5	6	8,5	3	01:56	-	Adventure	Race against time	1985	Michael J. Fox		Robert Zemeckis	English	Tillbaka till framtiden
+361	Intouchables	14,5	6	8,5	1	01:52	-	Biography	Odd duo	2011	Omar Sy		Olivier Nakache	French	En oväntad vänskap
+362	The Man Who Knew Too Much	14,5	7	7,5	0	02:00	-	Thriller	Vacation	1956	James Stewart		Alfred Hitchcock	English	Mannen som visste för mycket
+363	Wall-E	14,4	6	8,4	20	01:38	-	Animation	Robots	2008	Ben Burtt		Andrew Stanton	English	-
+364	Hobbit: The Battle Of The Five Armies	14,4	7	7,4	19	02:24	-	Fantasy	Epic	2014	Martin Freeman	Manu Bennett	Peter Jackson	English	Hobbit: Femhäraslaget
+365	A Time To Kill	14,4	7	7,4	17	02:29	-	Drama	Court	1996	Matthew McConaughey		Joel Schumacher	English	Juryn - A Time To Kill
+366	Sully	14,4	7	7,4	14	01:36	-	Biography	Airplane	2016	Tom Hanks		Clint Eastwood	English	-
+367	Spider-Man: Into The Spider-Verse	14,4	6	8,4	14	01:57	-	Action	Superhero	2018	Shameik Moore	Liev Schreiber	Bob Persichetti	English	-
+368	The Quick And The Dead	14,4	8	6,4	11	01:47	-	Western	Competition	1995	Sharon Stone		Sam Raimi	English	Snabbare än döden
+369	The Judge	14,4	7	7,4	10	02:21	-	Drama	Court	2014	Robert Downey Jr.		David Dobkin	English	-
+370	Wonder Woman	14,4	7	7,4	9	02:21	-	Action	Superhero	2017	Gal Gadot		Patty Jenkins	English	-
+371	The Jungle Book	14,4	7	7,4	8	01:46	-	Adventure	Jungle	2016	Neel Sethi		Jon Favreau	English	-
+372	Mud	14,4	7	7,4	8	02:10	-	Drama	Search	2012	Matthew McConaughey	Paul Sparks	Jeff Nichols	English	-
+373	Mudbound	14,4	7	7,4	8	02:14	-	Drama	Rascism	2017	Garrett Hedlund		Dee Rees	English	-
+374	War For The Planet Of The Apes	14,4	7	7,4	7	02:20	-	Adventure	Epic	2017	Andy Serkis		Matt Reeves	Swedish	Apornas Planet: Striden
+375	A History Of Violence	14,4	7	7,4	6	01:36	-	Thriller	Disguise	2005	Viggo Mortensen		David Cronenberg	English	-
+376	Conclave	14,4	7	7,4	5	02:00	1	Thriller	Religion	2024	Ralph Fiennes	Sergio Castellitto	Edward Berger	English	Konklaven
+377	Alien	14,4	6	8,4	5	01:57	-	Sci-fi	Aliens	1979	Sigourney Weaver		Ridley Scott	English	-
+378	Limitless	14,4	7	7,4	5	01:45	-	Thriller	Drugs	2011	Bradley Cooper	Robert de Niro	Neil Burger	English	-
+379	Moonlight	14,4	7	7,4	2	01:51	-	Drama	HBTQ	2016	Trevante Rhodes	-	Barry Jenkins	English	-
+380	It	14,4	7	7,4	2	02:15	-	Horror	Friendship	2017	Bill Skarsgård		Andy Muschietti	English	Det
+381	Pinocchio	14,4	7	7,4	0	01:28	-	Animation	Toys	1940	Dickie Jones		Norman Ferguson	English	-
+382	Hercules	14,3	7	7,3	20	01:33	-	Animation	Religion	1997	Tate Donovan		Ron Clements	English	Herkules
+383	Amistad	14,3	7	7,3	18	02:35	-	Biography	Court	1997	Djimon Hounsou	David Paymer	Steven Spielberg	English	-
+384	Now You See Me	14,3	7	7,3	18	01:55	-	Thriller	Magic	2013	Jesse Eisenberg		Louis Leterrier	English	-
+385	Don't Look Up	14,3	7	7,3	18	02:18	-	Comedy	Disaster	2021	Leonardo DiCaprio	Mark Rylance	Adam McKay	English	-
+386	Finding Dory	14,3	7	7,3	17	01:37	-	Animation	Animals	2016	Ellen DeGeneres		Andrew Stanton	English	Hitta Doris
+387	The Best Of Enemies	14,3	7	7,3	13	02:13	-	Biography	Rascism	2019	Taraji P. Henson	Sam Rockwell	Robin Bissell	English	-
+388	The Emperor's New Groove	14,3	7	7,3	12	01:18	-	Animation	Journey	2000	David Spade		Mark Dindal	English	Kejsarens nya stil
+389	Lawless	14,3	7	7,3	12	01:56	-	Drama	Money	2012	Tom Hardy		John Hillcoat	English	-
+390	Shot Caller	14,3	7	7,3	10	02:01	-	Thriller	Prison	2017	Nikolaj Coster-Waldau	Holt McCallany	Ric Roman Waugh	English	-
+391	This Boy's Life	14,3	7	7,3	10	01:55	-	Biography	Household	1993	Leonardo DiCaprio		Michael Caton-Jones	English	En främling i familjen
+392	Black Panther	14,3	7	7,3	10	02:14	-	Action	Superhero	2018	Chadwick Boseman		Ryan Coogler	English	-
+393	She Said	14,3	7	7,3	9	02:09	-	Biography	Investigation	2022	Zoe Kazan	Mike Houston	Maria Schrader	English	-
+394	Jerry Maguire	14,3	7	7,3	8	02:19	-	Drama	Career	1996	Tom Cruise	-	Cameron Crowe	English	-
+395	Bullet Train	14,3	7	7,3	8	02:07	-	Action	Journey	2022	Brad Pitt	Michael Shannon	David Leitch	English	-
+396	Indiana Jones And The Last Crusade	14,3	6	8,3	7	02:07	-	Adventure	Treasure hunt	1989	Harrison Ford		Steven Spielberg	English	
+397	First Man	14,3	7	7,3	6	02:21	-	Biography	Space	2018	Ryan Gosling		Damien Chazelle	English	-
+398	The Simpsons Movie	14,3	7	7,3	6	01:27	-	Animation	TV-show	2007	Dan Castellaneta		David Silverman	English	The Simpsons filmen
+399	Den Bästa Sommaren	14,3	7	7,3	5	01:31	-	Drama	Self improvement	2000	Kjell Bergqvist		Ulf Malmros	Swedish	A Summer Tale
+400	The Descendants	14,3	7	7,3	5	01:55	-	Drama	Self improvement	2011	George Clooney		Alexander Payne	English	
+401	Emil I Lönneberga	14,3	7	7,3	5	01:35	-	Family	Household	1971	Jan Ohlsson		Olle Hellbom	Swedish	-
+402	The Substance	14,3	7	7,3	5	02:21	-	Horror	Psychological	2024	Demi Moore	Margaret Qualley	Coralie Fargeat	English	-
+403	Taxi Driver	14,3	6	8,3	4	01:54	-	Drama	Psychological	1976	Robert de Niro		Martin Scorsese	English	-
+404	Scarface	14,3	6	8,3	4	02:50	-	Drama	Mafia	1983	Al Pacino		Brian De Palma	English	-
+405	438 Dagar	14,3	7	7,3	1	02:04	-	Biography	Prison	2019	Gustaf Skarsgård	-	Jesper Ganslandt	Swedish	-
+406	Borat	14,3	7	7,3	1	01:24	-	Comedy	Idiot	2006	Sacha Baron Cohen		Larry Charles	English	Borat: Cultural learnings of America for make benefit glorious nation of Kazakhstan
+407	The Ritual	14,3	8	6,3	1	01:34	-	Horror	Friendship	2017	Rafe Spall		David Bruckner	English	
+408	Cube	14,3	7	7,3	0	01:30	-	Horror	Puzzle	1997	Nicole de Boer		Vincenzo Natali	English	
+409	Dumbo	14,3	7	7,3	0	01:04	-	Animation	Animals	1941	Sterling Holloway		Samuel Armstrong	English	-
+410	Cinderella	14,3	7	7,3	0	01:14	-	Animation	Monarchy	1950	Ilene Woods		Clyde Geronimi	English	Askungen
+411	Lady And The Tramp	14,3	7	7,3	0	01:16	-	Animation	Animals	1955	Peggy Lee		Clyde Geronimi	English	Lady och Lufsen
+412	Turist	14,3	7	7,3	0	02:00	-	Drama	Vacation	2014	Johannes Kuhnke	-	Ruben Östlund	Swedish	Force Majeure
+413	A Bug's Life	14,2	7	7,2	24	01:35	-	Animation	Animals	1998	Dave Foley	Kevin Spacey	John Lasseter	English	Ett småkryps liv
+414	Inside Out	14,2	6	8,2	20	01:35	-	Animation	Psychological	2015	Amy Poehler		Pete Docter	English	Insidan ut
+415	Glory Road	14,2	7	7,2	19	01:58	-	Biography	Basketball	2006	Samuel L. Jackson		James Gartner	English	-
+416	The Princess And The Frog	14,2	7	7,2	17	01:37	-	Animation	Transformation	2009	Anika Noni Rose	Keith David	Ron Clements / John Musker	English	Prinsessan Och Grodan
+417	Up	14,2	6	8,2	16	01:36	-	Animation	Odd duo	2009	Christopher Plummer		Pete Docter	English	Upp
+418	The Matrix Reloaded	14,2	7	7,2	16	02:18	-	Sci-fi	Alternate Universe	2003	Keanu Reeves		Lana & Lilly Wachowski	English	-
+419	The Founder	14,2	7	7,2	16	01:55	-	Biography	Food	2016	Michael Keaton		John Lee Hancock	English	-
+420	Red Dragon	14,2	7	7,2	14	02:04	-	Thriller	Psychopath	2002	Edward Norton	Ralph Fiennes	Brett Ratner	English	Röd Drake
+421	Hauru No Ugoku Shiro	14,2	6	8,2	12	01:59	-	Animation	Anime	2004	Chieko Baishô	Haruko Katô	Hayao Miyazaki	Japanese	Howl's Moving Castle / Det Levande Slottet
+422	Fracture	14,2	7	7,2	11	01:53	-	Thriller	Court	2007	Ryan Gosling		Gregory Hoblit	English	Bristande bevis
+423	Seven Psychopaths	14,2	7	7,2	10	01:50	-	Comedy	Mafia	2012	Colin Farrell		Martin McDonagh	English	-
+424	Lethal Weapon 2	14,2	7	7,2	9	01:54	-	Action	Investigation	1989	Mel Gibson		Richard Donner	English	Dödligt vapen 2
+425	Speed	14,2	7	7,2	9	01:56	-	Action	Race against time	1994	Keanu Reeves		Jan de Bont	English	-
+426	The Bank Job	14,2	7	7,2	9	01:51	-	Drama	Heist	2008	Jason Statham		Roger Donaldson	English	
+427	True Lies	14,2	7	7,2	7	02:21	-	Action	Agent	1994	Arnold Schwarzenegger		James Cameron	English	-
+428	From Dusk Till Dawn	14,2	7	7,2	7	01:48	-	Action	Vampires	1996	George Clooney		Robert Rodriguez	English	-
+429	The Rainmaker	14,2	7	7,2	7	02:15	-	Drama	Court	1997	Matt Damon	Jon Voight	Francis Ford Coppola	English	Regnmakaren
+430	Shrek 2	14,2	7	7,2	6	01:33	-	Animation	Monster	2004	Mike Myers		Andrew Adamson	English	
+431	Emil Och Griseknoen	14,2	7	7,2	6	01:37	-	Family	Household	1973	Jan Ohlsson		Olle Hellbom	Swedish	Emil And The Piglet
+432	Nya Hyss Av Emil I Lönneberga	14,2	7	7,2	6	01:35	-	Family	Household	1972	Jan Ohlsson		Olle Hellbom	Swedish	-
+433	Carnage	14,2	7	7,2	5	01:20	-	Comedy	Household	2011	Christoph Waltz	-	Roman Polanski	English	-
+434	8 Mile	14,2	7	7,2	5	01:50	-	Drama	Music	2002	Eminem	-	Curtis Hanson	English	-
+435	Monty Python And The Holy Grail	14,2	6	8,2	4	01:31	-	Comedy	Religion	1975	John Cleese		Terry Gilliam	English	Monty Pythons galna värld
+436	Kill Bill: Vol. 1	14,2	6	8,2	3	01:51	-	Action	Revenge	2003	Uma Thurman		Quentin Tarantino	English	-
+437	The Square	14,2	7	7,2	2	02:22	-	Drama	Project	2017	Claes Bang		Ruben Östlund	English	-
+438	Brian Banks	14,2	7	7,2	2	01:39	-	Biography	Court	2018	Aldis Hodge	-	Tom Shadyac	English	-
+439	Leave No Trace	14,2	7	7,2	2	01:49	-	Drama	Odd duo	2018	Thomasin McKenzie	-	Debra Granik	English	-
+440	Black Mirror: Bandersnatch	14,2	7	7,2	1	01:30	-	Mystery	Interactive	2018	Fionn Whitehead		David Slade	English	Djungelboken
+441	Grease	14,2	7	7,2	1	01:50	-	Musical	Complicated love	1978	John Travolta		Randal Kleiser	English	-
+442	El Laberinto Del Fauno	14,2	6	8,2	1	01:58	-	Fantasy	Alternate Universe	2006	Ivana Baquero		Guillermo del Toro	Spanish	Pans labyrint
+443	One Hundred And One Dalmatians	14,2	7	7,2	1	01:19	-	Animation	Animals	1961	Rod Taylor		Clyde Geronimi	English	Pongo och de 101 dalmatinerna
+444	Kapringen	14,2	7	7,2	0	01:43	-	Thriller	Pirates	2012	Pilou Asbaek		Tobias Lindholm	Danish	A Hijacking
+445	Pirates Of The Caribbean: At World's End	14,1	7	7,1	27	02:49	-	Adventure	Pirates	2007	Johnny Depp		Gore Verbinski	English	Pirates of the Carribean: Vid världens ände
+446	We Are Marshall	14,1	7	7,1	18	02:11	-	Drama	American football	2006	Matthew McConaughey		Joseph McGinty "McG" Nichol	English	-
+447	There's Something About Mary	14,1	7	7,1	13	01:59	-	Comedy	Romcom	1998	Ben Stiller		Peter & Bobby Farrelly	English	Den där Mary
+448	Valkyrie	14,1	7	7,1	12	02:01	-	Thriller	WWII	2008	Tom Cruise		Bryan Singer	English	
+449	John Q	14,1	7	7,1	11	01:56	-	Thriller	Hostage	2002	Denzel Washington		Nick Cassavetes	English	-
+450	On The Basis Of Sex	14,1	7	7,1	9	02:00	-	Biography	Court	2018	Felicity Jones	-	Mimi Leder	English	En Kvinna Bland Män
+451	Snowpiercer	14,1	7	7,1	9	02:06	-	Adventure	Future	2013	Chris Evans		Joon-ho Bong	English	-
+452	Where The Crawdads Sing	14,1	7	7,1	9	02:05	-	Drama	Lone Protagonist	2022	Daisy Edgar-Jones	Harris Dickinson	Olivia Newman	English	Där Kräftorna Sjunger
+453	American Made	14,1	7	7,1	9	01:55	-	Biography	Drugs	2017	Tom Cruise		Doug Liman	English	-
+454	The Devil All The Time	14,1	7	7,1	8	02:18	-	Drama	Religion	2020	Tom Holland	Jason Clarke	Antonio Campos	English	-
+455	Gran Torino	14,1	6	8,1	7	01:56	-	Drama	Self improvement	2008	Clint Eastwood		Clint Eastwood	English	-
+456	Marley & Me	14,1	7	7,1	7	01:55	-	Comedy	Animals	2008	Owen Wilson		David Frankel	English	
+457	The Ring	14,1	7	7,1	7	01:55	-	Horror	Supernatural	2002	Naomi Watts		Gore Verbinski	English	
+458	Midsommar	14,1	7	7,1	6	02:27	NO	Horror	Community	2019	Florence Pugh	-	Ari Aster	English	-
+459	The Sixth Sense	14,1	6	8,1	6	01:47	-	Mystery	Psychological	1999	Bruce Willis		M. Night Shyamalan	English	Sjätte sinnet
+460	Fargo	14,1	6	8,1	6	01:38	-	Comedy	Investigation	1996	Frances McDormand	Peter Stormare	Ethan & Joel Coen	English	-
+461	Missing	14,1	7	7,1	6	01:51	-	Thriller	Search	2023	Storm Reid	Tim Griffin	Nicholas D. Johnson / Will Merrick	English	-
+462	Allied	14,1	7	7,1	5	02:04	-	Action	WWII	2016	Brad Pitt	Marion Cotillard	Robert Zemeckis	English	-
+463	Rocky	14,1	6	8,1	5	02:00	-	Drama	Boxing	1976	Sylvester Stallone		John G. Avildsen	English	
+464	Jaws	14,1	6	8,1	2	02:04	3	Horror	Shark	1975	Roy Scheider	Murray Hamilton	Steven Spielberg	English	-
+465	Talk To Me	14,1	7	7,1	2	01:35	-	Horror	Possession	2022	Sophie Wilde	-	Danny Philippou / Michael Philippou	English	-
+466	Ben-Hur	14,1	6	8,1	1	03:32	-	Drama	Religion	1959	Charlton Heston		William Wyler	English	
+467	Bring Her Back	14,1	7	7,1	1	01:44	-	Horror	Possession	2025	Billy Barratt	Sally Hawkins	Danny Philippou / Michael Philippou	English	-
+468	The Avengers	14,0	6	8,0	18	02:23	-	Action	Superhero	2012	Robert Downey Jr.		Joss Whedon	English	-
+469	Public Enemies	14,0	7	7,0	18	02:20	-	Biography	Mafia	2009	Johnny Depp		Michael Mann	English	
+470	Tropic Thunder	14,0	7	7,0	17	01:47	-	Comedy	War	2008	Ben Stiller		Ben Stiller	English	-
+471	The Infiltrator	14,0	7	7,0	13	02:07	-	Biography	Undercover	2016	Bryan Cranston		Brad Furman	English	-
+472	Blade Runner 2049	14,0	6	8,0	10	02:44	-	Sci-fi	Robots	2017	Ryan Gosling		Denis Villeneuve	English	-
+473	Prometheus	14,0	7	7,0	10	02:04	-	Sci-fi	Aliens	2012	Noomi Rapace		Ridley Scott	English	
+474	American Pie	14,0	7	7,0	10	01:35	-	Comedy	Sex	1999	Jason Biggs		Paul & Chris Weitz	English	
+475	World War Z	14,0	7	7,0	9	01:56	-	Action	Zombies	2013	Brad Pitt		Marc Forster	English	-
+476	Rain Man	14,0	6	8,0	9	02:13	-	Drama	Odd duo	1988	Dustin Hoffman		Barry Levinson	English	-
+477	Wedding Crashers	14,0	7	7,0	9	01:59	-	Comedy	Wedding	2005	Owen Wilson		David Dobkin	English	
+478	Oblivion	14,0	7	7,0	7	02:04	-	Sci-fi	Lone protagonist	2013	Tom Cruise		Joseph Kosinski	English	
+479	CODA	14,0	6	8,0	5	01:51	3	Drama	Music	2021	Emilia Jones	-	Sian Heder	English	-
+480	P.S. I Love You	14,0	7	7,0	5	02:06	-	Comedy	Romcom	2007	Hilary Swank	-	Richard LaGravenese	English	-
+481	Orphan	14,0	7	7,0	5	02:03	-	Horror	Psycopath	2009	Vera Farmiga	Isabelle Fuhrman	Jaume Collet-Serra	English	-
+482	The Spy Who Loved Me	14,0	7	7,0	4	02:05	-	Action	Agent	1977	Roger Moore		Lewis Gilbert	English	
+483	The Killing Of A Sacred Deer	14,0	7	7,0	4	02:01	-	Mystery	Psychopath	2017	Colin Farrell	Barry Keoghan	Yorgos Lanthimos	English	-
+484	Life Of Brian	14,0	6	8,0	3	01:34	-	Comedy	Religion	1979	Graham Chapman		Terry Jones	English	Monty Python's Life of Brian - ett herrans liv
+485	Sound Of Music	14,0	6	8,0	3	02:52	-	Musical	Household	1965	Julie Andrews		Robert Wise	English	-
+486	The Unbearable Weight Of Massive Talent	14,0	7	7,0	3	01:47	-	Comedy	Lone Protagonist	2022	Nicolas Cage	Paco León	Tom Gormican	English	-
+487	Slumdog Millionaire	14,0	6	8,0	1	02:00	-	Drama	TV-show	2008	Dev Patel		Danny Boyle	English	
+488	Släpp Taget	14,0	7	7,0	1	01:50	-	Drama	Complicated love	2024	Josephine Bornebusch	-	Josephine Bornebusch	Swedish	Let Go
+489	El Hoyo	14,0	7	7,0	0	01:34	-	Horror	Prison	2019	Ivan Massagué	Zorion Eguileor	Galder Gaztelu-Urrutia	Spanish	The Platform
+490	Ocean's Thirteen	13,9	7	6,9	19	02:02	-	Thriller	Heist	2007	George Clooney		Steven Soderbergh	English	
+491	Get On Up	13,9	7	6,9	17	02:19	-	Biography	Music	2014	Chadwick Boseman		Tate Taylor	English	-
+492	Jurassic World	13,9	7	6,9	15	02:04	-	Adventure	Dinosaurs	2015	Chris Pratt	Vincent D'Onofrio	Colin Trevorrow	English	-
+493	Step Brothers	13,9	7	6,9	13	01:38	-	Comedy	Household	2008	Will Ferrell		Adam McKay	English	-
+494	Mystic River	13,9	6	7,9	13	02:18	-	Drama	Friendship	2003	Sean Penn		Clint Eastwood	English	
+495	28 Weeks Later	13,9	7	6,9	8	01:40	-	Drama	Zombies	2007	Jeremy Renner		Juan Carlos Fresnadillo	English	28 veckor senare
+496	The Lion King	13,9	7	6,9	8	01:58	-	Animation	Animals	2019	Donald Glover	Chiwetel Ejiofor	Jon Favreau	English	Lejonkungen
+497	Hector And The Search For Happiness	13,9	7	6,9	7	02:00	-	Adventure	Search	2014	Simon Pegg		Peter Chelsom	English	
+498	Ace Ventura: Pet Detective	13,9	7	6,9	6	01:26	-	Comedy	Idiot	1994	Jim Carrey		Tom Shadyac	English	Den galopperande detektiven
+499	48 Hrs.	13,9	7	6,9	6	01:36	-	Action	Odd duo	1982	Nick Nolte		Walter Hill	English	48 timmar
+500	Disturbia	13,9	7	6,9	5	01:45	-	Mystery	Investigation	2007	Shia Labeouf		D.J. Caruso	English	
+501	In The Heart Of The Sea	13,9	7	6,9	5	02:02	-	Biography	Ocean	2015	Chris Hemsworth		Ron Howard	English	
+502	Jojo Rabbit	13,9	6	7,9	4	01:48	-	Comedy	WWII	2019	Roman Griffin Davis	-	Taika Waititi	English	-
+503	To The Bone	13,9	7	6,9	4	01:47	-	Drama	Disease	2017	Rebekah Kennedy		Marti Noxon	English	-
+504	The Stanford Prison Experiment	13,9	7	6,9	4	02:02	-	Biography	Prison	2015	Billy Crudup	Michael Angarano	Kyle Patrick Alvarez	English	-
+505	Smala Sussie	13,9	7	6,9	3	01:37	-	Comedy	Search	2003	Jonas Rimeika		Ulf Malmros	Swedish	Slim Susie
+506	Life Of Pi	13,9	6	7,9	3	02:07	-	Adventure	Lone protagonist	2012	Suraj Sharma		Ang Lee	English	
+507	Sunes Sommar	13,9	7	6,9	3	01:23	-	Comedy	Vacation	1993	Andreas Hoffer		Stephan Apelgren	Swedish	
+508	Midnight Cowboy	13,9	6	7,9	2	01:53	-	Drama	Odd duo	1969	Jon Voight		John Schlesinger	English	-
+509	Dirty Dancing	13,9	7	6,9	2	01:40	-	Romance	Theatre	1987	Patrick Swayze		Emile Ardolino	English	-
+510	E.T. the extra-terrestrial	13,9	6	7,9	1	01:55	-	Family	Aliens	1982	Henry Thomas		Steven Spielberg	English	
+511	Boyhood	13,9	6	7,9	1	02:45	-	Drama	Self improvement	2014	Ellar Coltrane		Richard Linklater	English	-
+512	Shadow of a doubt	13,9	6	7,9	0	01:48	-	Thriller	Household	1943	Teresa Wright		Alfred Hitchcock	English	Skuggan av ett tvivel
+513	Captain America: Civil War	13,8	6	7,8	24	02:27	-	Action	Superhero	2016	Chris Evans		Anthony & Joe Russo	English	
+514	Con Air	13,8	7	6,8	21	01:55	-	Action	Airplane	1997	Nicolas Cage		Simon West	English	-
+515	Big Hero 6	13,8	6	7,8	15	01:42	-	Animation	Robots	2014	Ryan Potter		Don Hall	English	-
+516	Changeling	13,8	6	7,8	14	02:21	-	Biography	Girl power	2008	Angelina Jolie		Clint Eastwood	English	-
+517	Tenet	13,8	6	7,8	14	02:30	-	Action	Race against time	2020	John David Washington	Kenneth Branagh	Christopher Nolan	English	-
+518	U Turn	13,8	7	6,8	12	02:05	-	Thriller	Community	1997	Sean Penn		Oliver Stone	English	U-turn
+519	Unstoppable	13,8	7	6,8	12	01:38	-	Action	Race against time	2010	Denzel Washington		Tony Scott	English	
+520	50 First Dates	13,8	7	6,8	12	01:39	-	Romance	Romcom	2004	Adam Sandler		Peter Segal	English	-
+521	Brother bear	13,8	7	6,8	11	01:25	-	Animation	Transformation	2003	Joaquin Phoenix		Aaron Blaise	English	Björnbröder
+522	Mississippi Burning	13,8	6	7,8	10	02:08	-	Drama	Rascism	1988	Gene Hackman	Brad Dourif	Alan Parker	English	Mississippi Brinner
+523	Little Women	13,8	6	7,8	10	02:15	-	Romance	Household	2019	Saoirse Ronan	-	Greta Gerwig	English	Unga Kvinnor
+524	Manchester By The Sea	13,8	6	7,8	10	02:17	-	Drama	Psychological	2016	Casey Affleck	-	Kenneth Lonergan	English	-
+525	Yes Man	13,8	7	6,8	8	01:44	-	Comedy	Romcom	2008	Jim Carrey		Peyton Reed	English	-
+526	Män Som Hatar Kvinnor	13,8	6	7,8	8	02:32	-	Thriller	Investigation	2009	Noomi Rapace		Niels Arden Oplev	Swedish	The Girl With The Dragon Tattoo
+527	Drive	13,8	6	7,8	7	01:40	-	Thriller	Chase	2011	Ryan Gosling		Nicolas Winding Refn	English	-
+528	Insidious	13,8	7	6,8	7	01:43	-	Horror	Possession	2010	Patrick Wilson		James Wan	English	-
+529	About Time	13,8	6	7,8	6	02:03	-	Romance	Repeating day	2013	Domhnall Gleeson		Richard Curtis	English	-
+530	The Maze Runner	13,8	7	6,8	5	01:53	-	Sci-fi	Puzzle	2014	Dylan O'Brien		Wes Ball	English	-
+531	Yrrol: En Kolossalt Genomtänkt Film	13,8	7	6,8	5	01:28	-	Comedy	Multiple stories	1994	Suzanne Reuter		Peter Dalle	Swedish	
+532	Death Sentence	13,8	7	6,8	5	01:45	-	Thriller	Revenge	2007	Kevin Bacon		James Wan	English	
+533	Panic Room	13,8	7	6,8	5	01:52	-	Thriller	Hostage	2002	Jodie Foster		David Fincher	English	
+534	Nope	13,8	7	6,8	5	02:10	-	Horror	Aliens	2022	Daniel Kaluuya	-	Jordan Peele	English	-
+535	The Autopsy Of Jane Doe	13,8	7	6,8	4	01:26	-	Horror	Possession	2016	Brian Cox	Ophelia Lovibond	André Övredal	English	-
+536	Torsk På Tallinn: En Liten Film Om Ensamhet	13,8	6	7,8	3	00:59	-	Comedy	Multiple stories	1999	Robert Gustafsson		Tomas Alfredson	Swedish	Screwed In Tallinn
+537	Gravity	13,8	6	7,8	3	01:31	-	Drama	Space	2013	Sandra Bullock		Alfonso Cuarón	English	
+538	The Naked Gun 2 1/2: The Smell Of Fear	13,8	7	6,8	2	01:25	-	Comedy	Police	1991	Leslie Nielsen		David Zucker	English	
+539	Kramer Vs. Kramer	13,8	6	7,8	2	01:45	-	Drama	Court	1979	Dustin Hoffman	Meryl Streep	Robert Benton	English	-
+540	Us	13,8	7	6,8	1	01:56	-	Horror	Rebellion	2019	Lupita Nyong'o	-	Jordan Peele	English	-
+541	Halloween	13,8	6	7,8	1	01:31	-	Horror	Splasher	1978	Donald Pleasence		John Carpenter	English	
+542	Wreck-It Ralph	13,7	6	7,7	24	01:41	-	Animation	Video game	2012	John C. Reilly		Rich Moore	English	Röjar-Ralf
+543	Ray	13,7	6	7,7	21	02:32	-	Biography	Music	2004	Jamie Foxx	-	Taylor Hackford	English	-
+544	The Blind Side	13,7	6	7,7	14	02:09	-	Biography	American football	2009	Sandra Bullock		John Lee Hancock	English	-
+545	Pirates Of The Caribbean: Dead Men Tell No Tales	13,7	7	6,7	13	02:09	-	Adventure	Pirates	2017	Johnny Depp		Joachim Rönning	English	
+546	Gone Baby Gone	13,7	6	7,7	12	01:54	-	Drama	Police	2007	Casey Affleck		Ben Affleck	English	-
+547	Skyfall	13,7	6	7,7	11	02:23	-	Action	Agent	2012	Daniel Craig		Sam Mendes	English	-
+548	Kick-Ass	13,7	6	7,7	11	01:57	-	Comedy	Superhero	2010	Aaron Taylor-Johnson		Matthew Vaughn	English	-
+549	Kingsman: The Secret Service	13,7	6	7,7	10	02:09	-	Action	Agent	2014	Taron Egerton		Matthew Vaughn	English	-
+550	Angels & Demons	13,7	7	6,7	9	02:18	-	Thriller	Puzzle	2009	Tom Hanks		Ron Howard	English	Änglar & demoner
+551	Hillbilly Elegy	13,7	7	6,7	9	01:56	-	Biography	Drugs	2020	Gabriel Basso	Amy Adams	Ron Howard	English	-
+552	Divergent	13,7	7	6,7	8	02:19	-	Sci-fi	Alternate Universe	2014	Shailene Woodley		Neil Burger	English	-
+553	Analyze This	13,7	7	6,7	8	01:43	-	Comedy	Mafia	1999	Robert de Niro		Harold Ramis	English	Analysera mera!
+554	Primal Fear	13,7	6	7,7	8	02:09	-	Drama	Court	1996	Richard Gere		Gregory Hoblit	English	-
+555	Hook	13,7	7	6,7	7	02:22	-	Adventure	Alternate Universe	1991	Robin Williams		Steven Spielberg	English	-
+556	The Fault In Our Stars	13,7	6	7,7	7	02:06	-	Romance	Disease	2014	Shailene Woodley	-	Josh Boone	English	Förr Eller Senare Exploderar Jag!
+557	Zombieland	13,7	6	7,7	6	01:28	-	Comedy	Zombies	2009	Jesse Eisenberg		Ruben Fleischer	English	-
+558	Extremely Wicked, Shockingly Evil And Vile	13,7	7	6,7	6	01:50	-	Biography	Psychopath	2019	Zac Efron	-	Joe Berlinger	English	-
+559	50/50	13,7	6	7,7	5	01:40	-	Comedy	Disease	2011	Joseph Gordon-Lewitt		Jonathan Levine	English	-
+560	The exorcism of Emily Rose	13,7	7	6,7	5	01:59	-	Horror	Possession	2005	Laura Linney		Scott Derrickson	English	Besatt
+561	First blood	13,7	6	7,7	5	01:33	-	Action	Lone protagonist	1982	Sylvester Stallone		Ted Kotcheff	English	Rambo
+562	The Last King Of Scotland	13,7	6	7,7	5	02:03	-	Biography	Monarchy	2006	Forest Whitaker		Kevin Macdonald	English	-
+563	The Favourite	13,7	6	7,7	5	01:59	-	Biography	Monarchy	2018	Emma Stone		Yorgos Lanthimos	English	-
+564	Lost In Translation	13,7	6	7,7	4	01:42	-	Romance	Complicated love	2003	Bill Murray	-	Sofia Coppola	English	-
+565	Run	13,7	7	6,7	4	01:30	-	Thriller	Hostage	2020	Kiera Allen	Sarah Paulson	Aneesh Chaganty	English	-
+566	Jungle	13,7	7	6,7	4	01:55	-	Adventure	Jungle	2017	Daniel Radcliffe	-	Greg McLean	English	-
+567	Project X	13,7	7	6,7	3	01:28	-	Comedy	Party	2012	Thomas Mann		Nima Nourizadeh	English	Project X - Hemmafesten
+568	En Man Som Heter Ove	13,7	6	7,7	3	01:56	-	Comedy	Old timers	2015	Rolf Lassgård		Hannes Holm	Swedish	A man called Ove
+569	The Invitation	13,7	7	6,7	3	01:40	-	Mystery	Party	2015	Logan Marshall-Green		Karyn Kusama	English	-
+570	Bend it like Beckham	13,7	7	6,7	1	01:52	-	Drama	Soccer	2002	Parminder Nagra		Gurinder Chadha	English	Skruva den som Beckham
+571	Bastarden	13,7	6	7,7	1	02:07	-	Biography	Project	2023	Mads Mikkelsen	Simon Bennebjerg	Nikolaj Arcel	Danish	The Promised Land
+572	The Ron Clark story	13,7	6	7,7	0	01:30	-	Biography	School	2006	Matthew Perry		Randa Haines	English	The triumph
+573	Verdens Verste Menneske	13,7	6	7,7	0	02:08	-	Romance	Complicated love	2021	Renate Reinsve	-	Joachim Trier	Norwegian	The Worst Person In The World
+574	Armageddon	13,6	7	6,6	26	02:31	-	Action	Disaster	1998	Bruce Willis		Michael Bay	English	-
+575	This Is The End	13,6	7	6,6	18	01:47	-	Comedy	Disaster	2013	Jay Baruchel		Evan Goldberg	English	-
+576	Les Misérables	13,6	6	7,6	16	02:38	-	Musical	Multiple stories	2012	Hugh Jackman		Tom Hooper	English	-
+577	Me, Myself & Irene	13,6	7	6,6	16	01:56	-	Comedy	Psychological	2000	Jim Carrey		Peter & Bobby Farrelly	English	Mina jag & Irene
+578	Superbad	13,6	6	7,6	13	01:53	-	Comedy	Party	2007	Michael Cera		Greg Mottola	English	Supersugen
+579	The Silence Of The Lambs	13,6	5	8,6	12	01:58	-	Thriller	Psychopath	1991	Jodie Foster	Anthony Hopkins	Jonathan Demme	English	När lammen tystnar
+580	Demolition Man	13,6	7	6,6	9	01:55	-	Action	Future	1993	Sylvester Stallone		Marco Brambilla	English	-
+581	The Illusionist	13,6	6	7,6	9	01:50	-	Drama	Magic	2006	Edward Norton		Neil Burger	English	Illusionisten
+582	Bird Box	13,6	7	6,6	8	02:04	-	Mystery	Survival	2018	Sandra Bullock		Susanne Bier	English	-
+583	The Little Mermaid	13,6	6	7,6	8	01:23	-	Family	Ocean	1989	Jodi Benson		Ron Clements	English	Den Lilla Sjöjungfrun
+584	Inside Man	13,6	6	7,6	7	02:09	-	Thriller	Heist	2006	Denzel Washington		Spike Lee	English	-
+585	Creed	13,6	6	7,6	7	02:13	-	Drama	Boxing	2015	Michael B. Jordan		Ryan Coogler	English	-
+586	True Grit	13,6	6	7,6	7	01:50	-	Western	Odd duo	2010	Jeff Bridges		Ethan & Joel Coen	English	-
+587	Elysium	13,6	7	6,6	7	01:49	-	Sci-fi	Future	2013	Matt Damon		Neill Blomkamp	English	-
+588	Annabelle: Creation	13,6	7	6,6	7	01:49	-	Horror	Toys	2017	Samara Lee		David F. Sandberg	English	-
+589	A Fish Called Wanda	13,6	6	7,6	6	01:48	-	Comedy	Heist	1988	John Cleese		Charles Crichton	English	En fisk som heter Wanda
+590	Moana	13,6	6	7,6	4	01:47	-	Animation	Odd duo	2016	Auli'i Cravalho		Ron Clements	English	Vaiana
+591	Saw II	13,6	7	6,6	4	01:33	-	Horror	Puzzle	2005	Tobin Bell		Darren Lynn Bousman	English	
+592	Rasmus På Luffen	13,6	7	6,6	4	01:45	-	Family	Journey	1981	Allan Edwall		Olle Hellbom	Swedish	-
+593	28 Days Later	13,6	6	7,6	4	01:53	-	Drama	Zombies	2002	Cillian Murphy		Danny Boyle	English	28 dagar senare
+594	The Two Popes	13,6	6	7,6	3	02:05	-	Drama	Religion	2019	Jonathan Pryce	-	Fernando Meirelles	English	-
+595	Så som i himmelen	13,6	6	7,6	2	02:13	-	Drama	Music	2004	Michael Nyqvist		Kay Pollak	Swedish	As it is in heaven
+596	Indiana Jones And The Temple Of Doom	13,6	6	7,6	2	01:58	-	Adventure	Treasure hunt	1984	Harrison Ford		Steven Spielberg	English	
+597	Die welle	13,6	6	7,6	0	01:47	-	Drama	School	2008	Frederick Lau		Dennis Gansel	German	
+598	Ocean's Twelve	13,5	7	6,5	15	02:05	-	Thriller	Heist	2004	George Clooney		Steven Soderbergh	English	-
+599	Changing Lanes	13,5	7	6,5	11	01:38	-	Drama	Search	2002	Ben Affleck		Roger Michell	English	
+600	Kokuriko-Zaka Kara	13,5	6	7,5	10	01:31	-	Animation	Anime	2011	Masami Nagasawa		Gorô Miyazaki	Japanese	From Up On Poppy Hill
+601	Doctor Strange	13,5	6	7,5	9	01:55	-	Adventure	Superhero	2016	Benedict Cumberbatch		Scott Derrickson	English	
+602	Sideways	13,5	6	7,5	8	02:07	-	Comedy	Odd duo	2004	Paul Giamatti	-	Alexander Payne	English	-
+603	42	13,5	6	7,5	8	02:08	-	Biography	Rascism	2013	Chadwick Boseman		Brian Helgeland	English	
+604	Music And Lyrics	13,5	7	6,5	7	01:36	-	Romance	Music	2007	Hugh Grant		Marc Lawrence	English	
+605	Babel	13,5	6	7,5	7	02:23	-	Drama	Multiple stories	2006	Brad Pitt		Alejandro Gonzáles Iñárritu	English	
+606	A Perfect Getaway	13,5	7	6,5	5	01:38	-	Adventure	Psychopath	2009	Milla Jovovich		David Twohy	English	
+607	Hours	13,5	7	6,5	4	01:37	-	Thriller	Race against time	2013	Paul Walker		Eric Heisserer	English	
+608	Gerald's Game	13,5	7	6,5	2	01:43	-	Thriller	Survival	2017	Carla Gugino		Mike Flanagan	English	
+609	Happy Death Day	13,5	7	6,5	2	01:36	-	Horror	Repeating day	2017	Jessica Rothe		Christopher Landon	English	
+610	The endless	13,5	7	6,5	1	01:51	-	Mystery	Community	2017	Aaron Moorhead		Justin Benson	English	-
+611	Lo chiamavano Trinità…	13,5	6	7,5	0	01:53	-	Western	Odd duo	1970	Terence Hill		Enzo Barboni	English	
+612	Harry Potter And The Chamber Of Secrets	13,4	6	7,4	23	02:41	-	Fantasy	Magic	2002	Daniel Radcliffe		Chris Columbus	English	Harry Potter och hemligheternas kammare
+613	Zero Dark Thirty	13,4	6	7,4	16	02:37	-	Thriller	War	2012	Jessica Chastain		Kathryn Bigelow	English	
+614	Star Wars: Episode VIII - The Last Jedi	13,4	6	7,4	16	02:32	-	Sci-fi	Space	2017	Daisy Ridley	Adam Driver	Rian Johnson	English	Star Wars: The Last Jedi
+615	The Suicide Squad	13,4	6	7,4	13	02:12	-	Action	Superhero	2021	Margot Robbie	Joaquín Cosio	James Gunn	English	-
+616	Fantastic Beasts And Where To Find Them	13,4	6	7,4	12	02:13	-	Fantasy	Magic	2016	Eddie Redmayne		David Yates	English	Fantastiska vidunder och var man hittar dem
+617	Crazy, Stupid, Love.	13,4	6	7,4	11	01:58	-	Romance	Romcom	2011	Steve Carell		Glenn Ficarra	English	
+618	The Nice Guys	13,4	6	7,4	11	01:56	-	Comedy	Investigation	2016	Ryan Gosling	Matt Bomer	Shane Black	English	-
+619	Up In The Air	13,4	6	7,4	10	01:49	-	Romance	Airplane	2009	George Clooney		Jason Reitman	English	
+620	Click	13,4	7	6,4	9	01:47	-	Comedy	Alternate Universe	2006	Adam Sandler		Frank Coraci	English	
+621	The Adventures Of Tintin	13,4	6	7,4	9	01:47	-	Animation	Treasure hunt	2011	Jamie Bell		Steven Spielberg	English	Tintins äventyr: Enhörningens hemlighet
+622	Fierce Creatures	13,4	7	6,4	9	01:33	-	Comedy	Animals	1997	John Cleese		Fred Schepisi	English	Otäcka Odjur
+623	Space Cowboys	13,4	7	6,4	8	02:10	-	Adventure	Old timers	2000	Clint Eastwood		Clint Eastwood	English	
+624	The Conjuring 2	13,4	6	7,4	8	02:14	-	Horror	Supernatural	2016	Vera Farmiga		James Wan	English	-
+625	National Lampoon's Vacation	13,4	6	7,4	7	01:38	-	Comedy	Vacation	1983	Chevy Chase		Harold Ramis	English	Ett päron till farsa!
+626	What Women Want	13,4	7	6,4	7	02:07	-	Comedy	Supernatural	2000	Mel Gibson		Nancy Meyers	English	Vad kvinnor vill ha
+627	Hancock	13,4	7	6,4	6	01:32	-	Comedy	Superhero	2008	Will Smith		Peter Berg	English	
+628	Mamma Mia!	13,4	7	6,4	6	01:48	-	Musical	Wedding	2008	Meryl Streep		Phyllida Lloyd	English	
+629	X-Men	13,4	6	7,4	6	01:44	-	Action	Supernatural	2000	Patrick Stewart		Bryan Singer	English	
+630	The Constant Gardener	13,4	6	7,4	5	02:09	-	Thriller	Investigation	2005	Ralph Fiennes		Fernando Meirelles	English	-
+631	My Sister's Keeper	13,4	6	7,4	5	01:49	-	Drama	Disease	2009	Cameron Diaz		Nick Cassavetes	English	Allt för min syster
+632	Onward	13,4	6	7,4	5	01:42	-	Animation	Race against time	2020	Tom Holland	-	Dan Scanlon	English	Framåt
+633	McFarland, USA	13,4	6	7,4	5	02:09	-	Biography	Racing	2015	Kevin Costner		Niki Caro	English	-
+634	Me Before You	13,4	6	7,4	4	01:46	-	Romance	Disease	2016	Emilia Clarke		Thea Sharrock	English	Livet efter dig
+635	The Woman In Black	13,4	7	6,4	4	01:35	-	Horror	Supernatural	2012	Daniel Radcliffe		James Watkins	English	-
+636	Begin Again	13,4	6	7,4	4	01:44	-	Drama	Music	2013	Mark Ruffalo	Adam Levine	John Carney	English	-
+637	Fractured	13,4	7	6,4	3	01:39	-	Mystery	Chase	2019	Sam Worthington	-	Brad Anderson	English	-
+638	Starred Up	13,4	6	7,4	2	01:46	-	Drama	Prison	2013	Jack O'Connell		David Mackenzie	English	Blodsband
+639	The Hills Have Eyes	13,4	7	6,4	2	01:47	-	Horror	Community	2006	Ted Levine		Alexandre Aja	English	-
+640	Creep 2	13,4	7	6,4	0	01:20	-	Horror	Psychopath	2017	Mark Duplass		Patrick Brice	English	-
+641	Monsters University	13,3	6	7,3	35	01:44	-	Animation	Monster	2013	Billy Crystal		Dan Scanlon	English	-
+642	Avatar: Fire And Ash	13,3	6	7,3	18	03:17	1	Adventure	Epic	2025	Sam Worthington	Oona Chaplin	James Cameron	English	Avatar 3
+643	Transcendence	13,3	7	6,3	16	01:59	-	Sci-fi	Technology	2014	Johnny Depp		Wally Pfister	English	-
+644	Men In Black	13,3	6	7,3	16	01:38	-	Comedy	Aliens	1997	Tommy Lee Jones		Barry Sonnenfeld	English	-
+645	North Country	13,3	6	7,3	14	02:06	-	Drama	Girl power	2005	Charlize Theron		Niki Caro	English	-
+646	American Hustle	13,3	6	7,3	13	02:18	-	Drama	Mafia	2013	Christian Bale		David O. Russell	English	-
+647	Face/Off	13,3	6	7,3	12	02:18	-	Action	Transformation	1997	John Travolta		John Woo	English	-
+648	No Time To Die	13,3	6	7,3	12	02:43	-	Action	Agent	2021	Daniel Craig	Rami Malek	Cary Joji Fukunaga	English	-
+649	Wake Up Dead Man	13,3	6	7,3	11	02:24	-	Mystery	Investigation	2025	Daniel Craig	Glenn Close	Rian Johnson	English	Wake Up Dead Man: A Knives Out Mystery
+650	The Terminal	13,3	6	7,3	10	02:08	-	Comedy	Idiot	2004	Tom Hanks		Steven Spielberg	English	-
+651	Erin Brockovich	13,3	6	7,3	10	02:11	-	Biography	Girl power	2000	Julia Roberts		Steven Soderbergh	English	-
+652	Before the devil knows you're dead	13,3	6	7,3	9	01:57	-	Drama	Heist	2007	Philip Seymour Hoffman		Sidney Lumet	English	-
+653	Glass Onion: A Knives Out Mystery	13,3	6	7,3	9	02:19	-	Comedy	Investigation	2022	Daniel Craig	Edward Norton	Rian Johnson	English	-
+654	Coach Carter	13,3	6	7,3	7	02:16	-	Biography	Basketball	2005	Samuel L. Jackson		Thomas Carter	English	-
+655	The Great Gatsby	13,3	6	7,3	7	02:23	-	Drama	Money	2013	Leonardo DiCaprio		Baz Luhrmann	English	Den store Gatsby
+656	Monster	13,3	6	7,3	7	01:49	-	Biography	Odd duo	2003	Charlize Theron	-	Patty Jenkins	English	-
+657	Ace Ventura: When Nature Calls	13,3	7	6,3	7	01:30	-	Comedy	Idiot	1995	Jim Carrey		Steve Oedekerk	English	Ace Ventura - Den galopperande detektiven rider igen
+658	Friday Night Lights	13,3	6	7,3	7	01:58	-	Drama	American football	2004	Billy Bob Thornton		Peter Berg	English	-
+659	Flightplan	13,3	7	6,3	7	01:38	-	Thriller	Airplane	2005	Jodie Foster		Robert Schwentke	English	-
+660	The Shape Of Water	13,3	6	7,3	7	02:03	-	Drama	Supernatural	2017	Sally Hawkins		Guillermo del Toro	English	-
+661	Meet The Fockers	13,3	7	6,3	6	01:55	-	Comedy	Household	2004	Ben Stiller	Robert de Niro	Jay Roach	English	Familjen är värre
+662	Cape Fear	13,3	6	7,3	6	02:08	-	Thriller	Stalking	1991	Nick Nolte		Martin Scorsese	English	
+663	Rise Of The Guardians	13,3	6	7,3	5	01:37	-	Family	Superhero	2012	Hugh Jackman		Peter Ramsey	English	De fem legenderna
+664	Beverly Hills Cop	13,3	6	7,3	5	01:45	-	Action	Police	1984	Eddie Murphy		Martin Brest	English	Snuten i Hollywood
+665	American Sniper	13,3	6	7,3	5	02:13	-	Biography	War	2014	Bradley Cooper		Clint Eastwood	English	-
+666	The Queen	13,3	6	7,3	5	01:43	-	Biography	Monarchy	2006	Helen Mirren		Stephen Frears	English	-
+667	Hustle	13,3	6	7,3	4	01:57	-	Drama	Basketball	2022	Adam Sandler	Ben Foster	Jeremiah Zagar	English	-
+668	Unlawful Entry	13,3	7	6,3	3	01:57	-	Thriller	Stalking	1992	Kurt Russell		Jonathan Kaplan	English	Förbjudet begär
+669	Good Morning, Vietnam	13,3	6	7,3	3	02:01	-	Biography	War	1987	Robin Williams		Barry Levinson	English	
+670	A View To A Kill	13,3	7	6,3	2	02:11	-	Action	Agent	1985	Roger Moore		John Glen	English	Levande Måltavla
+671	Den Blomstertid Nu Kommer	13,3	7	6,3	1	02:09	-	Thriller	War	2018	Christoffer Nordenrot		Viktor Danell	English	The Unthinkable
+672	Max Manus	13,3	6	7,3	1	01:58	-	Biography	WWII	2008	Aksel Hennie		Joachim Rönning	Norwegian	
+673	Iron Man 3	13,2	6	7,2	19	02:10	-	Action	Superhero	2013	Robert Downey Jr.		Shane Black	English	Iron Man Three
+674	Vice	13,2	6	7,2	15	02:12	-	Biography	US Government	2018	Christian Bale		Adam McKay	English	-
+675	The Big Lebowski	13,2	5	8,2	15	01:57	-	Comedy	Hostage	1998	Jeff Bridges		Ethan & Joel Coen	English	
+676	Troy	13,2	6	7,2	14	02:43	-	Drama	Epic	2004	Brad Pitt		Wolfgang Petersen	English	Troja
+677	Anchorman: The Legend Of Ron Burgundy	13,2	6	7,2	12	01:34	-	Comedy	TV-show	2004	Will Ferrell		Adam McKay	English	Anchorman - legenden om Ron Burgundy
+678	21 Jump Street	13,2	6	7,2	12	01:50	-	Comedy	Undercover	2012	Jonah Hill		Phil Lord	English	
+679	Lilo & Stitch	13,2	6	7,2	11	01:25	-	Animation	Aliens	2002	Daveigh Chase		Dean DeBlois	English	-
+680	King Kong	13,2	6	7,2	10	03:07	-	Adventure	Monster	2005	Naomi Watts		Peter Jackson	English	
+681	The Butler	13,2	6	7,2	10	02:12	-	Biography	US Government	2013	Forest Whitaker		Lee Daniels	English	
+682	Live Free Or Die Hard	13,2	6	7,2	10	02:08	-	Action	Odd duo	2007	Bruce Willis		Len Wiseman	English	Die hard 4.0
+683	Shakespeare In Love	13,2	6	7,2	9	02:03	-	Drama	Author	1998	Joseph Fiennes		John Madden	English	
+684	Men Of Honor	13,2	6	7,2	9	02:09	-	Biography	Rascism	2000	Cuba Gooding Jr.		George Tillman Jr.	English	-
+685	Deep Impact	13,2	7	6,2	8	02:00	-	Drama	Disaster	1998	Robert Duvall		Mimi Leder	English	-
+686	Steve Jobs	13,2	6	7,2	7	02:02	-	Biography	Technology	2015	Michael Fassbender		Danny Boyle	English	
+687	Starship Troopers	13,2	6	7,2	7	02:09	-	Sci-fi	Aliens	1997	Casper Van Dien		Paul Verhoeven	English	
+688	Devil	13,2	7	6,2	7	01:20	-	Horror	Religion	2010	Chris Messina		John Erick Dowdle	English	-
+689	Next	13,2	7	6,2	6	01:36	-	Thriller	Race against time	2007	Nicolas Cage		Lee Tamahori	English	
+690	Saw III	13,2	7	6,2	6	01:48	-	Horror	Puzzle	2006	Tobin Bell		Darren Lynn Bousman	English	-
+691	What's Love Got To Do With It	13,2	6	7,2	6	01:58	-	Biography	Music	1993	Angela Bassett		Brian Gibson	English	
+692	Flickan Som Lekte Med Elden	13,2	6	7,2	6	02:09	-	Thriller	Investigation	2009	Noomi Rapace		Daniel Alfredson	Swedish	The Girl Who Played With Fire
+693	Pay It Forward	13,2	6	7,2	5	02:03	-	Drama	Self improvement	2000	Kevin Spacey		Mimi Leder	English	Skicka vidare
+694	Rocky Balboa	13,2	6	7,2	4	01:42	-	Drama	Boxing	2006	Sylvester Stallone		Sylvester Stallone	English	-
+695	Conviction	13,2	6	7,2	4	01:47	-	Biography	Falsely accused	2010	Hilary Swank		Tony Goldwyn	English	-
+696	Don't Worry Darling	13,2	7	6,2	3	02:03	-	Thriller	Community	2022	Florence Pugh	Chris Pine	Olivia Wilde	English	-
+697	Creep	13,2	7	6,2	0	01:17	-	Horror	Psychopath	2014	Mark Duplass		Patrick Brice	English	
+698	Looking For Eric	13,2	6	7,2	0	01:56	-	Comedy	Soccer	2009	Steve Evets		Ken Loach	English	
+699	Fun With Dick And Jane	13,1	7	6,1	18	01:30	-	Comedy	Money	2005	Jim Carrey		Dean Parisot	English	-
+700	Transformers	13,1	6	7,1	16	02:24	-	Action	Aliens	2007	Shia Labeouf		Michael Bay	English	-
+701	Treasure Planet	13,1	6	7,1	14	01:35	-	Animation	Treasure hunt	2002	Joseph Gordon-Lewitt		Ron Clements	English	Skattkammarplaneten
+702	Concussion	13,1	6	7,1	13	02:03	-	Biography	American football	2015	Will Smith		Peter Landesman	English	-
+703	Lords Of Dogtown	13,1	6	7,1	12	01:47	-	Biography	Sports	2005	Emile Hirsch		Catherine Hardwicke	English	-
+704	Margin Call	13,1	6	7,1	10	01:47	-	Biography	Money	2011	Zachary Quinto		J.C. Chandor	English	
+705	The Words	13,1	6	7,1	10	01:42	-	Drama	Author	2012	Bradley Cooper		Brian Klugman	English	-
+706	The Cable Guy	13,1	7	6,1	10	01:36	-	Comedy	Stalking	1996	Matthew Broderick	Jim Carrey	Ben Stiller	English	
+707	Brothers	13,1	6	7,1	9	01:45	-	Drama	Rivals	2009	Jake Gyllenhaal		Jim Sheridan	English	
+708	Trial By Fire	13,1	6	7,1	8	02:07	-	Drama	Court	2018	Jack O'Connell	Emily Meade	Edward Zwick	English	-
+709	22 Jump Street	13,1	6	7,1	8	01:52	-	Comedy	Undercover	2014	Channing Tatum		Phil Lord	English	
+710	The Ides Of March	13,1	6	7,1	7	01:41	-	Drama	US Government	2011	Ryan Gosling		George Clooney	English	
+711	The Lobster	13,1	6	7,1	6	01:59	-	Drama	Future	2015	Colin Farrell		Yorgos Lanthimos	English	-
+712	Balto	13,1	6	7,1	6	01:18	-	Animation	Animals	1995	Kevin Bacon		Simon Wells	English	-
+713	Lakeview Terrace	13,1	7	6,1	6	01:50	-	Thriller	Neighbour	2008	Samuel L. Jackson		Neil LaBute	English	
+714	I, Robot	13,1	6	7,1	6	01:55	-	Action	Robots	2004	Will Smith		Alex Proyas	English	
+715	Becoming Jane	13,1	6	7,1	5	02:00	-	Biography	Author	2007	Anne Hathaway		Julian Jarrold	English	
+716	About A Boy	13,1	6	7,1	5	01:41	-	Comedy	Odd duo	2002	Hugh Grant		Paul Weitz	English	Om en pojke
+717	Blade	13,1	6	7,1	4	02:00	-	Action	Vampires	1998	Wesley Snipes		Stephen Norrington	English	
+718	Hundraåringen Som Klev Ut Genom Fönstret Och Försvann	13,1	6	7,1	4	01:54	-	Adventure	Old timers	2013	Robert Gustafsson		Felix Herngren	Swedish	
+719	Känn Ingen Sorg	13,1	6	7,1	3	01:49	-	Drama	Music	2013	Adam Lundgren		Måns Mårlind	Swedish	Shed No Tears
+720	The AristoCats	13,1	6	7,1	2	01:18	-	Animation	Animals	1970	Phil Harris		Wolfgang Reitherman	English	Aristocats
+721	Torkel I Knibe	13,1	6	7,1	1	01:17	-	Animation	Stalking	2004	Anders Matthesen		Kresten Vestbjerg Andersen	Danish	
+722	Before Sunrise	13,1	5	8,1	1	01:41	-	Romance	Vacation	1995	Ethan Hawke	-	Richard Linklater	English	-
+723	Deja Vu	13,0	6	7,0	18	02:06	-	Action	Police	2006	Denzel Washington		Tony Scott	English	-
+724	Iron Man 2	13,0	6	7,0	17	02:04	-	Action	Superhero	2010	Robert Downey Jr.		Jon Favreau	English	-
+725	Suicide Squad	13,0	7	6,0	15	02:03	-	Action	Superhero	2016	Will Smith		David Ayer	English	-
+726	Thor	13,0	6	7,0	14	01:55	-	Action	Superhero	2011	Chris Hemsworth		Kenneth Branagh	English	-
+727	The Amazing Spider-Man	13,0	6	7,0	13	02:16	-	Action	Superhero	2012	Andrew Garfield		Marc Webb	English	
+728	Jarhead	13,0	6	7,0	11	02:05	-	Action	War	2005	Jake Gyllenhaal	-	Sam Mendes	English	-
+729	Ted	13,0	6	7,0	9	01:46	-	Comedy	Toys	2012	Mark Wahlberg		Seth MacFarlane	English	
+730	We're The Millers	13,0	6	7,0	8	01:50	-	Comedy	Journey	2013	Jason Sudeikis		Rawson Marshall Thurber	English	Familjetrippen
+731	Jack Reacher	13,0	6	7,0	8	02:10	-	Action	Investigation	2012	Tom Cruise		Christopher McQuarrie	English	
+732	The Mummy	13,0	6	7,0	8	02:04	-	Adventure	Monster	1999	Brendan Fraser		Stephen Sommers	English	Mumien
+733	Pretty Woman	13,0	6	7,0	8	01:59	-	Romance	Sex	1990	Julia Roberts		Garry Marshall	English	-
+734	Cloverfield	13,0	6	7,0	8	01:25	-	Sci-fi	Monster	2008	Mike Vogel		Matt Reeves	English	-
+735	Non-stop	13,0	6	7,0	7	01:46	-	Action	Airplane	2014	Liam Neeson		Jaume Collet-Serra	English	-
+736	Mean Girls	13,0	6	7,0	7	01:37	-	Comedy	School	2004	Lindsay Lohan		Mark Waters	English	-
+737	The Cabin In The Woods	13,0	6	7,0	7	01:35	-	Horror	TV-show	2012	Kristen Connolly		Drew Goddard	English	-
+738	Happy Gilmore	13,0	6	7,0	6	01:32	-	Comedy	Sports	1996	Adam Sandler		Dennis Dugan	English	-
+739	Legend	13,0	6	7,0	4	02:12	-	Biography	Mafia	2015	Tom Hardy		Brian Helgeland	English	-
+740	The Exorcist	13,0	5	8,0	2	02:02	-	Horror	Possession	1973	Ellen Burstyn		William Friedkin	English	Exorcisten
+741	Heretic	13,0	6	7,0	2	01:51	-	Horror	Religion	2024	Sophie Thatcher	Hugh Grant	Scott Beck / Bryan Woods	English	-
+742	Gekijô-ban poketto monsutâ: Myûtsû no gyakushû	13,0	7	6,0	0	01:36	-	Animation	Anime	1998	Veronica Taylor		Michael Haigney	Japanese	Pokémon - filmen
+743	The Hunchback Of Notre Dame	12,9	6	6,9	18	01:31	-	Animation	Self improvement	1996	Tom Hulce		Gary Trousdale	English	Ringaren i Notre Dame
+744	The Magnificent Seven	12,9	6	6,9	14	02:12	-	Western	Community	2016	Denzel Washington		Antoine Fuqua	English	-
+745	Along Came Polly	12,9	7	5,9	11	01:30	-	Comedy	Romcom	2004	Ben Stiller		John Hamburg	English	…Och Så Kom Polly
+746	Patriot Games	12,9	6	6,9	10	01:57	-	Action	Rebellion	1992	Harrison Ford		Phillip Noyce	English	Patrioter
+747	The Chronicles Of Narnia: The Lion, The Witch And The Wardrobe	12,9	6	6,9	10	02:23	-	Fantasy	Alternate Universe	2005	Tilda Swinton		Andrew Adamson	English	Berättelsen om Narnia: Häxan och lejonet
+748	Boy Erased	12,9	6	6,9	10	01:55	-	Biography	HBTQ	2018	Lucas Hedges	Joel Edgerton	Joel Edgerton	English	-
+749	Barbie	12,9	6	6,9	9	01:54	1	Comedy	Toys	2023	Margot Robbie	Will Ferrell	Greta Gerwig	English	-
+750	Wild hogs	12,9	7	5,9	8	01:40	-	Comedy	Old timers	2007	John Travolta		Walt Becker	English	-
+751	National treasure	12,9	6	6,9	8	02:11	-	Adventure	Treasure hunt	2004	Nicolas Cage		Jon Turteltaub	English	-
+752	Jurassic Park III	12,9	7	5,9	8	01:32	-	Adventure	Dinosaurs	2001	Sam Neill	-	Joe Johnston	English	-
+753	The Guardian	12,9	6	6,9	8	02:19	-	Drama	Self improvement	2006	Kevin Costner		Andrew Davis	English	-
+754	Madagascar	12,9	6	6,9	8	01:26	-	Animation	Animals	2005	Chris Rock		Eric Darnell	English	Madagaskar
+755	Premonition	12,9	7	5,9	7	01:36	-	Mystery	Repeating day	2007	Sandra Bullock		Mennan Yapo	English	Ond aning
+756	Oliver Twist	12,9	6	6,9	7	02:10	-	Drama	Lone protagonist	2005	Barney Clark		Roman Polanski	English	-
+757	The Devil Wears Prada	12,9	6	6,9	6	01:49	-	Comedy	Career	2006	Anne Hathaway	Meryl Streep	David Frankel	English	Djävulen bär Prada
+758	Skenbart: En Film Om Tåg	12,9	6	6,9	6	01:40	-	Comedy	Multiple stories	2003	Gustaf Hammarsten		Peter Dalle	Swedish	-
+759	Stronger	12,9	6	6,9	6	01:59	-	Biography	Self improvement	2017	Jake Gyllenhaal		David Gordon Green	English	-
+760	Norrmalmstorg	12,9	7	5,9	5	01:30	-	Biography	Hostage	2003	Torkel Pettersson		Håkan Lindhé	Swedish	The Stockholm Syndrome
+761	The mask	12,9	6	6,9	5	01:41	-	Comedy	Disguise	1994	Jim Carrey		Chuck Russell	English	-
+762	Yesterday	12,9	6	6,9	4	01:56	-	Comedy	Music	2019	Himesh Patel	-	Danny Boyle	English	-
+763	Frantic	12,9	6	6,9	2	02:00	-	Thriller	Search	1988	Harrison Ford		Roman Polanski	English	-
+764	Skin	12,9	6	6,9	1	01:47	-	Biography	Rascism	2008	Sophie Okonedo		Anthony Fabian	English	-
+765	Återträffen	12,9	6	6,9	1	01:30	-	Drama	Party	2013	Anna Odell		Anna Odell	Swedish	The reunion
+766	The Wild One	12,9	6	6,9	0	01:19	-	Drama	Revenge	1953	Marlon Brando		Laslo Benedek	English	Vild ungdom
+767	Ice Age: The Meltdown	12,8	6	6,8	19	01:31	-	Animation	Animals	2006	Ray Romano		Carlos Saldanha	English	Ice age 2
+768	Tangled	12,8	5	7,8	19	01:40	-	Animation	Hostage	2010	Mandy Moore		Nathan Greno	English	Trassel
+769	The Fan	12,8	7	5,8	18	01:56	-	Thriller	Stalking	1996	Wesley Snipes		Tony Scott	English	-
+770	Fair Game	12,8	6	6,8	14	01:48	-	Biography	US Government	2010	Naomi Watts		Doug Liman	English	-
+771	Men In Black 3	12,8	6	6,8	12	01:46	-	Comedy	Aliens	2012	Will Smith		Barry Sonnenfeld	English	-
+772	Murder On The Orient Express	12,8	6	6,8	11	01:54	-	Mystery	Investigation	2017	Kenneth Branagh		Kenneth Branagh	English	Mordet på Orientexpressen
+773	Spectre	12,8	6	6,8	11	02:28	-	Action	Agent	2015	Daniel Craig		Sam Mendes	English	-
+774	Romeo + Juliet	12,8	6	6,8	10	02:00	-	Musical	Rivals	1996	Leonardo DiCaprio		Baz Luhrmann	English	Romeo & Julia
+775	The Heartbreak Kid	12,8	7	5,8	10	01:56	-	Comedy	Romcom	2007	Ben Stiller	Malin Åkerman	Peter & Bobby Farrelly	English	-
+776	The Firm	12,8	6	6,8	10	02:34	-	Thriller	Career	1993	Tom Cruise		Sydney Pollack	English	Firman
+777	The Finest Hours	12,8	6	6,8	9	01:57	-	Drama	Ocean	2016	Chris Pine		Craig Gillespie	English	-
+778	Rendition	12,8	6	6,8	8	02:02	-	Thriller	US Government	2007	Reese Witherspoon		Gavin Hood	English	Utlämnad
+779	Mickey Blue Eyes	12,8	7	5,8	7	01:42	-	Comedy	Mafia	1999	Hugh Grant		Kelly Makin	English	-
+780	Safe House	12,8	6	6,8	7	01:55	-	Action	Chase	2012	Ryan Gosling		Daniel Espinosa	English	-
+781	From Hell	12,8	6	6,8	7	02:02	-	Thriller	Psychopath	2001	Johnny Depp		Albert & Allen Hughes	English	-
+782	A Goofy Movie	12,8	6	6,8	7	01:18	-	Animation	Journey	1995	Bill Farmer		Kevin Lima	English	Janne Långben - The movie
+783	Appaloosa	12,8	6	6,8	7	01:55	-	Western	Community	2008	Ed Harris		Ed Harris	English	-
+784	21	12,8	6	6,8	7	02:03	-	Thriller	Money	2008	Jim Sturgess		Robert Luketic	English	Twenty one
+785	Denial	12,8	6	6,8	7	01:49	-	Drama	Court	2016	Rachel Weisz	Timothy Spall	Mick Jackson	English	-
+786	Eliza Graves	12,8	6	6,8	6	01:52	-	Mystery	Prison	2014	Jim Sturgess		Brad Anderson	English	The asylum
+787	Offside	12,8	7	5,8	6	01:43	-	Comedy	Soccer	2006	Jonas Karlsson	Ingvar Hirdwall	Mårten Klingberg	Swedish	-
+788	Johan Falk: GSI - Gruppen För Särskilda Insatser	12,8	6	6,8	6	01:58	-	Thriller	Undercover	2009	Jakob Eklund		Anders Nilsson	Swedish	-
+789	Rocky IV	12,8	6	6,8	5	01:31	-	Drama	Boxing	1985	Sylvester Stallone		Sylvester Stallone	English	-
+790	The Grey	12,8	6	6,8	5	01:57	-	Action	Survival	2011	Liam Neeson		Joe Carnahan	English	-
+791	Jalla! Jalla!	12,8	6	6,8	4	01:28	-	Drama	Friendship	2000	Fares Fares		Josef Fares	Swedish	-
+792	Atlantis: The Lost Empire	12,8	6	6,8	4	01:35	-	Animation	Journey	2001	Michael J. Fox		Gary Trousdale	English	Atlantis - en försvunnen värld
+793	1408	12,8	6	6,8	4	01:44	-	Horror	Supernatural	2007	John Cusack	-	Mikael Håfström	English	-
+794	Ready Or Not	12,8	6	6,8	2	01:35	-	Comedy	Survival	2019	Samara Weaving	Henry Czerny	Matt Bettinelli-Olpin & Tyler Gillett	English	-
+795	På Rymmen Med Pippi Långstrump	12,8	6	6,8	1	01:34	-	Family	Journey	1970	Inger Nilsson		Olle Hellbom	Swedish	Pippi On The Run
+796	The Babadook	12,8	6	6,8	0	01:33	-	Horror	Supernatural	2014	Essie Davis		Jennifer Kent	English	-
+797	En Del Av Dig	12,8	7	5,8	0	01:39	-	Drama	Transformation	2024	Felicia Maxime	-	Sigge Eklund	Swedish	A Part Of You
+798	The Hunger Games: Mockingjay - Part 1	12,7	6	6,7	17	02:03	-	Sci-fi	Rebellion	2014	Jennifer Lawrence	Donald Sutherland	Francis Lawrence	English	-
+799	Gangster Squad	12,7	6	6,7	17	01:53	-	Action	Mafia	2013	Sean Penn		Ruben Fleischer	English	-
+800	Robin Hood	12,7	6	6,7	15	02:20	-	Adventure	Rebellion	2010	Russell Crowe		Ridley Scott	English	-
+801	Dodgeball: A True Underdog Story	12,7	6	6,7	13	01:32	-	Comedy	Competition	2004	Vince Vaughn		Rawson Marshall Thurber	English	Dodgeball - en komedi som siktar lågt
+802	Absolute Power	12,7	6	6,7	12	02:01	-	Thriller	US Government	1997	Clint Eastwood		Clint Eastwood	English	Absolut makt
+803	The Other Guys	12,7	6	6,7	11	01:47	-	Comedy	Police	2010	Will Ferrell		Adam McKay	English	-
+804	American Reunion	12,7	6	6,7	10	01:53	-	Comedy	Party	2012	Jason Biggs		Jon Hurwitz	English	American Pie: Reunion
+805	Charlie And The Chocolate Factory	12,7	6	6,7	9	01:55	-	Family	Magic	2005	Johnny Depp		Tim Burton	English	Kalle och chokladfabriken
+806	2 Guns	12,7	6	6,7	9	01:49	-	Action	Drugs	2013	Denzel Washington		Baltasar Kormákur	English	-
+807	The Rundown	12,7	6	6,7	7	01:44	-	Action	Jungle	2003	Dwayne Johnson		Peter Berg	English	Welcome to the jungle
+808	Bridget Jones's Diary	12,7	6	6,7	7	01:37	-	Romance	Romcom	2001	Renée Zellweger		Sharon Maguire	English	Bridget Jones dagbok
+809	Road To Perdition	12,7	5	7,7	6	01:57	-	Thriller	Mafia	2002	Tom Hanks		Sam Mendes	English	-
+810	Fantastic Beasts: The Crimes Of Grindelwald	12,7	6	6,7	6	02:14	-	Fantasy	Magic	2018	Eddie Redmayne		David Yates	English	Fantastiska vidunder - Grindelwalds brott
+811	Love & Other Drugs	12,7	6	6,7	6	01:52	-	Romance	Drugs	2010	Jake Gyllenhaal		Edward Zwick	English	-
+812	Goal!	12,7	6	6,7	5	01:58	-	Drama	Soccer	2005	Kuno Becker		Danny Cannon	English	-
+813	Pocahontas	12,7	6	6,7	5	01:21	-	Animation	Complicated love	1995	Irene Bedard		Mike Gabriel	English	-
+814	Signs	12,7	6	6,7	5	01:46	-	Mystery	Aliens	2002	Mel Gibson		M. Night Shyamalan	English	-
+815	The Whole Nine Yards	12,7	6	6,7	4	01:38	-	Comedy	Neighbour	2000	Matthew Perry		Jonathan Lynn	English	Oss torpeder emellan
+816	The Children Act	12,7	6	6,7	4	01:45	-	Drama	Court	2017	Emma Thompson		Richard Eyre	English	Domaren
+817	Let Him Go	12,7	6	6,7	3	01:53	NO	Thriller	Search	2020	Kevin Costner	Lesley Manville	Thomas Bezucha	English	-
+818	Oliver & Company	12,7	6	6,7	2	01:14	-	Animation	Animals	1988	Joey Lawrence		George Scribner	English	Oliver & gänget
+819	Snabba Cash	12,7	6	6,7	2	01:32	-	Action	Heist	2010	Joel Kinnaman		Daniel Espinosa	Swedish	Easy money
+820	This Is England	12,7	5	7,7	2	01:41	-	Drama	Friendship	2006	Thomas Turgoose		Shane Meadows	English	-
+821	Kan Du Vissla Johanna?	12,7	6	6,7	2	00:55	-	Family	Odd duo	1994	Tobias Swärd	-	Rumle Hammerich	Swedish	-
+822	Zozo	12,7	6	6,7	1	01:45	-	Drama	War	2005	Imad Creidi		Josef Fares	Swedish	-
+823	Paranormal Activity 2	12,7	7	5,7	0	01:31	-	Horror	Supernatural	2010	Katie Featherston		Tod Williams	English	-
+824	Alla Vi Barn I Bullerbyn	12,7	6	6,7	0	01:27	-	Family	Community	1986	Linda Bergström		Lasse Hallström	Swedish	The children of Noisy Village
+825	Thank You For Smoking	12,6	5	7,6	14	01:32	-	Comedy	Drugs	2005	Aaron Eckhart		Jason Reitman	English	-
+826	Contagion	12,6	6	6,6	12	01:46	-	Thriller	Disease	2011	Matt Damon		Steven Soderbergh	English	-
+827	Vantage Point	12,6	6	6,6	11	01:30	-	Thriller	US Government	2008	Dennis Quaid		Pete Travis	English	-
+828	Sicario	12,6	5	7,6	11	02:01	-	Drama	Drugs	2015	Emily Blunt		Denis Villeneuve	English	-
+829	John Carter	12,6	6	6,6	10	02:12	-	Sci-fi	Alternate Universe	2012	Taylor Kitsch		Andrew Stanton	English	-
+830	Edge Of Darkness	12,6	6	6,6	10	01:57	-	Thriller	Investigation	2010	Mel Gibson		Martin Campbell	English	-
+831	Due Date	12,6	6	6,6	9	01:35	-	Comedy	Odd duo	2010	Robert Downey Jr.		Todd Phillips	English	-
+832	The Lost City Of Z	12,6	6	6,6	8	02:21	-	Biography	Jungle	2016	Charlie Hunnam		James Gray	English	-
+833	Hitch	12,6	6	6,6	8	01:58	-	Romance	Romcom	2005	Will Smith		Andy Tennant	English	Hitch - din guide till en lyckad date
+834	Insidious: Chapter 2	12,6	6	6,6	7	01:46	-	Horror	Supernatural	2013	Patrick Wilson		James Wan	English	-
+835	Man On A Ledge	12,6	6	6,6	6	01:42	-	Thriller	Heist	2012	Sam Worthington		Asger Leth	English	-
+836	Black rain	12,6	6	6,6	6	02:05	-	Thriller	Police	1989	Michael Douglas		Ridley Scott	English	-
+837	The Da Vinci Code	12,6	6	6,6	6	02:29	-	Thriller	Puzzle	2006	Tom Hanks		Ron Howard	English	Da Vinci-koden
+838	Burnt	12,6	6	6,6	6	01:41	-	Drama	Food	2015	Bradley Cooper		John Wells	English	Bränd
+839	You, me and Dupree	12,6	7	5,6	5	01:50	-	Comedy	Idiot	2006	Owen Wilson		Anthony & Joe Russo	English	Du, jag och Dupree
+840	Hostage	12,6	6	6,6	5	01:53	-	Action	Hostage	2005	Bruce Willis		Florent-Emilio Siri	English	Gisslan
+841	Tears Of The Sun	12,6	6	6,6	5	02:01	-	Action	African	2003	Bruce Willis		Antoine Fuqua	English	-
+842	F1	12,6	5	7,6	5	02:35	-	Action	Racing	2025	Brad Pitt	Tobias Menzies	Joseph Kosinski	English	F1: The Movie
+843	Arbitrage	12,6	6	6,6	4	01:47	-	Drama	Career	2012	Richard Gere		Nicholas Jarecki	English	Bedragaren
+844	127 hours	12,6	5	7,6	4	01:34	-	Biography	Survival	2010	James Franco		Danny Boyle	English	127 timmar
+845	The Last Exorcism	12,6	7	5,6	3	01:27	-	Horror	Possession	2010	Patrick Fabian		Daniel Stamm	English	-
+846	Life	12,6	6	6,6	2	01:44	-	Sci-fi	Aliens	2017	Jake Gyllenhaal	-	Daniel Espinosa	English	-
+847	Adrift	12,6	6	6,6	2	01:36	-	Adventure	Survival	2018	Shailene Woodley	-	Baltasar Kormákur	English	-
+848	Joy Ride	12,6	6	6,6	2	01:37	-	Thriller	Psychopath	2001	Steve Zahn		John Dahl	English	Roadkill
+849	Hush	12,6	6	6,6	1	01:22	-	Horror	Psychopath	2016	Kate Siegel	John Gallagher Jr.	Mike Flanagan	English	-
+850	Unfriended	12,6	7	5,6	0	01:23	-	Horror	Technology	2014	Heather Sossaman		Levan Gabriadze	English	-
+851	The Hunger Games: Mockingjay - Part 2	12,5	6	6,5	19	02:17	-	Sci-fi	Rebellion	2015	Jennifer Lawrence		Francis Lawrence	English	-
+852	Air Force One	12,5	6	6,5	18	02:04	-	Action	Airplane	1997	Harrison Ford		Wolfgang Petersen	English	-
+853	J. Edgar	12,5	6	6,5	16	02:17	-	Biography	Career	2011	Leonardo DiCaprio	-	Clint Eastwood	English	-
+854	The Village	12,5	6	6,5	12	01:48	-	Drama	Community	2004	Bryce Dallas Howard		M. Night Shyamalan	English	-
+855	Homefront	12,5	6	6,5	12	01:40	-	Action	Drugs	2013	Jason Statham		Gary Fleder	English	-
+856	Now You See Me 2	12,5	6	6,5	11	02:09	-	Thriller	Magic	2016	Jesse Eisenberg		Jon M. Chu	English	-
+857	Mona Lisa Smile	12,5	6	6,5	9	01:57	-	Drama	Girl power	2003	Julia Roberts		Mike Newell	English	Mona Lisas leende
+858	The Joneses	12,5	6	6,5	9	01:36	-	Drama	Household	2009	Demi Moore		Derrick Borte	English	Familjen Jones
+859	Mr. & Mrs. Smith	12,5	6	6,5	8	02:00	-	Comedy	Agent	2005	Brad Pitt		Doug Liman	English	-
+860	Hoodwinked!	12,5	6	6,5	7	01:20	-	Animation	Parody	2005	Anne Hathaway		Cory & Todd Edwards	English	Sanningen om Rödluvan
+861	The Program	12,5	6	6,5	7	01:39	-	Biography	Drugs	2015	Ben Foster		Stephen Frears	English	-
+862	Juno	12,5	5	7,5	7	01:36	-	Comedy	Girl power	2007	Ellen Page		Jason Reitman	English	-
+863	Dinosaur	12,5	6	6,5	6	01:22	-	Animation	Dinosaurs	2000	D.B. Sweeney		Eric Leighton	English	Dinosaurier
+864	The Lion King II: Simba's Pride	12,5	6	6,5	5	01:21	-	Animation	Animals	1998	Neve Campbell		Darrell Rooney	English	Lejonkungen II: Simbas skatt
+865	Naked Gun 33 1/3: The Final Insult	12,5	6	6,5	5	01:23	-	Comedy	Police	1994	Leslie Nielsen		Peter Segal	English	Nakna pistolen 33 1/3: den slutgiltiga förolämpningen
+866	Tillsammans	12,5	5	7,5	4	01:46	-	Drama	Community	2000	Lisa Lindgren		Lukas Moodysson	Swedish	Together
+867	The Parent Trap	12,5	6	6,5	4	02:08	-	Family	Household	1998	Lindsay Lohan		Nancy Meyers	English	Föräldrafällan
+868	Solsidan	12,5	6	6,5	4	01:44	-	Comedy	Complicated love	2017	Felix Herngren		Felix Herngren	Swedish	Sunny Side
+869	Jägarna 2	12,5	6	6,5	3	02:09	-	Thriller	Community	2011	Rolf Lassgård		Kjell Sundvall	Swedish	False trail
+870	Den osynlige	12,5	6	6,5	3	01:41	-	Mystery	Supernatural	2002	Gustaf Skarsgård		Joel Bergvall	Swedish	-
+871	Kalle Blomqvist Och Rasmus	12,5	7	5,5	3	01:18	-	Family	Hostage	1997	Totte Steneby		Göran Carmback	Swedish	-
+872	Plane	12,5	6	6,5	3	01:47	-	Action	Airplane	2023	Gerard Butler	Evan Dane Taylor	Jean-Francois Richet	English	-
+873	The Curse Of The Were-Rabbit	12,5	5	7,5	3	01:25	-	Animation	Monster	2005	Peter Sallis		Nick Park	English	Wallace & Gromit - Varulvskaninens förbannelse
+874	Friday The 13th	12,5	6	6,5	1	01:35	-	Horror	Splasher	1980	Betsy Palmer		Sean S. Cunningham	English	Fredagen den 13:e
+875	The Blair Witch Project	12,5	6	6,5	0	01:21	-	Horror	Survival	1999	Heather Donahue	-	Daniel Myrick & Eduardo Sánchez	English	-
+876	Evan Almighty	12,4	7	5,4	22	01:36	-	Comedy	Religion	2007	Steve Carell		Tom Shadyac	English	Evan den allsmäktige
+877	Pain & Gain	12,4	6	6,4	12	02:09	-	Comedy	Hostage	2013	Mark Wahlberg		Michael Bay	English	-
+878	The Day After Tomorrow	12,4	6	6,4	12	02:04	-	Action	Disaster	2004	Dennis Quaid		Roland Emmerich	English	-
+879	The Taking Of Pelham 123	12,4	6	6,4	12	01:46	-	Action	Hostage	2009	Denzel Washington		Tony Scott	English	Linje 1 2 3 kapad
+880	Just Go With It	12,4	6	6,4	10	01:57	-	Comedy	Vacation	2011	Adam Sandler		Dennis Dugan	English	Min Låtsasfru
+881	Night At The Museum	12,4	6	6,4	10	01:48	-	Family	Supernatural	2006	Ben Stiller		Shawn Levy	English	Natt på museet
+882	The Boat That Rocked	12,4	5	7,4	9	02:15	-	Comedy	Music	2009	Philip Seymour Hoffman		Richard Curtis	English	Pirate radio
+883	Greenland	12,4	6	6,4	8	01:59	-	Action	Disaster	2020	Gerard Butler	-	Ric Roman Waugh	English	-
+884	The World Is Not Enough	12,4	6	6,4	8	02:08	-	Action	Agent	1999	Pierce Brosnan		Michael Apted	English	Världen räcker inte till
+885	George Of The Jungle	12,4	7	5,4	8	01:32	-	Comedy	Jungle	1997	Brendan Fraser		Sam Weisman	English	Djungel George
+886	Thelma & Louise	12,4	5	7,4	7	02:10	-	Adventure	Chase	1991	Susan Sarandon		Ridley Scott	English	-
+887	Mission: Impossible - Ghost Protocol	12,4	5	7,4	7	02:12	-	Action	Agent	2011	Tom Cruise		Brad Bird	English	-
+888	The Number 23	12,4	6	6,4	7	01:38	-	Mystery	Psychological	2007	Jim Carrey		Joel Schumacher	English	-
+889	The Raven	12,4	6	6,4	7	01:50	-	Thriller	Psychopath	2012	John Cusack		James McTeigue	English	-
+890	Centurion	12,4	6	6,4	6	01:37	-	Action	Epic	2010	Michael Fassbender		Neil Marshall	English	-
+891	How To Lose A Guy In 10 Days	12,4	6	6,4	6	01:56	-	Romance	Romcom	2003	Kate Hudson		Donald Petrie	English	Hur man blir av med en kille på 10 dagar
+892	Salt	12,4	6	6,4	6	01:40	-	Action	Agent	2010	Angelina Jolie		Phillip Noyce	English	-
+893	Bean	12,4	6	6,4	5	01:29	-	Comedy	Idiot	1997	Rowan Atkinson		Mel Smith	English	Bean - den totala katastroffilmen
+894	The Santa Clause	12,4	6	6,4	5	01:37	-	Comedy	Christmas	1994	Tim Allen		John Pasquin	English	Nu är det jul - igen
+895	Änglagård	12,4	6	6,4	5	02:07	-	Drama	Odd duo	1992	Helena Bergström	Sven Wollter	Colin Nutley	Swedish	House Of Angels
+896	Fyra Nyanser Av Brunt	12,4	5	7,4	4	03:12	-	Comedy	Multiple stories	2004	Robert Gustafsson		Tomas Alfredson	Swedish	Four shades of brown
+897	Just Cause	12,4	6	6,4	3	01:42	-	Thriller	Court	1995	Sean Connery		Arne Glimcher	English	I sanningens tjänst
+898	Madicken på Junibacken	12,4	6	6,4	3	01:22	-	Family	Household	1980	Jonna Liljendahl		Göran Graffman	Swedish	-
+899	Mr. Bean's Holiday	12,4	6	6,4	3	01:30	-	Comedy	Vacation	2007	Rowan Atkinson		Steve Bendelack	English	Mr. Beans semester
+900	Masjävlar	12,4	6	6,4	0	01:38	-	Drama	Community	2004	Sofia Helin		Maria Blom	Swedish	Dalecarlians
+901	Vi hade i alla fall tur med vädret	12,4	6	6,4	0	00:57	-	Comedy	Vacation	1980	Rolf Skoglund		Kjell Sundvall	Swedish	-
+902	Flight	12,3	5	7,3	17	02:18	-	Drama	Airplane	2012	Denzel Washington		Robert Zemeckis	English	-
+903	Insurgent	12,3	6	6,3	14	01:59	-	Sci-fi	Alternate Universe	2015	Shailene Woodley		Robert Schwentke	English	-
+904	Space Jam	12,3	6	6,3	14	01:28	-	Adventure	Basketball	1996	Michael Jordan		Joe Pytka	English	-
+905	King Arthur	12,3	6	6,3	11	02:06	-	Adventure	Journey	2004	Clive Owen		Antoine Fuqua	English	-
+906	Total Recall	12,3	6	6,3	10	01:58	-	Action	Chase	2012	Colin Farrell		Len Wiseman	English	-
+907	It Could Happen To You	12,3	6	6,3	9	01:41	-	Romance	Money	1994	Nicolas Cage		Andrew Bergman	English	Polis ger servitris 2 miljoner i dricks
+908	The Secret Life Of Walter Mitty	12,3	5	7,3	9	01:54	-	Adventure	Journey	2013	Ben Stiller		Ben Stiller	English	-
+909	Terminator 3: Rise Of The Machines	12,3	6	6,3	9	01:49	-	Sci-fi	Robots	2003	Arnold Schwarzenegger		Jonathan Moslow	English	-
+910	The Mummy Returns	12,3	6	6,3	8	02:10	-	Adventure	Monster	2001	Brendan Fraser		Stephen Sommers	English	Mumien - Återkomsten
+911	Last Action Hero	12,3	6	6,3	8	02:10	-	Action	Alternate Universe	1993	Arnold Schwarzenegger		John McTiernan	English	Siste actionhjälten
+912	Chef	12,3	5	7,3	8	01:54	-	Comedy	Food	2014	Jon Favreau	Oliver Platt	Jon Favreau	English	-
+913	Knight And Day	12,3	6	6,3	7	01:49	-	Action	Agent	2010	Tom Cruise		James Mangold	English	-
+914	My Best Friend's Wedding	12,3	6	6,3	7	01:45	-	Comedy	Wedding	1997	Julia Roberts	-	P.J. Hogan	English	Min Bästa Väns Bröllop
+915	The Guilty	12,3	6	6,3	7	01:30	-	Thriller	Race against time	2021	Jake Gyllenhaal	Riley Keough	Antoine Fuqua	English	-
+916	American Wedding	12,3	6	6,3	6	01:36	-	Comedy	Wedding	2003	Jason Biggs		Jesse Dylan	English	American Pie - The wedding
+917	Alita: Battle Angel	12,3	5	7,3	5	02:02	-	Sci-fi	Robots	2019	Rosa Salazar	Mahershala Ali	Robert Rodriguez	English	-
+918	All I See Is You	12,3	7	5,3	4	01:49	-	Drama	Self improvement	2016	Blake Lively		Marc Forster	English	-
+919	Pale Rider	12,3	5	7,3	4	01:55	-	Western	Lone protagonist	1985	Clint Eastwood		Clint Eastwood	English	-
+920	Cornelis	12,3	6	6,3	4	01:41	-	Biography	Music	2010	Hans-Erik Dyvik Husby	-	Amir Chamdin	Swedish	-
+921	Flight 93	12,3	6	6,3	3	01:29	-	Drama	Airplane	2006	Jeffrey Nordling		Peter Markle	English	-
+922	Apostle	12,3	6	6,3	3	02:10	-	Horror	Community	2018	Dan Stevens	Michael Sheen	Gareth Evans	English	-
+923	Bränn Alla Mina Brev	12,3	6	6,3	2	02:00	-	Drama	Complicated love	2022	Asta Kamma August	Bill Skarsgård	Björn Runge	Swedish	-
+924	Kept woman	12,3	6	6,3	0	01:23	-	Thriller	Household	2015	Courtney Ford		Michel Poulette	English	-
+925	Young people fucking	12,3	6	6,3	0	01:27	-	Comedy	Sex	2007	Aaron Abrams		Martin Gero	English	YPF
+926	Sällskapsresan eller Finns det svenskt kaffe på grisfesten	12,3	5	7,3	0	01:47	-	Comedy	Idiot	1980	Lasse Åberg		Lasse Åberg	Swedish	-
+927	Spider-Man 3	12,2	6	6,2	20	02:19	-	Action	Superhero	2007	Tobey Maguire		Sam Raimi	English	-
+928	Men In Black II	12,2	6	6,2	15	01:28	-	Comedy	Aliens	2002	Will Smith		Barry Sonnenfeld	English	-
+929	Anger Management	12,2	6	6,2	12	01:46	-	Comedy	Self improvement	2003	Adam Sandler		Peter Segal	English	-
+930	Pitch Perfect	12,2	5	7,2	8	01:52	-	Comedy	Music	2012	Anna Kendrick		Jason Moore	English	-
+931	Indiana Jones And The Kingdom Of The Crystal Skull	12,2	6	6,2	8	02:02	-	Adventure	Treasure hunt	2008	Harrison Ford		Steven Spielberg	English	Indiana Jones och kristalldödskallens rike
+932	Freaky Friday	12,2	6	6,2	6	01:37	-	Comedy	Transformation	2003	Jamie Lee Curtis		Mark Waters	English	-
+933	Below	12,2	6	6,2	6	01:45	-	Horror	WWII	2002	Bruce Greenwood		David Twohy	English	-
+934	Knowing	12,2	6	6,2	4	02:01	-	Mystery	Race against time	2009	Nicolas Cage		Alex Proyas	English	-
+935	Case 39	12,2	6	6,2	4	01:49	-	Mystery	Investigation	2009	Renée Zellweger		Christian Alvart	English	-
+936	Jag Kommer Hem Igen Till Jul	12,2	6	6,2	3	01:53	-	Drama	Christmas	2019	Peter Jöback	Lars Väringer	Ella Lemhagen	Swedish	-
+937	Varn!ng för Jönssonligan	12,2	6	6,2	2	01:29	-	Comedy	Heist	1981	Gösta Ekman		Jonas Cornell	Swedish	Varning för Jönssonligan
+938	Elephant	12,2	5	7,2	1	01:21	-	Drama	School	2003	Elias McConnell		Gus Van Sant	English	-
+939	The Visit	12,2	6	6,2	0	01:34	-	Horror	Vacation	2015	Olivia DeJonge		M. Night Shyamalan	English	-
+940	Verónica	12,2	6	6,2	0	01:45	-	Horror	Possession	2017	Sandra Escacena		Paco Plaza	Spanish	-
+941	Jag Är Zlatan	12,2	6	6,2	0	01:40	-	Biography	Soccer	2021	Granit Rushiti	-	Jens Sjögren	Swedish	I Am Zlatan
+942	Cars	12,1	5	7,1	34	01:57	-	Animation	Racing	2006	Owen Wilson		John Lasseter	English	Bilar
+943	Pearl Harbor	12,1	6	6,1	26	03:03	-	Action	WWII	2001	Ben Affleck		Michael Bay	English	-
+944	Man Of Steel	12,1	5	7,1	11	02:23	-	Action	Superhero	2013	Henry Cavill		Zack Snyder	English	-
+945	The 40 Year Old Virgin	12,1	5	7,1	10	01:56	-	Comedy	Sex	2005	Steve Carell		Judd Apatow	English	The 40-Year-Old Virgin
+946	Inkheart	12,1	6	6,1	10	01:46	-	Adventure	Author	2008	Brendan Fraser		Iain Softley	English	Bläckhjärta
+947	Van Helsing	12,1	6	6,1	9	02:11	-	Fantasy	Vampires	2004	Hugh Jackman		Stephen Sommers	English	-
+948	Die Another Day	12,1	6	6,1	8	02:13	-	Action	Agent	2002	Pierce Brosnan		Lee Tamahori	English	-
+949	Melancholia	12,1	5	7,1	8	02:15	-	Drama	Psychological	2011	Kirsten Dunst		Lars von Trier	English	-
+950	Shall We Dance	12,1	6	6,1	8	01:46	-	Romance	Romcom	2004	Richard Gere		Peter Chelsom	English	-
+951	Never Let Me Go	12,1	5	7,1	8	01:43	-	Drama	Friendship	2010	Carey Mulligan	-	Mark Romanek	English	-
+952	Die Hard 2	12,1	5	7,1	7	02:04	-	Action	Lone protagonist	1990	Bruce Willis		Renny Harlin	English	-
+953	City By The Sea	12,1	6	6,1	7	01:48	-	Drama	Police	2002	Robert de Niro		Michael Caton-Jones	English	Mark Of A Murderer
+954	Mission: Impossible II	12,1	6	6,1	6	02:03	-	Action	Agent	2000	Tom Cruise		John Woo	English	-
+955	Flight Of The Phoenix	12,1	6	6,1	6	01:53	-	Adventure	Survival	2004	Dennis Quaid		John Moore	English	
+956	Anastasia	12,1	5	7,1	6	01:34	-	Animation	Monarchy	1997	Meg Ryan		Don Bluth	English	-
+957	Jönssonligan Får Guldfeber	12,1	6	6,1	5	01:41	-	Comedy	Heist	1984	Gösta Ekman		Mikael Ekman	Swedish	-
+958	Johnny English	12,1	6	6,1	5	01:28	-	Comedy	Agent	2003	Rowan Atkinson		Peter Howitt	English	
+959	En Dag Kommer Allt Det Här Bli Ditt	12,1	6	6,1	5	01:45	-	Drama	Community	2023	Karin Franz Körlof	-	Andreas Öhman	Swedish	One Day All This Will Be Yours
+960	Easy A	12,1	5	7,1	4	01:32	-	Comedy	Sex	2010	Emma Stone		Will Gluck	English	
+961	The Empty Man	12,1	6	6,1	4	02:17	-	Horror	Investigation	2020	James Badge Dale	Brian Steele	David Prior	English	-
+962	The Intern	12,1	5	7,1	4	02:01	-	Comedy	Old timers	2015	Robert de Niro		Nancy Meyers	English	
+963	The Sentinel	12,1	6	6,1	3	01:48	-	Thriller	Chase	2006	Michael Douglas		Clark Johnson	English	
+964	Fasandraeberne	12,1	5	7,1	1	01:59	-	Thriller	Investigation	2014	Nikolaj Lie Kaas		Mikkel Nörgaard	Danish	
+965	Transformers: Revenge Of The Fallen	12,0	6	6,0	17	02:30	-	Action	Aliens	2009	Shia Labeouf		Michael Bay	English	Transformers - de besegrades hämnd
+966	My Week With Marilyn	12,0	5	7,0	12	01:39	-	Biography	Music	2011	Eddie Redmayne		Simon Curtis	English	-
+967	Jimmy Neutron: boy genius	12,0	6	6,0	10	01:22	-	Animation	Aliens	2001	Debi Derryberry		John A. Davis	English	
+968	Cowboys & Aliens	12,0	6	6,0	10	01:59	-	Western	Aliens	2011	Daniel Craig		Jon Favreau	English	-
+969	Exodus: Gods And Kings	12,0	6	6,0	9	02:30	-	Adventure	Religion	2014	Christian Bale		Ridley Scott	English	-
+970	Pawn Sacrifice	12,0	5	7,0	8	01:55	-	Biography	Psychological	2014	Tobey Maguire		Edward Zwick	English	
+971	Pacific Rim	12,0	5	7,0	8	02:11	-	Sci-fi	Robots	2013	Charlie Hunnam		Guillermo del Toro	English	-
+972	Four Weddings And A Funeral	12,0	5	7,0	7	01:57	-	Comedy	Wedding	1994	Hugh Grant	-	Mike Newell	English	Fyra Bröllop Och En Begravning
+973	Game Night	12,0	5	7,0	7	01:40	-	Comedy	Puzzle	2018	Jason Bateman		John Francis Daley & Jonathan Goldstein	English	-
+974	Coming To America	12,0	5	7,0	7	01:56	-	Comedy	Monarchy	1988	Eddie Murphy		John Landis	English	En Prins I New York
+975	Maleficient	12,0	5	7,0	5	01:37	-	Family	Magic	2014	Angelina Jolie		Robert Stromberg	English	-
+976	Foxcatcher	12,0	5	7,0	5	02:14	-	Biography	Sports	2014	Channing Tatum	Steve Carell	Bennett Miller	English	-
+977	Chicken Run	12,0	5	7,0	4	01:24	-	Animation	Project	2000	Mel Gibson		Nick Park	English	Flykten Från Hönsgården
+978	Cinderella	12,0	5	7,0	4	01:45	-	Family	Monarchy	2015	Lily James		Kenneth Branagh	English	
+979	Saw VI	12,0	6	6,0	4	01:30	-	Horror	Puzzle	2009	Tobin Bell		Kevin Greutert	English	
+980	Casper	12,0	6	6,0	4	01:40	-	Family	Supernatural	1995	Bill Pullman		Brad Silberling	English	
+981	Gorillas in the mist: the story of Dian Fossey	12,0	5	7,0	2	02:09	-	Biography	Animals	1988	Sigourney Weaver		Michael Apted	English	
+982	Anklaget	12,0	5	7,0	0	01:43	-	Drama	Falsely accused	2005	Troels Lyby		Jacob Thuesen	Danish	
+983	Gekijô-ban poketto monsutâ: Maboroshi no pokemon: Rugia bakutan	12,0	6	6,0	0	01:24	-	Animation	Anime	1999	Rica Matsumoto		Michael Haigney	Japanese	
+984	UFO Sweden	12,0	5	7,0	0	01:55	-	Sci-fi	Space	2022	Inez Dahl Torhaug	Håkan Ehn	Victor Danell	Swedish	-
+985	Captain America: The First Avenger	11,9	5	6,9	14	02:04	-	Action	Superhero	2011	Chris Evans		Joe Johnston	English	-
+986	Vegas Vacation	11,9	6	5,9	9	01:33	-	Comedy	Vacation	1997	Chevy Chase		Stephen Kessler	English	Ett päron till farsa i Las Vegas
+987	The Book Of Eli	11,9	5	6,9	9	01:58	-	Sci-fi	Future	2010	Denzel Washington		Albert & Allen Hughes	English	-
+988	The Holiday	11,9	5	6,9	8	02:18	-	Romance	Romcom	2006	Kate Winslet		Nancy Meyers	English	
+989	Stuart Little	11,9	6	5,9	8	01:24	-	Family	Animals	1999	Michael J. Fox		Rob Minkoff	English	-
+990	G.I. Jane	11,9	6	5,9	8	02:05	-	Drama	Girl power	1997	Demi Moore		Ridley Scott	English	-
+991	Stay	11,9	5	6,9	8	01:39	-	Drama	Psychological	2005	Ewan McGregor		Marc Forster	English	-
