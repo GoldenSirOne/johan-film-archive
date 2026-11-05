@@ -43,15 +43,48 @@ function openModal(m){const p=$("#movie-modal");$("#modal-poster").style.backgro
 function closeModal(){$("#movie-modal").classList.remove("open");$("#movie-modal").setAttribute("aria-hidden","true");document.body.style.overflow=""}
 function renderRankings(){const ordered=[...movies].sort((a,b)=>rank(a)-rank(b));const best=ordered[0],worst=ordered[ordered.length-1],highest=[...movies].filter(m=>score(m)!==null).sort((a,b)=>score(b)-score(a))[0];$("#ranking-highlight").innerHTML=[[`#${rank(best)}`,best.Movies,"TOP PERSONAL RANK"],[score(highest),highest.Movies,"HIGHEST PERSONAL SCORE"],[`#${rank(worst)}`,worst.Movies,"LOWEST PERSONAL RANK"]].map(([n,t,l])=>`<div class="highlight-card"><div class="highlight-number">${n}</div><div><strong>${esc(t)}</strong><span>${l}</span></div></div>`).join("");renderRankTable()}
 function renderRankTable(){const rows=[...movies].sort((a,b)=>rank(a)-rank(b)).slice(0,rankLimit);$("#ranking-table").innerHTML=rows.map(m=>`<tr data-key="${movies.indexOf(m)}"><td>${rank(m)}</td><td>${esc(m.Movies)}</td><td>${esc(clean(m.Year))}</td><td>${esc(clean(m.Director))}</td><td>${esc(clean(m.Genre))}</td><td>${imdb(m)??"—"}</td><td><span class="score-pill">${score(m)??"—"}</span></td></tr>`).join("");$("#ranking-count").textContent=`Showing ${rows.length} of ${movies.length}`;$("#show-more-ranks").style.display=rankLimit>=movies.length?"none":"inline";$$('#ranking-table tr').forEach(tr=>tr.addEventListener("click",()=>openModal(movies[Number(tr.dataset.key)])))}
+
+function renderTimeline(){
+ const map=new Map();
+ movies.forEach(m=>{const y=year(m);if(!y||y<1880||y>2100)return;const d=Math.floor(y/10)*10;if(!map.has(d))map.set(d,[]);map.get(d).push(m)});
+ const decades=[...map].sort((a,b)=>a[0]-b[0]);
+ $("#timeline-decades").textContent=decades.length;
+ $("#timeline-grid").innerHTML=decades.map(([d,films])=>{const rated=films.map(score).filter(x=>x!==null);const top=[...films].sort((a,b)=>(score(b)??0)-(score(a)??0))[0];return '<button class="decade-card" data-decade="'+d+'"><span class="decade-years">'+d+'s</span><strong>'+films.length+'</strong><span class="decade-count">FILMS IN YOUR ARCHIVE</span><span class="decade-average">AVG '+avg(rated).toFixed(1)+' / 10</span><span class="decade-sample">'+esc(top?.Movies||"")+'</span></button>'}).join("");
+ $(".decade-card").forEach(b=>b.addEventListener("click",()=>renderDecadeDetail(Number(b.dataset.decade),map.get(Number(b.dataset.decade))||[])));
+}
+function renderDecadeDetail(decade,films){
+ const sorted=[...films].sort((a,b)=>rank(a)-rank(b));
+ const directors=[...new Set(films.map(m=>clean(m.Director)).filter(x=>x!=="—"))].slice(0,5);
+ $("#timeline-detail").innerHTML='<div class="panel-head"><div><span class="panel-kicker">THE '+decade+'s / '+films.length+' FILMS</span><h3>Stories from '+decade+'–'+(decade+9)+'</h3></div><span class="panel-meta">TOP PERSONAL RANK FIRST</span></div><p class="muted-copy">Notable filmmakers: '+directors.map(esc).join(" · ")+'</p><div class="timeline-film-grid">'+sorted.slice(0,12).map(card).join("")+'</div>';
+ bindCards();
+}
+function renderRouletteFilters(){
+ const genres=[...new Set(movies.map(m=>clean(m.Genre)).filter(x=>x!=="—"))].sort();
+ $("#roulette-genre").innerHTML='<option value="">Any genre</option>'+genres.map(g=>'<option value="'+esc(g)+'">'+esc(g)+'</option>').join("");
+ const decades=[...new Set(movies.map(year).filter(Boolean).map(y=>Math.floor(y/10)*10))].sort((a,b)=>b-a);
+ $("#roulette-decade").innerHTML='<option value="">Any decade</option>'+decades.map(d=>'<option value="'+d+'">'+d+'s</option>').join("");
+}
+function spinRoulette(){
+ const genre=$("#roulette-genre").value,decade=$("#roulette-decade").value,minImdb=Number($("#roulette-imdb").value),minScore=Number($("#roulette-score").value);
+ const candidates=movies.filter(m=>(!genre||m.Genre===genre)&&(!decade||Math.floor((year(m)||0)/10)*10===Number(decade))&&(imdb(m)??0)>=minImdb&&(score(m)??0)>=minScore);
+ const result=$("#roulette-result");
+ if(!candidates.length){result.innerHTML='<div class="roulette-empty"><span class="panel-kicker">NO MATCHES FOUND</span><h3>Too selective?</h3><p>Try relaxing one or more filters.</p></div>';return}
+ const chosen=candidates[Math.floor(Math.random()*candidates.length)];
+ result.innerHTML='<div class="roulette-picked"><div><span class="panel-kicker">THE ROULETTE HAS SPOKEN</span><h3>Your next film.</h3><p class="muted-copy">'+candidates.length+' matching films in the draw</p></div><div class="roulette-picked-card"><div>'+posterMarkup(chosen)+'</div><div class="roulette-film-meta"><strong>'+esc(chosen.Movies)+'</strong><span>'+clean(chosen.Year)+' · '+esc(clean(chosen.Genre))+'</span><div class="roulette-scores"><span>YOUR RATING <b>'+(score(chosen)??"—")+'</b></span><span>IMDb <b>'+(imdb(chosen)??"—")+'</b></span></div><button class="text-btn" id="roulette-open">OPEN FILM FILE ↗</button></div></div><button class="primary-btn" id="spin-again">SPIN AGAIN ↻</button></div>';
+ $("#roulette-open").addEventListener("click",()=>openModal(chosen));
+ $("#spin-again").addEventListener("click",spinRoulette);
+}
+
 function renderInsights(){const scores=movies.map(score).filter(x=>x!==null),years=movies.map(year).filter(x=>x!==null),imdbs=movies.map(imdb).filter(x=>x!==null);const decadeMap=new Map();years.forEach(y=>{let d=Math.floor(y/10)*10;decadeMap.set(d,(decadeMap.get(d)||0)+1)});const decades=[...decadeMap].sort((a,b)=>b[1]-a[1]).slice(0,8).map(([d,n])=>[`${d}s`,n]);const dirs=topCounts("Director",8);const above=movies.filter(m=>score(m)!==null&&imdb(m)!==null&&score(m)>imdb(m));const below=movies.filter(m=>score(m)!==null&&imdb(m)!==null&&score(m)<imdb(m));const cards=[["MOST WATCHED DECADE",decades[0]?.[0]||"—",`${decades[0]?.[1]||0} films`],["PERSONAL VS IMDb",`${above.length} >`,`${below.length} films rated below IMDb`],["AVERAGE RUNTIME",(()=>{let mins=movies.map(m=>{let t=String(m.Length||"").split(":");return t.length===2?Number(t[0])*60+Number(t[1]):null}).filter(x=>x!==null);return mins.length?Math.round(avg(mins))+" min":"—"})(),"Across films with runtime data"],["RATING 8–10",`${(scores.filter(x=>x>=8).length/scores.length*100).toFixed(1)}%`,"Of all personally rated films"]];$("#insights-cards").innerHTML=cards.map(([l,v,s])=>`<div class="insight-card"><span>${l}</span><strong>${v}</strong><small>${s}</small></div>`).join("");chartBars("#decade-chart",decades);chartBars("#director-chart",dirs)}
-function showView(name){$$(".view").forEach(v=>v.classList.remove("active-view"));$(`#${name}-view`).classList.add("active-view");$$(".nav-item[data-view]").forEach(b=>b.classList.toggle("active",b.dataset.view===name));$("#crumb").textContent=name.toUpperCase();window.scrollTo({top:0,behavior:"smooth"});if(name==="library")applyFilters()}
-async function init(){try{const res=await fetch(DATA_URL);if(!res.ok)throw new Error("Could not load the movie data");movies=await res.json();movies.sort((a,b)=>rank(a)-rank(b));$("#nav-count").textContent=fmt(movies.length);renderOverview();populateFilters();filtered=[...movies];renderLibrary();renderRankings();renderInsights();}catch(e){document.querySelector(".main").innerHTML=`<div class="panel" style="margin:50px">Could not load the movie archive. ${esc(e.message)}<br><br>Run this site through a local web server, or deploy the complete folder to GitHub Pages.</div>`}}
+function showView(name){$$(".view").forEach(v=>v.classList.remove("active-view"));$(`#${name}-view`).classList.add("active-view");$$(".nav-item[data-view]").forEach(b=>b.classList.toggle("active",b.dataset.view===name));$("#crumb").textContent=name.toUpperCase();window.scrollTo({top:0,behavior:"smooth"});if(name==="library")applyFilters();if(name==="timeline")renderTimeline()}
+async function init(){try{const res=await fetch(DATA_URL);if(!res.ok)throw new Error("Could not load the movie data");movies=await res.json();movies.sort((a,b)=>rank(a)-rank(b));$("#nav-count").textContent=fmt(movies.length);renderOverview();populateFilters();filtered=[...movies];renderLibrary();renderRankings();renderInsights();renderTimeline();renderRouletteFilters();}catch(e){document.querySelector(".main").innerHTML=`<div class="panel" style="margin:50px">Could not load the movie archive. ${esc(e.message)}<br><br>Run this site through a local web server, or deploy the complete folder to GitHub Pages.</div>`}}
 $$(".nav-item[data-view]").forEach(b=>b.addEventListener("click",()=>showView(b.dataset.view)));
 $$("[data-goto]").forEach(b=>b.addEventListener("click",()=>showView(b.dataset.goto)));
 ["search","genre-filter","rating-filter","sort-filter"].forEach(id=>$("#"+id).addEventListener(id==="search"?"input":"change",applyFilters));
 $("#prev-page").addEventListener("click",()=>{if(page>1){page--;renderLibrary()}});
 $("#next-page").addEventListener("click",()=>{if(page<Math.ceil(filtered.length/pageSize)){page++;renderLibrary()}});
 $("#view-toggle").addEventListener("click",()=>{listMode=!listMode;$("#view-toggle").textContent=listMode?"▦":"☷";renderLibrary()});
+$("#spin-roulette").addEventListener("click",spinRoulette);
 $("#show-more-ranks").addEventListener("click",()=>{rankLimit=Math.min(rankLimit+100,movies.length);renderRankTable()});
 $("#modal-close").addEventListener("click",closeModal);$("#movie-modal").addEventListener("click",e=>{if(e.target.id==="movie-modal")closeModal()});
 document.addEventListener("keydown",e=>{if(e.key==="Escape")closeModal();if((e.metaKey||e.ctrlKey)&&e.key.toLowerCase()==="k"){e.preventDefault();showView("library");$("#search").focus()}});
