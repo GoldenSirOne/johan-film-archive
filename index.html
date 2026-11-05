@@ -23,6 +23,8 @@
         <button class="nav-item active" data-view="overview"><span>◫</span> Overview</button>
         <button class="nav-item" data-view="library"><span>▤</span> All films <em id="nav-count">1,253</em></button>
         <button class="nav-item" data-view="rankings"><span>↕</span> Rankings</button>
+        <button class="nav-item" data-view="timeline"><span>▥</span> Timeline</button>
+        <button class="nav-item" data-view="roulette"><span>⟳</span> Film Roulette</button>
         <button class="nav-item" data-view="insights"><span>◷</span> Insights</button>
       </nav>
       <div class="side-divider"></div>
@@ -102,7 +104,21 @@
         </div>
       </section>
 
-      <section id="insights-view" class="view">
+      <section id="timeline-view" class="view">
+<div class="page-intro"><div><div class="eyebrow">A CENTURY OF CINEMA</div><h1>Film timeline<span>.</span></h1><p>Explore your collection decade by decade.</p></div><div class="collection-total"><strong id="timeline-decades">—</strong><span>DECADES</span></div></div>
+<div id="timeline-grid" class="timeline-grid"></div><article class="panel timeline-detail" id="timeline-detail"><h3>Select a decade</h3><p class="muted-copy">Choose an era above to explore its films.</p></article>
+</section>
+<section id="roulette-view" class="view">
+<div class="page-intro"><div><div class="eyebrow">LET FATE PICK TONIGHT'S FILM</div><h1>Film roulette<span>.</span></h1><p>Set your mood and let FRAME find a film.</p></div></div>
+<div class="roulette-layout"><article class="panel roulette-controls"><div class="panel-head"><div><span class="panel-kicker">YOUR CRITERIA</span><h3>What are we in the mood for?</h3></div></div>
+<label class="roulette-field"><span>GENRE</span><select id="roulette-genre"><option value="">Any genre</option></select></label>
+<label class="roulette-field"><span>DECADE</span><select id="roulette-decade"><option value="">Any decade</option></select></label>
+<label class="roulette-field"><span>MINIMUM IMDb RATING</span><select id="roulette-imdb"><option value="0">Any rating</option><option value="6">6.0+</option><option value="7">7.0+</option><option value="8">8.0+</option><option value="8.5">8.5+</option><option value="9">9.0+</option></select></label>
+<label class="roulette-field"><span>MINIMUM PERSONAL RATING</span><select id="roulette-score"><option value="0">Any rating</option><option value="6">6+</option><option value="7">7+</option><option value="8">8+</option><option value="9">9+</option><option value="10">10 only</option></select></label>
+<button id="spin-roulette" class="primary-btn roulette-spin">SPIN THE ROULETTE ↻</button><p class="roulette-note">A random draw from films matching your filters.</p></article>
+<article class="panel roulette-result" id="roulette-result"><div class="roulette-empty"><div class="roulette-orbit">↻</div><span class="panel-kicker">YOUR NEXT FILM AWAITS</span><h3>Leave it to chance.</h3><p>Choose your criteria and spin.</p></div></article></div>
+</section>
+<section id="insights-view" class="view">
         <div class="page-intro"><div><div class="eyebrow">PATTERNS & PERSPECTIVES</div><h1>Behind the ratings<span>.</span></h1><p>A closer look at the patterns in your film taste.</p></div></div>
         <div class="insights-grid" id="insights-cards"></div>
         <div class="dashboard-grid">
