@@ -1,0 +1,134 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#101114">
+  <meta name="description" content="A personal cinema archive — 1,253 films, ranked and rated.">
+  <title>Johan's Film Archive</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar">
+      <a class="brand" href="#" aria-label="Film Archive home">
+        <span class="brand-mark">F<span>.</span></span>
+        <span class="brand-copy"><strong>FRAME</strong><small>PERSONAL FILM ARCHIVE</small></span>
+      </a>
+      <div class="side-label">YOUR COLLECTION</div>
+      <nav class="nav">
+        <button class="nav-item active" data-view="overview"><span>◫</span> Overview</button>
+        <button class="nav-item" data-view="library"><span>▤</span> All films <em id="nav-count">1,253</em></button>
+        <button class="nav-item" data-view="rankings"><span>↕</span> Rankings</button>
+        <button class="nav-item" data-view="insights"><span>◷</span> Insights</button>
+      </nav>
+      <div class="side-divider"></div>
+      <div class="side-label">QUICK FILTERS</div>
+      <nav class="nav">
+        <button class="nav-item quick-filter" data-rating="10"><span class="rating-dot gold"></span> Masterpieces</button>
+        <button class="nav-item quick-filter" data-rating="9"><span class="rating-dot green"></span> Exceptional</button>
+        <button class="nav-item quick-filter" data-rating="8"><span class="rating-dot blue"></span> Great films</button>
+        <button class="nav-item quick-filter" data-rating="5"><span class="rating-dot muted"></span> Disappointments</button>
+      </nav>
+      <div class="sidebar-bottom">
+        <div class="profile-chip"><div class="avatar">J</div><div><strong>Johan's archive</strong><small>1,253 films logged</small></div></div>
+        <div class="sidebar-foot">A LIFE IN CINEMA<br><span>EST. 2026</span></div>
+      </div>
+    </aside>
+
+    <main class="main">
+      <header class="topbar">
+        <div class="mobile-brand">FRAME <span> / ARCHIVE</span></div>
+        <div class="breadcrumbs">YOUR COLLECTION <span>/</span> <b id="crumb">OVERVIEW</b></div>
+        <div class="top-actions"><span class="live-dot"></span><span>PRIVATE COLLECTION</span><button id="theme-toggle" title="Toggle contrast">◐</button></div>
+      </header>
+
+      <section id="overview-view" class="view active-view">
+        <div class="hero">
+          <div class="hero-copy">
+            <div class="eyebrow"><span class="eyebrow-line"></span> THE PERSONAL CINEMA INDEX</div>
+            <h1>Every film leaves<br><i>a mark.</i></h1>
+            <p>A living archive of everything you've watched, ranked by the only critic that matters: you.</p>
+            <button class="primary-btn" data-goto="library">EXPLORE THE COLLECTION <span>↗</span></button>
+          </div>
+          <div class="hero-art" aria-hidden="true">
+            <div class="orbit orbit-one"></div><div class="orbit orbit-two"></div>
+            <div class="hero-reel"><div class="reel-hole h1"></div><div class="reel-hole h2"></div><div class="reel-hole h3"></div><div class="reel-hole h4"></div><div class="reel-hole h5"></div><div class="reel-hole h6"></div><div class="reel-center"></div></div>
+            <div class="hero-caption">01 — 1253<br><span>THE COMPLETE PICTURE</span></div>
+          </div>
+        </div>
+
+        <div class="stats-grid" id="stat-cards"></div>
+
+        <div class="section-heading"><div><div class="eyebrow">THE BIG PICTURE</div><h2>Your taste, in numbers.</h2></div><span class="section-note">BASED ON YOUR PERSONAL RATINGS</span></div>
+        <div class="dashboard-grid">
+          <article class="panel rating-panel">
+            <div class="panel-head"><div><span class="panel-kicker">01 / DISTRIBUTION</span><h3>Rating spectrum</h3></div><span class="panel-meta">OUT OF 10</span></div>
+            <div id="rating-chart" class="rating-chart"></div>
+          </article>
+          <article class="panel">
+            <div class="panel-head"><div><span class="panel-kicker">02 / GENRES</span><h3>Where you spend your time</h3></div><span class="panel-meta">TOP 6</span></div>
+            <div id="genre-chart" class="horizontal-chart"></div>
+          </article>
+        </div>
+        <div class="section-heading compact"><div><div class="eyebrow">CURATED BY YOURSELF</div><h2>Personal hall of fame.</h2></div><button class="text-btn" data-goto="rankings">VIEW ALL RANKINGS ↗</button></div>
+        <div class="featured-grid" id="featured-films"></div>
+      </section>
+
+      <section id="library-view" class="view">
+        <div class="page-intro"><div><div class="eyebrow">THE COMPLETE COLLECTION</div><h1>The film library<span>.</span></h1><p>1,253 stories. One very personal ranking.</p></div><div class="collection-total"><strong id="library-total">1,253</strong><span>FILMS IN ARCHIVE</span></div></div>
+        <div class="toolbar">
+          <label class="searchbox"><span>⌕</span><input id="search" type="search" placeholder="Search titles, directors, actors..." autocomplete="off"><kbd>⌘ K</kbd></label>
+          <select id="genre-filter"><option value="">All genres</option></select>
+          <select id="rating-filter"><option value="">Any rating</option><option value="10">10 — Masterpiece</option><option value="9">9 — Exceptional</option><option value="8">8 — Great</option><option value="7">7 — Good</option><option value="6">6 — Average</option><option value="5">5 — Poor</option><option value="4">4 or below</option></select>
+          <select id="sort-filter"><option value="rank-asc">My ranking: best first</option><option value="rank-desc">My ranking: worst first</option><option value="year-desc">Year: newest first</option><option value="year-asc">Year: oldest first</option><option value="imdb-desc">IMDb: highest first</option><option value="rating-desc">My rating: highest first</option><option value="title-asc">Title: A–Z</option></select>
+          <button id="view-toggle" class="icon-btn" title="Toggle list/grid">☷</button>
+        </div>
+        <div class="results-line"><span id="result-count">Showing 1–48 of 1,253</span><span>SELECT A FILM TO OPEN ITS FILE</span></div>
+        <div id="movie-grid" class="movie-grid"></div>
+        <div class="pagination"><button id="prev-page" class="page-btn">← PREVIOUS</button><span id="page-label">PAGE 1 / 27</span><button id="next-page" class="page-btn">NEXT →</button></div>
+      </section>
+
+      <section id="rankings-view" class="view">
+        <div class="page-intro"><div><div class="eyebrow">THE DEFINITIVE ORDER</div><h1>The rankings<span>.</span></h1><p>Your films, from unforgettable to forgettable.</p></div></div>
+        <div class="ranking-highlight" id="ranking-highlight"></div>
+        <div class="panel table-panel">
+          <div class="panel-head"><div><span class="panel-kicker">ALL 1,253 ENTRIES</span><h3>The complete leaderboard</h3></div><span class="panel-meta">SORTED BY PERSONAL RANK</span></div>
+          <div class="table-scroll"><table><thead><tr><th>RANK</th><th>FILM</th><th>YEAR</th><th>DIRECTOR</th><th>GENRE</th><th>IMDb</th><th>MY SCORE</th></tr></thead><tbody id="ranking-table"></tbody></table></div>
+          <div class="table-footer"><span id="ranking-count">Showing top 100</span><button id="show-more-ranks" class="text-btn">SHOW MORE ↓</button></div>
+        </div>
+      </section>
+
+      <section id="insights-view" class="view">
+        <div class="page-intro"><div><div class="eyebrow">PATTERNS & PERSPECTIVES</div><h1>Behind the ratings<span>.</span></h1><p>A closer look at the patterns in your film taste.</p></div></div>
+        <div class="insights-grid" id="insights-cards"></div>
+        <div class="dashboard-grid">
+          <article class="panel"><div class="panel-head"><div><span class="panel-kicker">03 / TIME</span><h3>Your decades of cinema</h3></div></div><div id="decade-chart" class="horizontal-chart"></div></article>
+          <article class="panel"><div class="panel-head"><div><span class="panel-kicker">04 / FILMMAKERS</span><h3>Directors in your collection</h3></div></div><div id="director-chart" class="horizontal-chart"></div></article>
+        </div>
+        <div class="panel data-note"><span class="panel-kicker">A NOTE ON THE DATA</span><p>This archive displays the supplied spreadsheet values as provided. Personal rank, personal rating and IMDb rating are treated as separate fields. Missing or non-numeric values are excluded from averages and charts. The original data is included in the repository under <code>data/movies.json</code>.</p></div>
+      </section>
+
+      <footer class="footer"><span>FRAME / PERSONAL FILM ARCHIVE</span><span>MADE FOR THE LOVE OF CINEMA <b>✳</b></span></footer>
+    </main>
+  </div>
+
+  <div class="modal-backdrop" id="movie-modal" aria-hidden="true">
+    <div class="movie-modal" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+      <button class="modal-close" id="modal-close" aria-label="Close">×</button>
+      <div class="modal-poster" id="modal-poster"><span class="poster-index"></span><span class="poster-title"></span><span class="poster-year"></span></div>
+      <div class="modal-content">
+        <div class="eyebrow">FILM FILE <span id="modal-rank"></span></div>
+        <h2 id="modal-title"></h2><p class="modal-translated" id="modal-translated"></p>
+        <div class="score-row"><div><span>YOUR RATING</span><strong id="modal-score"></strong></div><div><span>IMDb RATING</span><strong id="modal-imdb"></strong></div><div><span>RANK</span><strong id="modal-position"></strong></div></div>
+        <div class="detail-grid" id="modal-details"></div>
+        <div class="modal-bottom"><span id="modal-runtime"></span><span id="modal-awards"></span></div>
+      </div>
+    </div>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>
