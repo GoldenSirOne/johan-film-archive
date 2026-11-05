@@ -1,4 +1,4 @@
-# FRAME — Johan's Personal Film Archive
+# FRAME — Johan's Personal Film Archive 
 
 A responsive, interactive movie library built from the supplied movie-rating spreadsheet.
 
