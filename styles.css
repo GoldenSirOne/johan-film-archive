@@ -12,3 +12,10 @@
 body.light .decade-card{background:linear-gradient(145deg,#faf9f6,#e9e6df);color:#25252a}body.light .roulette-field select{background:#faf9f6;color:#25252a}
 @media(max-width:850px){.timeline-grid{grid-template-columns:repeat(3,minmax(0,1fr))}.timeline-film-grid{grid-template-columns:repeat(4,minmax(0,1fr))}.roulette-layout{grid-template-columns:1fr}}
 @media(max-width:560px){.timeline-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}.decade-card{min-height:150px;padding:13px}.timeline-film-grid{grid-template-columns:repeat(3,minmax(0,1fr));gap:9px}.roulette-result{min-height:350px}.roulette-picked-card{grid-template-columns:115px 1fr;gap:13px}.roulette-film-meta>strong{font-size:17px}.roulette-scores{gap:12px}.roulette-scores b{font-size:18px}}
+
+
+/* Keep every navigation destination reachable on compact screens. */
+@media(max-width:850px){
+  .sidebar .nav-item:not(.active){display:flex}
+  .sidebar .nav-item{min-height:42px}
+}
