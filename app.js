@@ -50,7 +50,7 @@ function renderTimeline(){
  const decades=[...map].sort((a,b)=>a[0]-b[0]);
  $("#timeline-decades").textContent=decades.length;
  $("#timeline-grid").innerHTML=decades.map(([d,films])=>{const rated=films.map(score).filter(x=>x!==null);const top=[...films].sort((a,b)=>(score(b)??0)-(score(a)??0))[0];return '<button class="decade-card" data-decade="'+d+'"><span class="decade-years">'+d+'s</span><strong>'+films.length+'</strong><span class="decade-count">FILMS IN YOUR ARCHIVE</span><span class="decade-average">AVG '+avg(rated).toFixed(1)+' / 10</span><span class="decade-sample">'+esc(top?.Movies||"")+'</span></button>'}).join("");
- $(".decade-card").forEach(b=>b.addEventListener("click",()=>renderDecadeDetail(Number(b.dataset.decade),map.get(Number(b.dataset.decade))||[])));
+ $("#timeline-grid .decade-card").forEach(b=>b.addEventListener("click",()=>renderDecadeDetail(Number(b.dataset.decade),map.get(Number(b.dataset.decade))||[])));
 }
 function renderDecadeDetail(decade,films){
  const sorted=[...films].sort((a,b)=>rank(a)-rank(b));
